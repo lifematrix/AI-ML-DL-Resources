@@ -16,12 +16,19 @@
 
 * **Who said what: Modeling individual labelers improves classification** (Guang et al; AAAI 2018) [[Paper]](https://arxiv.org/abs/1703.08774)
 
+
 ### 2015
 
 * **Learning from Massive Noisy Labeled Data for Image Classification** (Xiao et al; CVPR 2015) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2015/papers/Xiao_Learning_From_Massive_2015_CVPR_paper.pdf) 
 [[Dataset Clothing1M]](https://www.floydhub.com/lukasmyth/datasets/clothing1m)
 
 * **Training Convolutional Networks with Noisy Labels** (Sukhbaatar et al; ICLR 2015) [[Paper]](https://arxiv.org/abs/1406.2080)
+
+* **Diagnostic concordance among pathologists interpreting breast biopsy specimens** (Elmore et al; JAMA 2015) [[Paper]](https://jamanetwork.com/journals/jama/fullarticle/2203798)
+
+### 1994
+
+* **Variability in radiologists interpretations of mammograms** (Elmore et al) [[Paper]](https://www.nejm.org/doi/full/10.1056/NEJM199412013312206)
 
 ## Dataset
 
