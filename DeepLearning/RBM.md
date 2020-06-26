@@ -2,6 +2,9 @@
 
 ## Paper
 
+### 2019
+
+* **Implicit Generation and Generalization in Energy-Based Models** (Du et al) [[Paper]](https://arxiv.org/abs/1903.08689)  [[Code]](https://sites.google.com/view/igebm) [[Blog]](https://openai.com/blog/energy-based-models/)
 
 ### 2010s
 
@@ -10,3 +13,4 @@
 ## Articles
 
 * [**A Beginner's Guide to Restricted Boltzmann Machines (RBMs)**](https://pathmind.com/wiki/restricted-boltzmann-machine)
+* **Deep Learning meets Physics: Restricted Boltzmann Machines** by Oppermann [[Part I]](https://towardsdatascience.com/deep-learning-meets-physics-restricted-boltzmann-machines-part-i-6df5c4918c15) [[Part II]](https://towardsdatascience.com/deep-learning-meets-physics-restricted-boltzmann-machines-part-ii-4b159dce1ffb)
