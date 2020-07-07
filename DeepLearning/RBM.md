@@ -12,5 +12,7 @@
 
 ## Articles
 
+* [**Deep learning tutorials** on Restricted Boltzmann Machines](http://deeplearning.net/tutorial/rbm.html) by Hinton group
 * [**A Beginner's Guide to Restricted Boltzmann Machines (RBMs)**](https://pathmind.com/wiki/restricted-boltzmann-machine)
-* **Deep Learning meets Physics: Restricted Boltzmann Machines** by Oppermann [[Part I]](https://towardsdatascience.com/deep-learning-meets-physics-restricted-boltzmann-machines-part-i-6df5c4918c15) [[Part II]](https://towardsdatascience.com/deep-learning-meets-physics-restricted-boltzmann-machines-part-ii-4b159dce1ffb)
+* **Deep Learning meets Physics: Restricted Boltzmann Machines** by Oppermann [[Part I]](https://towardsdatascience.com/deep-learning-meets-physics-restricted-boltzmann-machines-part-i-6df5c4918c15) [[Part II]](https://towardsdatascience.com/deep-learning-meets-physics-restricted-boltzmann-machines-part-ii-4b159dce1ffb) [[Code]](https://github.com/artem-oppermann/Restricted-Boltzmann-Machine)
+* [**Explainable Restricted Boltzmann Machine for Collaborative Filtering**](https://medium.com/@tanaykarmarkar/explainable-restricted-boltzmann-machine-for-collaborative-filtering-6f011035352d) by Karmarkar

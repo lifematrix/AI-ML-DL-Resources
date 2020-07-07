@@ -16,6 +16,9 @@
 ## Image inpaiting
 
 
+## Common
+
+* **Understanding deep learning requires rethinking generalization** (Zhang et al.; ICLR 2017) [[Paper]](https://arxiv.org/abs/1611.03530)
 ### Articles
 
 * [Image Inpainting with Deep Learning](https://medium.com/jamieai/image-inpainting-with-deep-learning-dd8555e56a32) by Tarun Bonu
