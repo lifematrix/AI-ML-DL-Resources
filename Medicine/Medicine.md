@@ -1,17 +1,25 @@
 
 ## Medical Image Generation
 
+### 2019
+
 * **Retinal Image Synthesis From Multiple-Landmarks Input With Generative Adversarial Networks**
   (Yu et al.; 2019) [[Paper]](https://biomedical-engineering-online.biomedcentral.com/track/pdf/10.1186/s12938-019-0682-x)
+
+* **Learning More with Less: Conditional PGGAN-based Data Augmentation for Brain Metastases Detection Using Highly-Rough Annotation on MR Images** 
+    (Han et al.; CIKM 2019) [[Paper]](https://arxiv.org/abs/1902.09856)
+
+* **SkrGAN: Sketching-rendering Unconditional Generative Adversarial Networks for Medical Image Synthesis** (Zhang et al. MICCAI 2019) [[Paper]](https://arxiv.org/abs/1908.04346)
+### 2018
+
+* **End-to-End Adversarial Retinal Image Synthesis** (Costa et al.; 2018) [[Paper]](https://repositorio.inesctec.pt/bitstream/123456789/8302/1/P-00N-22X.pdf) [[Code]](https://github.com/ costapt/adversarial_retinal_synthesis)
+
+### 2017
 
 * **Towards Adversarial Retinal Image Synthesis** (Costa et al.; 2017) [[Paper]](https://arxiv.org/abs/1701.08974) [[Code]](https://github.com/costapt/vess2ret)
 
 * **Generative Adversarial Network in Medical Imaging: A Review** (Yi et al.) [[Paper]](https://arxiv.org/pdf/1809.07294v4.pdf)
 
-* **Learning More with Less: Conditional PGGAN-based Data Augmentation for Brain Metastases Detection Using Highly-Rough Annotation on MR Images** 
-    (Han et al.; CIKM 2019) [[Paper]](https://arxiv.org/abs/1902.09856)
-
-* **End-to-End Adversarial Retinal Image Synthesis** (Costa et al.; 2018) [[Paper]](https://repositorio.inesctec.pt/bitstream/123456789/8302/1/P-00N-22X.pdf) [[Paper]](https://github.com/ costapt/adversarial_retinal_synthesis)
 
 * **Retinal Image Synthesis and Semi-Supervised Learning for Glaucoma Assessment** (Diaz-Pinto et al.) [[Paper]](https://www.researchgate.net/publication/331600377_Retinal_Image_Synthesis_and_Semi-Supervised_Learning_for_Glaucoma_Assessment)
 
@@ -23,10 +31,23 @@
 * **Deep learning versus human graders for classifying diabetic retinopathy severity in a nationwide screening program** (Raumviboonsuk et al.; Nature 2019)
 [[Paper]](https://www.nature.com/articles/s41746-019-0099-8)
 
+### Retinal Vessel Segmentation
+
+#### Code
+
+* [Retinal-Vessel-Segmentation](https://github.com/zhengyuan-liu/Retinal-Vessel-Segmentation)
+* [Blood Vessel Segmentation and Microaneurysm Detection for Diabetic Retinopathy](https://github.com/getsanjeev/retina-features)
+  * cv method
+* [Bi-Directional ConvLSTM U-Net with Densely Connected Convolutions](https://github.com/rezazad68/BCDU-Net)
+* [Retina blood vessel segmentation with a convolution neural network (U-net)](https://github.com/orobix/retina-unet)
+* [A Novel Deep Learning Pipeline for Retinal Vessel Detection In Fluorescein Angiography](https://github.com/ShamaLabUR/DeepVesselSeg4FA)
+
+
 
 ## AI Application in Clinical Setting
 
 * **Unremarkable AI: Fitting Intelligent Decision Support into Critical, Clinical Decision-Making Processes**  (Yang et al.; CHI'19)[[Paper]](https://arxiv.org/abs/1904.09612)
+
 ### Repositories
 
 * [Medical Image Generation](https://paperswithcode.com/task/medical-image-generation)
