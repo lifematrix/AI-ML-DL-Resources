@@ -11,6 +11,8 @@
 
 * **Tutorial: Deriving the Standard Variational Autoencoder (VAE) Loss Function** (Odaibo et al.; 2019) [[Paper]](https://arxiv.org/abs/1907.08956)
 
+* **Large scale GAN training for high fidelity natural image synthesis** （Brock et al.; ICLR 2019; cited 1097) [[Paper]](https://arxiv.org/pdf/1809.11096.pdf)
+
 ### 2018
 
 * **Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks** (Zhu et al; ICCV 2017) [[Paper]](https://arxiv.org/abs/1703.10593)
@@ -27,6 +29,12 @@
 * **Conditional Wasserstein Generative Adversarial Networks** (Fabbri et al.; 2018) [[Paper]](https://cameronfabbri.github.io/papers/conditionalWGAN.pdf) [[github.io]](https://cameronfabbri.github.io/)
 
 * **Transferring GANs: generating images from limited data** (Wang et al.; 2018) [[Paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/yaxing_wang_Transferring_GANs_generating_ECCV_2018_paper.pdf)
+
+* **A Note on the Inception Score** (Barratt et al.; 2018; cited 228) [[Paper]](https://arxiv.org/pdf/1801.01973.pdf)
+
+* **Spectral Normalization for Generative Adversarial Networks** (Miyato et al.; ICLR 2018; cited 1305) [[Paper]](https://arxiv.org/pdf/1802.05957.pdf)
+  * An article [GAN — Spectral Normalization](https://medium.com/@jonathan_hui/gan-spectral-normalization-893b6a4e8f53) by Jonathan Hui
+
 
 ### 2017
 
@@ -46,6 +54,8 @@
 
 * **Energy-based Generative Adversarial Network** (Zhao el al.; 2017) [[Paper]](https://arxiv.org/abs/1609.03126)
 
+* **Unpairedimage- to-image translation using cycle-consistent adversarial net- works** (Zhu et al.; ICCV 2017; cited by 5804)[[Paper]](https://arxiv.org/abs/1703.10593)
+
 
 ### 2016
 
@@ -56,10 +66,13 @@
 * **Conditional Image Synthesis With Auxiliary Classifier GANs** (Odena et al.; 2016) [[Paper]](https://arxiv.org/abs/1610.09585)
   * [Code by Lukedeo](https://github.com/lukedeo/keras-acgan)
 
+* **Perceptual losses for real-time style transfer and super-resolution** (Johnson et al.; ECCV 2016) [[Paper]](https://arxiv.org/pdf/1603.08155.pdf)
 
 ### 2015
 
 * **Adversarial autoencoders** (Makhzani et al.; 2015) [[Paper]](https://arxiv.org/abs/1511.05644)
+
+* **Unsupervised representation learning with deep convolutional generative adversarial networks** (Radford et al.;ICLR 2016; Cited by 7396) [[Paper]](https://arxiv.org/pdf/1511.06434.pdf)
 
 ### 2014
 
@@ -68,18 +81,27 @@
   * [Code by eriklindernoren, a very comprehensive repo](https://github.com/eriklindernoren/Keras-GAN)
 
 * **Auto-Encoding Variational Bayes** (Kingma et al; 2014; Cited by 9877) [[Paper]](https://arxiv.org/abs/1312.6114)
+  * Agustinus Kristiadi's [article](https://wiseodd.github.io/techblog/2016/12/10/variational-autoencoder/) provided very intuitive and clean explanation.
 
 
 
 
 ## Articles
 
+### Metrics of GAN
+
+* [GAN — How to measure GAN performance?](https://medium.com/@jonathan_hui/gan-how-to-measure-gan-performance-64b988c47732) by Jonathan Hui
+
+
+### Misc
 * [**Real worlds GANs | Common Probblems**](https://developers.google.com/machine-learning/gan/problems)
 * [**Conditional — DCGAN in TensorFlow**](https://medium.com/@sam.maddrellmander/conditional-dcgan-in-tensorflow-336f8b03b7b6) [[code]](https://gitlab.cern.ch/smaddrel/conditional-DCGAN)
   * This article and code is based on the [[repo]](https://github.com/Eyyub/tensorflow-cdcgan)
 * [Image Inpainting with Deep Learning](https://medium.com/jamieai/image-inpainting-with-deep-learning-dd8555e56a32) by Tarun Bonu
 
+
 ## Code 
 
 * [Keras GAN by Erik Linder-Norén](https://github.com/eriklindernoren/Keras-GAN)
+* https://github.com/A2Zadeh/Variational-Autodecoder
 
