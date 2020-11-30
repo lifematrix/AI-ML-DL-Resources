@@ -3,6 +3,10 @@
 
 # 1. Misc Topics 
 
+## Classical Architecture
+
+* [Training and investigating residual nets](http://torch.ch/blog/2016/02/04/resnets.html) by Gross.
+
 ## Semi-supervised
 
 * **Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results** (Tarvainen A, Valpola H) [[Paper]](https://papers.nips.cc/paper/6719-mean-teachers-are-better-role-models-weight-averaged-consistency-targets-improve-semi-supervised-deep-learning-results.pdf)

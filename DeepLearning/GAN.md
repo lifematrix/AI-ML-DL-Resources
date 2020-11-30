@@ -6,12 +6,37 @@
 
 * **Deep Learning Approach To Face Conditioning Using Invertible Conditional Generative Adversarial Networks (ICGAN)** (Srivastav et al; IJIRCST 2020) [[Paper]](https://www.ijircst.org/DOC/24-deep-learning-approach-to-face-conditioning-using-invertible-conditional-generative-adversarial-networks-(icgan).pdf)
 
+* **Closed-Form Factorization of Latent Semantics in GANs** (Shen et al.; 2020)  [[Papper]](https://arxiv.org/pdf/2007.06600.pdf)
+  * [project website](https://genforce.github.io/sefa/)
+
+* **Analyzing and Improving the Image Quality of StyleGAN** (Karras et al. 2020) [[Paper]](https://arxiv.org/pdf/1912.04958.pdf)
+  * [Project website](https://github.com/NVlabs/stylegan2)
+  
+* **Interpreting the Latent Space of GANs for Semantic Face Editing** (Shen et al.; CVPR 2020) [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shen_Interpreting_the_Latent_Space_of_GANs_for_Semantic_Face_Editing_CVPR_2020_paper.pdf)
+
+* **StyleGAN2 Distillation for Feed-forward Image Manipulation** (Viazovetskyi et al.; ECCV 2020) [[Paper]](https://arxiv.org/pdf/2003.03581.pdf) [[Dataset & Code]](https://github.com/EvgenyKashin/stylegan2-distillation)
+
+* **Image2StyleGAN++: How to Edit the Embedded Images?** (Abdal et al.; CVPR 2020) [[Papper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Abdal_Image2StyleGAN_How_to_Edit_the_Embedded_Images_CVPR_2020_paper.pdf)
+  * [[Code] by pacifinapacific](https://github.com/pacifinapacific/StyleGAN_LatentEditor)
+  * [[Code by Bartzi]](https://github.com/Bartzi/one-model-to-reconstruct-them-all)
+
+* **Collaborative Learning for Faster StyleGAN Embedding** (Guan et al.; 2020) [[Paper]](https://arxiv.org/pdf/2007.01758.pdf)
+
+* **Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation** (Richardson et al.; 2020) [[Paper]](https://arxiv.org/pdf/2008.00951.pdf)
+
 ### 2019
 * **GP-GAN: Towards Realistic High-Resolution Image Blending** (Wu et al; ACMMM 2019) [[Paper]](https://arxiv.org/abs/1703.07195)
 
 * **Tutorial: Deriving the Standard Variational Autoencoder (VAE) Loss Function** (Odaibo et al.; 2019) [[Paper]](https://arxiv.org/abs/1907.08956)
 
 * **Large scale GAN training for high fidelity natural image synthesis** （Brock et al.; ICLR 2019; cited 1097) [[Paper]](https://arxiv.org/pdf/1809.11096.pdf)
+
+* **Image2StyleGAN: How to Embed Images Into the StyleGAN Latent Space?** (Abdal et al.; ICCV 2019) [[Paper]](https://arxiv.org/pdf/1904.03189.pdf)
+  * [Code](https://github.com/woctezuma/stylegan2-projecting-images)
+
+* **Improved Precision and Recall Metric for Assessing Generative Models** (Kynkäänniemi et al.; NeurIPS 2019) [[Paper]](https://arxiv.org/pdf/1904.06991)
+
+* **Do Deep Generative Models Know What They Don't Know?** (Nalisnick et al.; ICLR 2019; DeepMind) [[Paper]](https://arxiv.org/pdf/1810.09136.pdf)
 
 ### 2018
 
@@ -34,11 +59,22 @@
 
 * **Spectral Normalization for Generative Adversarial Networks** (Miyato et al.; ICLR 2018; cited 1305) [[Paper]](https://arxiv.org/pdf/1802.05957.pdf)
   * An article [GAN — Spectral Normalization](https://medium.com/@jonathan_hui/gan-spectral-normalization-893b6a4e8f53) by Jonathan Hui
+  
+* **Large Scale GAN Training for High Fidelity Natural Image Synthesis** (Brock et al.; 2018) [[Paper]](https://arxiv.org/pdf/1809.11096.pdf)
+
+* **Inverting The Generator Of A Generative Adversarial Network (II)** (Creswell et al.; 2018) [[Paper]](https://arxiv.org/pdf/1802.05701.pdf)
+
+* **Glow: Generative Flow with Invertible 1x1 Convolutions** (Kingma et al.; 2018) [[Paper]](https://arxiv.org/abs/1807.03039)
+
+* **High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs** (Wang et al. 2018) [[Paper]](https://arxiv.org/pdf/1711.11585.pdf) [[Code]](https://github.com/NVIDIA/pix2pixHD)
+
+* **StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation** (Choi et al.; CVPR 2018) [[Paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Choi_StarGAN_Unified_Generative_CVPR_2018_paper.pdf)
 
 
 ### 2017
-
+    
 * **Image-to-Image Translation with Conditional Adversarial Networks** (Isola et al; CVPR 2017) [[Paper]](https://arxiv.org/abs/1611.07004)
+  * [[Code]](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
 
 * **A Two Stage GAN for High Resolution Retinal Image Generation and Segmentation** (Andreini et al.) [[Paper]](https://arxiv.org/abs/1907.12296)
 
@@ -56,6 +92,10 @@
 
 * **Unpairedimage- to-image translation using cycle-consistent adversarial net- works** (Zhu et al.; ICCV 2017; cited by 5804)[[Paper]](https://arxiv.org/abs/1703.10593)
 
+* **GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium** (Heusel et al. NIPS 2017) [[Paper]](http://papers.nips.cc/paper/7240-gans-trained-by-a-two-time-scale-update-rule-converge-to-a-local-nash-equilibrium.pdf)
+
+* **Megapixel size image creation using genera- tive adversarial networks** (Marchesi; 2017) [[Paper]](https://arxiv.org/pdf/1706.00082.pdf)
+
 
 ### 2016
 
@@ -68,11 +108,24 @@
 
 * **Perceptual losses for real-time style transfer and super-resolution** (Johnson et al.; ECCV 2016) [[Paper]](https://arxiv.org/pdf/1603.08155.pdf)
 
+* **Inverting The Generator Of A Generative Adversarial Network** (Cresweell et al.; NIPS 2016) [[Paper]](https://arxiv.org/pdf/1611.05644.pdf)
+
+* **Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks** (Radford et al.; ICLR 2016; Cited by 7605) [[Paper]](https://arxiv.org/pdf/1511.06434.pdf)
+
+* **Generative Visual Manipulation on the Natural Image Manifold** (Zhu et al.; ECCV 2016) [[Paper]](https://arxiv.org/pdf/1609.03552.pdf)
+
+* **Image Style Transfer Using Convolutional Neural Networks** (Gatys et al.; CVPR 2016) [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)
+
+* **Instance normalization: The missing ingredient for fast stylization** (Ulyanov et al.; 2016) [[Paper]](https://arxiv.org/pdf/1607.08022)
+
+
 ### 2015
 
 * **Adversarial autoencoders** (Makhzani et al.; 2015) [[Paper]](https://arxiv.org/abs/1511.05644)
 
 * **Unsupervised representation learning with deep convolutional generative adversarial networks** (Radford et al.;ICLR 2016; Cited by 7396) [[Paper]](https://arxiv.org/pdf/1511.06434.pdf)
+
+* **A Neural Algorithm of Artistic Style** (Gatys et al.; 2015) [[Paper]](https://arxiv.org/pdf/1508.06576.pdf)
 
 ### 2014
 

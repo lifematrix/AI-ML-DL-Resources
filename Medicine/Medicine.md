@@ -1,6 +1,10 @@
 
 ## Medical Image Generation
 
+### 2020
+
+* **Latent Space Manipulation for High-Resolution Medical Image Synthesis via the StyleGAN** (Fetty et al.; 2020) [[Online URL]](https://www.sciencedirect.com/science/article/pii/S0939388920300544) 
+
 ### 2019
 
 * **Retinal Image Synthesis From Multiple-Landmarks Input With Generative Adversarial Networks**
