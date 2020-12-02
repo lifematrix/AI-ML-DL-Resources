@@ -40,8 +40,8 @@
 
 ### 2018
 
-* **Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks** (Zhu et al; ICCV 2017) [[Paper]](https://arxiv.org/abs/1703.10593)
-* **Progressive Growing of GANs for Improved Quality, Stability, and Variation(PG-GAN)** (Karras et al; ICLR 2018) [[Paper]](https://arxiv.org/abs/1710.10196)
+* **Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks** (Zhu et al.; ICCV 2017) [[Paper]](https://arxiv.org/abs/1703.10593)
+* **Progressive Growing of GANs for Improved Quality, Stability, and Variation(PG-GAN)** (Karras et al.; ICLR 2018) [[Paper]](https://arxiv.org/abs/1710.10196)
   * [Official Implementation of PGGAN](https://github.com/tkarras/progressive_growing_of_gans)
   * [[Code of tadax]](https://github.com/tadax/pggan)
   * [[Code for creating CelebA-HQ dataset by suvojit-0x55aa]](https://github.com/suvojit-0x55aa/celebA-HQ-dataset-download) 
@@ -75,6 +75,7 @@
     
 * **Image-to-Image Translation with Conditional Adversarial Networks** (Isola et al; CVPR 2017) [[Paper]](https://arxiv.org/abs/1611.07004)
   * [[Code]](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
+  * [[Tensorflow Official Tutorial]](https://www.tensorflow.org/tutorials/generative/pix2pix)
 
 * **A Two Stage GAN for High Resolution Retinal Image Generation and Segmentation** (Andreini et al.) [[Paper]](https://arxiv.org/abs/1907.12296)
 
@@ -90,7 +91,7 @@
 
 * **Energy-based Generative Adversarial Network** (Zhao el al.; 2017) [[Paper]](https://arxiv.org/abs/1609.03126)
 
-* **Unpairedimage- to-image translation using cycle-consistent adversarial net- works** (Zhu et al.; ICCV 2017; cited by 5804)[[Paper]](https://arxiv.org/abs/1703.10593)
+* **Unpaired image-to-image translation using cycle-consistent adversarial networks** (Zhu et al.; ICCV 2017; cited by 5804)[[Paper]](https://arxiv.org/abs/1703.10593)
 
 * **GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium** (Heusel et al. NIPS 2017) [[Paper]](http://papers.nips.cc/paper/7240-gans-trained-by-a-two-time-scale-update-rule-converge-to-a-local-nash-equilibrium.pdf)
 
@@ -107,6 +108,7 @@
   * [Code by Lukedeo](https://github.com/lukedeo/keras-acgan)
 
 * **Perceptual losses for real-time style transfer and super-resolution** (Johnson et al.; ECCV 2016) [[Paper]](https://arxiv.org/pdf/1603.08155.pdf)
+  * [[Pytorch implementation by dxyang]](https://github.com/dxyang/StyleTransfer)
 
 * **Inverting The Generator Of A Generative Adversarial Network** (Cresweell et al.; NIPS 2016) [[Paper]](https://arxiv.org/pdf/1611.05644.pdf)
 
@@ -127,6 +129,8 @@
 
 * **A Neural Algorithm of Artistic Style** (Gatys et al.; 2015) [[Paper]](https://arxiv.org/pdf/1508.06576.pdf)
 
+* **NICE: Non-linear Independent Components Estimation** (Dinh et al. ICLR 2015) [[Paper]](https://arxiv.org/pdf/1410.8516.pdf)
+
 ### 2014
 
 * **Conditional Generative Adversarial Nets** (Mirza et al) [[Paper]](https://arxiv.org/abs/1411.1784)
@@ -135,6 +139,7 @@
 
 * **Auto-Encoding Variational Bayes** (Kingma et al; 2014; Cited by 9877) [[Paper]](https://arxiv.org/abs/1312.6114)
   * Agustinus Kristiadi's [article](https://wiseodd.github.io/techblog/2016/12/10/variational-autoencoder/) provided very intuitive and clean explanation.
+
 
 
 
@@ -151,6 +156,10 @@
 * [**Conditional — DCGAN in TensorFlow**](https://medium.com/@sam.maddrellmander/conditional-dcgan-in-tensorflow-336f8b03b7b6) [[code]](https://gitlab.cern.ch/smaddrel/conditional-DCGAN)
   * This article and code is based on the [[repo]](https://github.com/Eyyub/tensorflow-cdcgan)
 * [Image Inpainting with Deep Learning](https://medium.com/jamieai/image-inpainting-with-deep-learning-dd8555e56a32) by Tarun Bonu
+
+### Autoregressive
+
+* [Autoregressive Models](http://cs236.stanford.edu/assets/slides/cs236_lecture3.pdf) bny Stefano Ermon and Aditya Grover in Stanford University
 
 
 ## Code 
