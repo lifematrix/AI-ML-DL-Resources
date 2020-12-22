@@ -33,6 +33,11 @@ Includes image denoising, super-resolution, style-transfer etc.
 
 * **Depth of Field Rendering based on the Improved Gaussian Blurring in Augmented Reality System** (Xu et al.) [[Paper]](https://pdfs.semanticscholar.org/1d23/bbf675351a70588af88ebee01fd11668905e.pdf)
 
+## Impainting
+
+* **Image Inpainting for Irregular Holes Using Partial Convolutions** (Liu et al.; ECCV 2018) [[Paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Guilin_Liu_Image_Inpainting_for_ECCV_2018_paper.pdf)
+
+
 ## Image Quality Metrics
 
 ### PSNR

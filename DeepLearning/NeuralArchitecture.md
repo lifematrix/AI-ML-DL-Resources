@@ -45,6 +45,9 @@
   
 * **ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design** (Ma et al.; 2018) [[Paper]](https://arxiv.org/abs/1807.11164)
 
+
+* **Exploring the limits of weakly supervised pretraining** (Mahajan et al.; ECCV 2018) [[Paper]](https://arxiv.org/pdf/1805.00932.pdf)
+
 ### 2017
 
 * **Learning Transferable Architectures for Scalable Image Recognition** (Zoph et al.; 2017) [[Paper]](https://arxiv.org/abs/1707.07012)

@@ -9,8 +9,9 @@
 * **Closed-Form Factorization of Latent Semantics in GANs** (Shen et al.; 2020)  [[Papper]](https://arxiv.org/pdf/2007.06600.pdf)
   * [project website](https://genforce.github.io/sefa/)
 
-* **Analyzing and Improving the Image Quality of StyleGAN** (Karras et al. 2020) [[Paper]](https://arxiv.org/pdf/1912.04958.pdf)
+* **Analyzing and Improving the Image Quality of StyleGAN** (Karras et al. 2020; CVPR 2020) [[Paper]](https://arxiv.org/pdf/1912.04958.pdf)
   * [Project website](https://github.com/NVlabs/stylegan2)
+  * [Pytorch implementation](https://github.com/rosinality/stylegan2-pytorch)
   
 * **Interpreting the Latent Space of GANs for Semantic Face Editing** (Shen et al.; CVPR 2020) [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shen_Interpreting_the_Latent_Space_of_GANs_for_Semantic_Face_Editing_CVPR_2020_paper.pdf)
 
@@ -24,12 +25,19 @@
 
 * **Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation** (Richardson et al.; 2020) [[Paper]](https://arxiv.org/pdf/2008.00951.pdf)
 
+* **Generative Pretraining from Pixels** (Chen et al.; OpenAI 2020) [[Paper]](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf)
+
+* **Adversarial Latent Autoencoders** (Pidhorskyi et al.; CVPR 2020) [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Pidhorskyi_Adversarial_Latent_Autoencoders_CVPR_2020_paper.pdf)
+
+* **One Model to Reconstruct Them All: A Novel Way to Use the Stochastic Noise in StyleGAN** (Bartz et al.; 2020) [[Paper]](https://arxiv.org/pdf/2010.11113)
+
 ### 2019
+
 * **GP-GAN: Towards Realistic High-Resolution Image Blending** (Wu et al; ACMMM 2019) [[Paper]](https://arxiv.org/abs/1703.07195)
 
 * **Tutorial: Deriving the Standard Variational Autoencoder (VAE) Loss Function** (Odaibo et al.; 2019) [[Paper]](https://arxiv.org/abs/1907.08956)
 
-* **Large scale GAN training for high fidelity natural image synthesis** （Brock et al.; ICLR 2019; cited 1097) [[Paper]](https://arxiv.org/pdf/1809.11096.pdf)
+* **Large scale GAN training for high fidelity natural image synthesis**(BigGAN) (Brock et al.; ICLR 2019; Cited by 1097) [[Paper]](https://arxiv.org/pdf/1809.11096.pdf)
 
 * **Image2StyleGAN: How to Embed Images Into the StyleGAN Latent Space?** (Abdal et al.; ICCV 2019) [[Paper]](https://arxiv.org/pdf/1904.03189.pdf)
   * [Code](https://github.com/woctezuma/stylegan2-projecting-images)
@@ -38,9 +46,13 @@
 
 * **Do Deep Generative Models Know What They Don't Know?** (Nalisnick et al.; ICLR 2019; DeepMind) [[Paper]](https://arxiv.org/pdf/1810.09136.pdf)
 
+* **A Style-Based Generator Architecture for Generative Adversarial Networks** (Karras et al.; CVPR 2019) [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.pdf)
+  * [Encoder for official Tensorflow Implementation](https://github.com/pbaylies/stylegan-encoder)
+
 ### 2018
 
-* **Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks** (Zhu et al.; ICCV 2017) [[Paper]](https://arxiv.org/abs/1703.10593)
+* **Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks** (Zhu et al.; ICCV 2017; Cited by 6.7k) [[Paper]](https://arxiv.org/abs/1703.10593)
+
 * **Progressive Growing of GANs for Improved Quality, Stability, and Variation(PG-GAN)** (Karras et al.; ICLR 2018) [[Paper]](https://arxiv.org/abs/1710.10196)
   * [Official Implementation of PGGAN](https://github.com/tkarras/progressive_growing_of_gans)
   * [[Code of tadax]](https://github.com/tadax/pggan)
@@ -73,7 +85,7 @@
 
 ### 2017
     
-* **Image-to-Image Translation with Conditional Adversarial Networks** (Isola et al; CVPR 2017) [[Paper]](https://arxiv.org/abs/1611.07004)
+* **Image-to-Image Translation with Conditional Adversarial Networks** (Isola et al; CVPR 2017; Cited by 7k) [[Paper]](https://arxiv.org/abs/1611.07004)
   * [[Code]](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
   * [[Tensorflow Official Tutorial]](https://www.tensorflow.org/tutorials/generative/pix2pix)
 
@@ -95,7 +107,12 @@
 
 * **GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium** (Heusel et al. NIPS 2017) [[Paper]](http://papers.nips.cc/paper/7240-gans-trained-by-a-two-time-scale-update-rule-converge-to-a-local-nash-equilibrium.pdf)
 
-* **Megapixel size image creation using genera- tive adversarial networks** (Marchesi; 2017) [[Paper]](https://arxiv.org/pdf/1706.00082.pdf)
+* **Megapixel size image creation using generative adversarial networks** (Marchesi; 2017) [[Paper]](https://arxiv.org/pdf/1706.00082.pdf)
+
+* **Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization** (Huang et al.; ICCV 2017; Cited by 929) [[Paper]](https://arxiv.org/pdf/1703.06868.pdf)
+
+* **A Learned Representation For Artistic Style** (Dumoulin et al.; ICLR 2017) [[Paper]](https://arxiv.org/pdf/1610.07629.pdf)
+  * [[Official Code]](https: //github.com/xunhuang1995/AdaIN-style)
 
 
 ### 2016
@@ -107,7 +124,7 @@
 * **Conditional Image Synthesis With Auxiliary Classifier GANs** (Odena et al.; 2016) [[Paper]](https://arxiv.org/abs/1610.09585)
   * [Code by Lukedeo](https://github.com/lukedeo/keras-acgan)
 
-* **Perceptual losses for real-time style transfer and super-resolution** (Johnson et al.; ECCV 2016) [[Paper]](https://arxiv.org/pdf/1603.08155.pdf)
+* **Perceptual losses for real-time style transfer and super-resolution** (Johnson et al.; ECCV 2016; Cited by 4k) [[Paper]](https://arxiv.org/pdf/1603.08155.pdf)
   * [[Pytorch implementation by dxyang]](https://github.com/dxyang/StyleTransfer)
 
 * **Inverting The Generator Of A Generative Adversarial Network** (Cresweell et al.; NIPS 2016) [[Paper]](https://arxiv.org/pdf/1611.05644.pdf)
