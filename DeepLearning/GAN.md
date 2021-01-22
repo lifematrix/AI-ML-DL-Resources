@@ -9,9 +9,10 @@
 * **Closed-Form Factorization of Latent Semantics in GANs** (Shen et al.; 2020)  [[Papper]](https://arxiv.org/pdf/2007.06600.pdf)
   * [project website](https://genforce.github.io/sefa/)
 
-* **Analyzing and Improving the Image Quality of StyleGAN** (Karras et al. 2020; CVPR 2020) [[Paper]](https://arxiv.org/pdf/1912.04958.pdf)
+* **Analyzing and Improving the Image Quality of StyleGAN** (Karras et al. 2020; CVPR 2020; StyleGAN2) [[Paper]](https://arxiv.org/pdf/1912.04958.pdf)
   * [Project website](https://github.com/NVlabs/stylegan2)
   * [Pytorch implementation](https://github.com/rosinality/stylegan2-pytorch)
+  * [Another implementation](https://github.com/Puzer/stylegan-encoder)
   
 * **Interpreting the Latent Space of GANs for Semantic Face Editing** (Shen et al.; CVPR 2020) [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shen_Interpreting_the_Latent_Space_of_GANs_for_Semantic_Face_Editing_CVPR_2020_paper.pdf)
 
@@ -31,6 +32,16 @@
 
 * **One Model to Reconstruct Them All: A Novel Way to Use the Stochastic Noise in StyleGAN** (Bartz et al.; 2020) [[Paper]](https://arxiv.org/pdf/2010.11113)
 
+* **Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation** (Richardson et al.; 2020) [[Paper]](https://arxiv.org/pdf/2008.00951v1.pdf)
+  * [Official code](https://github.com/eladrich/pixel2style2pixel)
+
+* **Unified Generative Adversarial Networks for Controllable Image-to-Image Translation** (Tang et al.; 2020) [[Paper]](https://arxiv.org/pdf/1912.06112.pdf)
+
+* **StyleFlow: Attribute-conditioned Exploration of StyleGAN-Generated Images using Conditional Continuous Normalizing Flows** (Abdal et al.;) [[Paper]](https://arxiv.org/pdf/2008.02401.pdf)
+
+* **SEAN: Image Synthesis with Semantic Region-Adaptive Normalization** (Zhu et al.; CVPR 2020 oral) [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhu_SEAN_Image_Synthesis_With_Semantic_Region-Adaptive_Normalization_CVPR_2020_paper.pdf)
+  * [official code](https://github.com/ZPdesu/SEAN)
+  
 ### 2019
 
 * **GP-GAN: Towards Realistic High-Resolution Image Blending** (Wu et al; ACMMM 2019) [[Paper]](https://arxiv.org/abs/1703.07195)
@@ -82,6 +93,7 @@
 
 * **StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation** (Choi et al.; CVPR 2018) [[Paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Choi_StarGAN_Unified_Generative_CVPR_2018_paper.pdf)
 
+* **Pose Guided Person Image Generation** (Ma et al.; NIPS 2017) [[Paper]](https://arxiv.org/pdf/1705.09368.pdf)
 
 ### 2017
     
@@ -113,6 +125,8 @@
 
 * **A Learned Representation For Artistic Style** (Dumoulin et al.; ICLR 2017) [[Paper]](https://arxiv.org/pdf/1610.07629.pdf)
   * [[Official Code]](https: //github.com/xunhuang1995/AdaIN-style)
+
+* **Improvedtexture networks: Maximizing quality and diversity in feed-forward stylization and texture synthesis.** (Ulyanov et al.; CVPR 2017) [[Paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Ulyanov_Improved_Texture_Networks_CVPR_2017_paper.pdf)
 
 
 ### 2016

@@ -1,5 +1,5 @@
 
-## BERT 
+## Papers 
 
 ### 2020
 
@@ -17,20 +17,31 @@
 
 * **Improving Language Understanding by Generative Pre-Training** (Radford et al.; Known as OpenAI Transformer; Cited by 1593) [[Paper]](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
 
-###
+* **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding** (Devlin et al.;Cited by 14k) [[Paper]](https://arxiv.org/abs/1810.04805)
+  * Code
+    * [Pytorch and Tensorflow implementation](https://github.com/huggingface/transformers)
+    * [BERT End t End (Fine-tuning + Predicting) with Cloud TPU](https://colab.research.google.com/github/tensorflow/tpu/blob/master/tools/colab/bert_finetuning_with_cloud_tpus.ipynb), it is a google official colab notebook using two TPUs.
+    
+* [**The Annotated Transformer**](https://nlp.seas.harvard.edu/2018/04/03/attention.html) in Harvardnlp.  A very great guide written by Vaswani, the author of paper ["Attention ia all you need"](https://arxiv.org/pdf/1706.03762.pdf).
 
-* **Attention Is All You Need** (Vaswani et al.; 2017; Cited by 16k) [[Paper]](https://arxiv.org/pdf/1706.03762.pdf)
+### 2017
+
+* **Attention Is All You Need** (Vaswani et al.; 2017; NISP 2017; Cited by 16k) [[Paper]](https://arxiv.org/pdf/1706.03762.pdf)
+  * A great [code illustration](https://nlp.seas.harvard.edu/2018/04/03/attention.html) by the author
+
+* **Convolutional Sequence to Sequence Learning** (Gehring et al.; ICML 2017) [[Paper]](https://arxiv.org/pdf/1705.03122.pdf)
 
 ### 2015
 
  * **Semi-supervised Sequence Learning** (Dai et al.; NIPS 2015; Cited by 818) [[Paper]](https://arxiv.org/pdf/1511.01432.pdf)
  
  
-### Paper
+### 1997
 
-* **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding** (Devlin et al) [[Paper]](https://arxiv.org/abs/1810.04805)
+* **Long short-term memory** (Hochreiter et al. Neural computation; Cited by 42k) [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.676.4320&rep=rep1&type=pdf)
 
-### Articles and blog 
+
+## Articles and blog 
 
 * Jay Alammar's Posts
 
@@ -48,6 +59,8 @@
 
 * [A Review of Deep Contextualized Word Representations](https://www.slideshare.net/shuntaroy/a-review-of-deep-contextualized-word-representations-peters-2018) -- Slides by Peters (2018)
 
-### Dataset
+## Dataset
 
 * [**SQuAD 2.0: The standford question answering dataset**](https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/)
+
+
