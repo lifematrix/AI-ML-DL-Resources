@@ -20,4 +20,4 @@
 
 ## Tensorflow - NCCL
 
-* [tensorflow all reduce benchmark](https://github.com/tensorflow/benchmarks/blob/master/scripts/tf_cnn_benchmarks/allreduce.py)
+* [tensorflow all-reduce benchmark](https://github.com/tensorflow/benchmarks/blob/master/scripts/tf_cnn_benchmarks/allreduce.py)
