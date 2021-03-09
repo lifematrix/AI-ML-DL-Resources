@@ -8,6 +8,7 @@
 * **Neural Architecture Transfer** (Lu et al.; 2020) [[Paper]](https://arxiv.org/abs/2005.05859) [[Code]](https://github.com/human-analysis/neural-architecture-transfer)
 * **Fixing the train-test resolution discrepancy: FixEfficientNet** (Touvron et al.; 2020) [[Paper]](https://arxiv.org/abs/2003.08237)
 * **Adversarial Examples Improve Image Recognition** (Xie et al.; CVPR 2020) [[Paper]](https://arxiv.org/abs/1911.09665)
+  * [A pytorch implementation](https://github.com/tingxueronghua/pytorch-classification-advprop)
 * **FBNetV2: Differentiable Neural Architecture Search for Spatial and Channel Dimensions**  (Wan et al.; CVPR 2020) [[Paper]](https://arxiv.org/abs/2004.05565)
 * **Self-training with Noisy Student improves ImageNet classification** (Xie et al.; CVPR 2020) [[Paper]](https://arxiv.org/abs/1911.04252)
 * **EfficientDet: Scalable and Efficient Object Detection** (Tan et al.; CVPR 2020) [[Paper]](https://arxiv.org/pdf/1911.09070.pdf)
