@@ -2,9 +2,15 @@
 
 ## Papers
 
+### 2021
+
+* **Characterizing signal propagation to close the performance gap in unnormal- ized resnets** (Brock et al.; ICLR 2021) [[Paper]](https://arxiv.org/pdf/2101.08692.pdf)
+
 ### 2020
 
 * **Meta pseudo labels** (Pham et al.; 2020) [[Paper]](https://arxiv.org/pdf/2003.10580.pdf)
+
+* **Batch normalization biases residual blocks towards the identity function in deep networks** (De et al.; NeurPS 2020) [[Paper]](
 
 ### 2019
 
@@ -21,6 +27,11 @@
 
 * **Squeeze-and-Excitation Networks** （Hu et al.; CVPR 2018) [[Paper]](https://www.robots.ox.ac.uk/~vgg/publications/2018/Hu18/hu18.pdf)
 
+* **Visualizing the Loss Landscape of Neural Nets** （Li et al. NIPS 2018) [[Paper]](https://papers.nips.cc/paper/2018/file/a41b3bb3e6b050b6c9067c67f663b915-Paper.pdf)
+
+### 2017
+
+
 ### 2016
 
 * **Identity Mappings in Deep Residual Networks** (He et al.; ECCV 2016 camera-read) [[Paper]](https://arxiv.org/pdf/1603.05027.pdf)
@@ -33,6 +44,9 @@
 * **Conditional Convolutional Neural Network for Modality-aware Face Recognition** (Xiong et al.; ICCV 2015) [[Paper]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Xiong_Conditional_Convolutional_Neural_ICCV_2015_paper.pdf)
 
 
+### 2010
+
+* **Understanding the difficulty of training deep feedforward neural networks** (Glorot et al.; PMLR 2010; Cited by 11k) [[Paper]](http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf)
 ## Articles
 
 * [Why Relu? Tips for using Relu. Comparison between Relu, Leaky Relu, and Relu-6](https://medium.com/@chinesh4/why-relu-tips-for-using-relu-comparison-between-relu-leaky-relu-and-relu-6-969359e48310)
