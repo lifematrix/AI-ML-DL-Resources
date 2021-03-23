@@ -47,6 +47,7 @@
 ### 2010
 
 * **Understanding the difficulty of training deep feedforward neural networks** (Glorot et al.; PMLR 2010; Cited by 11k) [[Paper]](http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf)
+
 ## Articles
 
 * [Why Relu? Tips for using Relu. Comparison between Relu, Leaky Relu, and Relu-6](https://medium.com/@chinesh4/why-relu-tips-for-using-relu-comparison-between-relu-leaky-relu-and-relu-6-969359e48310)

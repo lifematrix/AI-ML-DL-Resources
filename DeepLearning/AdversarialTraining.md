@@ -2,6 +2,10 @@
 
 ## Papers
 
+### 2020
+
+* **Are Adversarial Examples Inevitable?** (Shafahi Et Al.; ) [[Paper]](Https://Arxiv.Org/Pdf/1809.02104.Pdf)
+
 ### 2018
 
 * **Towards deep learning models resistant to adversarial attacks** (Madry et al; ICLR 2018) [[Paper]](https://arxiv.org/pdf/1706.06083.pdf)
@@ -34,6 +38,8 @@
 
 * **Intriguing properties of neural networks** (Szegedy et al; Cited by 6k) [[Paper]](https://arxiv.org/pdf/1312.6199.pdf)
 
+* **Towards deep neural network architectures robust to adversarial examples** （Gu et al.; ICLR 2014) [[Paper]](https://arxiv.org/pdf/1412.5068.pdf)
+
 ### 2008
 
 * **A discriminatively trained, multiscale, de-formable part model** (Felzenszwalb et al.; CVPR 2008) [[Paper]](
@@ -42,7 +48,16 @@
 
 * **Statistical decision functions which minimize the maximum risk** (Wald et al.; In Annals of Mathematics, 1945) [[Paper]](https://booksc.xyz/book/32516015/33b0de)
 
+## Articles
+
+* [To guarantee privacy, focus on the algorithms, not the data](http://www.cleverhans.io/2021/01/14/privacy-focus-algorithms.html)
+* [Machine Learning with Differential Privacy in Tensorflow](http://www.cleverhans.io/privacy/2019/03/26/machine-learning-with-differential-privacy-in-tensorflow.html)
+
 ## Code
 
 * CleverHans -- A Python library to benchmark machine learning system' vulnerability to adversarial example
   * [github](https://github.com/cleverhans-lab/cleverhans). Note: ver 4.0 Supports TF2 on python3.
+  * [blog](http://www.cleverhans.io)
+
+* [Tensorflow Privacy](https://github.com/tensorflow/privacy)
+
