@@ -4,8 +4,9 @@
 
 ### 2020
 
-* **Are Adversarial Examples Inevitable?** (Shafahi Et Al.; ) [[Paper]](Https://Arxiv.Org/Pdf/1809.02104.Pdf)
-* **A Self-supervised Approach for Adversarial Robustness** (M Naseer et al.; ) [[Paper]](https://arxiv.org/pdf/2006.04924.pdf) [[code]](https://github.com/Muzammal-Naseer/NRP)
+* **Are Adversarial Examples Inevitable?** (Shafahi Et Al.) [[Paper]](Https://Arxiv.Org/Pdf/1809.02104.Pdf)
+* **A Self-supervised Approach for Adversarial Robustness** (M Naseer et al.) [[Paper]](https://arxiv.org/pdf/2006.04924.pdf) [[code]](https://github.com/Muzammal-Naseer/NRP)
+* **Adversarial Examples Improve Image Recognition** (C Xie et al.) [[Paper]](https://arxiv.org/pdf/1911.09665.pdf) [[code]](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet)
 
 ### 2018
 
