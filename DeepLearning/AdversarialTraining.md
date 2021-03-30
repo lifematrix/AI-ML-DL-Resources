@@ -4,7 +4,9 @@
 
 ### 2020
 
-* **Are Adversarial Examples Inevitable?** (Shafahi Et Al.; ) [[Paper]](Https://Arxiv.Org/Pdf/1809.02104.Pdf)
+* **Are Adversarial Examples Inevitable?** (Shafahi Et Al.) [[Paper]](Https://Arxiv.Org/Pdf/1809.02104.Pdf)
+* **A Self-supervised Approach for Adversarial Robustness** (M Naseer et al.) [[Paper]](https://arxiv.org/pdf/2006.04924.pdf) [[code]](https://github.com/Muzammal-Naseer/NRP)
+* **Adversarial Examples Improve Image Recognition** (C Xie et al.) [[Paper]](https://arxiv.org/pdf/1911.09665.pdf) [[code]](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet)
 
 ### 2018
 
@@ -16,12 +18,19 @@
 * **Understanding adversarial training: Increasing local stability of supervised models through robust optimization** (Shaham et al.; 2018) [[Paper]](https://arxiv.org/pdf/1511.05432.pdf)
 
 * **Wild Patterns: Ten Years After the Rise of Adversarial Machine Learning** （Biggio et al.; Pattern Recognition 2018) [[Paper]](Wild Patterns: Ten Years After the Rise of Adversarial Machine Learning)
+
+* **Boosting Adversarial Attacks with Momentum** （Dong, Yinpeng, et al.; 2018; MI-FGSM) [[Paper]](https://arxiv.org/pdf/1710.06081.pdf)
+
 ### 2017
 
 * **Adversarial Machine Learning at Scale** (Kurakin, Bengio, et al; ICLR 2017; Google Brain; I-FGSM) [[Paper]](https://arxiv.org/pdf/1611.01236.pdf)
   * Provided the variant of FGSM
 
 * **The Space of Transferable Adversarial Examples** (Tramèr, et al; 2017) [[Paper]](https://arxiv.org/pdf/1704.03453.pdf)
+
+### 2016
+
+* **Adversarial examples in the physical world** (Kurakin, Bengio, et al; 2016; I-FGSM) [[Paper]](https://arxiv.org/pdf/1607.02533.pdf)
 
 ### 2015
 
