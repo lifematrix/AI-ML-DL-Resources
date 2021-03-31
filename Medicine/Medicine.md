@@ -1,6 +1,10 @@
 
 ## Medical Image Generation
 
+### 2021
+
+* **Representation Learning for Improved Inter-Pretability and Classification Accuracy of Clinical Factors From EEG**  (Honke et al.; ICLR 2021; EEG Image) [[Paper]](https://openreview.net/forum?id=TVjLza1t4hI)
+
 ### 2020
 
 * **Latent Space Manipulation for High-Resolution Medical Image Synthesis via the StyleGAN** (Fetty et al.; 2020) [[Online URL]](https://www.sciencedirect.com/science/article/pii/S0939388920300544) 

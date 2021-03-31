@@ -23,6 +23,11 @@
 
 * **The Space of Transferable Adversarial Examples** (Tramèr, et al; 2017) [[Paper]](https://arxiv.org/pdf/1704.03453.pdf)
 
+### 2016
+
+* **Distillation as a defense to adversarial perturbations against deep neural networks** (Papernot et al.; 2016) [[Paper]](https://arxiv.org/pdf/1602.02697.pdf)
+
+* **Practical Black-Box Attacks against Machine Learning** (Papernot et al.; 2017 ACM Asia Conference on Computer and Communication Security) [[Paper]](
 ### 2015
 
 * **Deep neural networks are easily fooled: High confidence predictions for unrecognizable images** (Nguyen et al; CVPR 2015) [[Paper]](https://arxiv.org/pdf/1412.1897.pdf)

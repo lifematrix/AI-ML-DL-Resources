@@ -6,11 +6,16 @@
 
 * **Characterizing signal propagation to close the performance gap in unnormal- ized resnets** (Brock et al.; ICLR 2021) [[Paper]](https://arxiv.org/pdf/2101.08692.pdf)
 
+* **An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale** (Dosovitskiy et al.; ViT: Vision Transformer) [[Paper]](https://arxiv.org/pdf/2010.11929.pdf)
+  * [code and pretrained model](https://github.com/google-research/vision_transformer)
+
 ### 2020
 
 * **Meta pseudo labels** (Pham et al.; 2020) [[Paper]](https://arxiv.org/pdf/2003.10580.pdf)
 
-* **Batch normalization biases residual blocks towards the identity function in deep networks** (De et al.; NeurPS 2020) [[Paper]](
+* **Batch normalization biases residual blocks towards the identity function in deep networks** (De et al.; NeurPS 2020) [[Paper]](https://arxiv.org/pdf/2002.10444.pdf)
+
+* **Circumventing Outliers of AutoAugment with Knowledge Distillation** (Wei et al.) [[Paper]](https://arxiv.org/pdf/2003.11342v1.pdf)
 
 ### 2019
 

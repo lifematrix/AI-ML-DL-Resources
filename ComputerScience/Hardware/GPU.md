@@ -1,4 +1,8 @@
 
+## Interconnect
+ 
+* **Evaluating Modern GPU Interconnect: PCIe, NVLink, NV-SLI, NVSwitch and GPUDirect** (Li et al.) [[Paper]](https://arxiv.org/pdf/1903.04611.pdf)
+
 ## GPU Comparasion
 
 * [Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning](https://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/comment-page-1/)
