@@ -160,6 +160,9 @@
 
 * **NICE: Non-linear Independent Components Estimation** (Dinh et al. ICLR 2015) [[Paper]](https://arxiv.org/pdf/1410.8516.pdf)
 
+* **Inverting Visual Representations with Convolutional Networks** (Dosovitskiy et al.; CVPR 2016) [[Paper]](https://arxiv.org/pdf/1506.02753.pdf)
+
+
 ### 2014
 
 * **Conditional Generative Adversarial Nets** (Mirza et al) [[Paper]](https://arxiv.org/abs/1411.1784)
@@ -169,7 +172,7 @@
 * **Auto-Encoding Variational Bayes** (Kingma et al; 2014; Cited by 9877) [[Paper]](https://arxiv.org/abs/1312.6114)
   * Agustinus Kristiadi's [article](https://wiseodd.github.io/techblog/2016/12/10/variational-autoencoder/) provided very intuitive and clean explanation.
 
-
+* **Understanding Deep Image Representations by Inverting Them** （Mahendran et al.; 2014; VGG group) [[Paper]](https://arxiv.org/pdf/1412.0035.pdf)
 
 
 
