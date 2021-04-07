@@ -17,6 +17,10 @@
 
 * **Circumventing Outliers of AutoAugment with Knowledge Distillation** (Wei et al.) [[Paper]](https://arxiv.org/pdf/2003.11342v1.pdf)
 
+* **Self-training with noisy student improves imagenet classification** (Xie et al.; CVPR 2020) [[Paper]](https://arxiv.org/pdf/1911.04252.pdf)
+
+* **Exploring self-attention for image recognition** (Zhao et al.; CVPR 2020) [[Paper]](https://arxiv.org/pdf/2004.13621.pdf)
+
 ### 2019
 
 * **Micro-Batch Training with Batch-Channel Normalization and Weight Standardization** (Qiao et al.) [[Paper]](https://arxiv.org/pdf/1903.10520.pdf)

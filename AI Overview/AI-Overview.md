@@ -11,3 +11,5 @@
 
 * [The Myth Of China’s Big A.I. Advantage -- Calling data “the new oil” could hurt efforts to protect privacy](https://slate.com/technology/2019/06/data-not-new-oil-kai-fu-lee-china-artificial-intelligence.html)
   ** [another link](https://internetgovernancehub.blog/2019/06/15/the-myth-of-chinas-big-a-i-advantage)
+
+* [Debunking the Myth of China’s AI Superiority](https://www.eetimes.com/debunking-the-myth-of-chinas-ai-superiority/)

@@ -24,8 +24,6 @@
 
 * **Collaborative Learning for Faster StyleGAN Embedding** (Guan et al.; 2020) [[Paper]](https://arxiv.org/pdf/2007.01758.pdf)
 
-* **Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation** (Richardson et al.; 2020) [[Paper]](https://arxiv.org/pdf/2008.00951.pdf)
-
 * **Generative Pretraining from Pixels** (Chen et al.; OpenAI 2020) [[Paper]](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf)
 
 * **Adversarial Latent Autoencoders** (Pidhorskyi et al.; CVPR 2020) [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Pidhorskyi_Adversarial_Latent_Autoencoders_CVPR_2020_paper.pdf)

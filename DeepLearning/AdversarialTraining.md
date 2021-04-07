@@ -16,6 +16,7 @@
 * **Understanding adversarial training: Increasing local stability of supervised models through robust optimization** (Shaham et al.; 2018) [[Paper]](https://arxiv.org/pdf/1511.05432.pdf)
 
 * **Wild Patterns: Ten Years After the Rise of Adversarial Machine Learning** （Biggio et al.; Pattern Recognition 2018) [[Paper]](Wild Patterns: Ten Years After the Rise of Adversarial Machine Learning)
+
 ### 2017
 
 * **Adversarial Machine Learning at Scale** (Kurakin, Bengio, et al; ICLR 2017; Google Brain; I-FGSM) [[Paper]](https://arxiv.org/pdf/1611.01236.pdf)
