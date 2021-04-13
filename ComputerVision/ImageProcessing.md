@@ -33,9 +33,16 @@ Includes image denoising, super-resolution, style-transfer etc.
 
 * **Depth of Field Rendering based on the Improved Gaussian Blurring in Augmented Reality System** (Xu et al.) [[Paper]](https://pdfs.semanticscholar.org/1d23/bbf675351a70588af88ebee01fd11668905e.pdf)
 
+* **DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks** (Kupyn et al.; CVPR 2018) [[Paper]](https://arxiv.org/pdf/1711.07064.pdf)
+
+
 ## Impainting
 
 * **Image Inpainting for Irregular Holes Using Partial Convolutions** (Liu et al.; ECCV 2018) [[Paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Guilin_Liu_Image_Inpainting_for_ECCV_2018_paper.pdf)
+
+* **MUSICAL: Multi-Scale Image Contextual Attention Learning for Inpainting** (Wang et al.; IJCAI-2019) [[Paper]](https://www.ijcai.org/Proceedings/2019/0520.pdf)
+
+* **Generative Image Inpainting with Contextual Attention** (Yu et al.; CVPR 2018) [[Paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_Generative_Image_Inpainting_CVPR_2018_paper.pdf)
 
 
 ## Image Quality Metrics

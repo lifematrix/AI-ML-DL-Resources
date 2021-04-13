@@ -58,6 +58,8 @@
 * **A Style-Based Generator Architecture for Generative Adversarial Networks** (Karras et al.; CVPR 2019) [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.pdf)
   * [Encoder for official Tensorflow Implementation](https://github.com/pbaylies/stylegan-encoder)
 
+* **Misc-GAN: A Multi-scale Generative Model for Graphs** (Zhou et al.) [[URL]](https://www.frontiersin.org/articles/10.3389/fdata.2019.00003/full)
+
 ### 2018
 
 * **Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks** (Zhu et al.; ICCV 2017; Cited by 6.7k) [[Paper]](https://arxiv.org/abs/1703.10593)
@@ -178,6 +180,11 @@
 
 ## Articles
 
+### General
+
+* [Generative Models](https://openai.com/blog/generative-models/) by OpenAI
+
+* [A deep generative model trifecta: Three advances that work towards harnessing large-scale power](https://www.microsoft.com/en-us/research/blog/a-deep-generative-model-trifecta-three-advances-that-work-towards-harnessing-large-scale-power/) by Microsoft research
 ### Metrics of GAN
 
 * [GAN — How to measure GAN performance?](https://medium.com/@jonathan_hui/gan-how-to-measure-gan-performance-64b988c47732) by Jonathan Hui
