@@ -40,6 +40,7 @@
 
 ### 2017
 
+* **Aggregated Residual Transformations for Deep Neural Networks** （Xie et al.; CVPR 2017) [[Paper]](https://arxiv.org/pdf/1611.05431.pdf)
 
 ### 2016
 

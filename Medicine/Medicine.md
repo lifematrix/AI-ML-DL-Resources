@@ -39,6 +39,15 @@
 * **Deep learning versus human graders for classifying diabetic retinopathy severity in a nationwide screening program** (Raumviboonsuk et al.; Nature 2019)
 [[Paper]](https://www.nature.com/articles/s41746-019-0099-8)
 
+### AMD
+
+* [Tutorials](https://rimr.doheny.org/resources/tutorials/) in Resources on Doheny Eye Institute Web Site
+  * ["Lessons from Alzheimer’s Disease for AMD" - Marie Csete MD, PhD](https://www.youtube.com/watch?v=2Isyo42r5mM&list=PLA9ag88nI9UQ6rcn18sqCnnxOlMMg0lfx&index=2), Youtube Video
+
+  * [Basic Eye Anotomy](http://rimr.doheny.org/wp-content/uploads/sites/2/2016/12/Basic_Eye_Anatomy.mp4) by Alexander Waish, M.D.(2011)
+
+  * [Histology of the Macula: Health, Aging, and AMD](https://www.youtube.com/watch?v=eO6MWyMTcgY&list=PLA9ag88nI9UQ6rcn18sqCnnxOlMMg0lfx&index=3) - by Christine A. Curcio, PhD (2019)
+
 ### Retinal Vessel Segmentation
 
 #### Code
