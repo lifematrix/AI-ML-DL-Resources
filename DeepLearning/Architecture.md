@@ -8,6 +8,8 @@
 
 * **An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale** (Dosovitskiy et al.; ViT: Vision Transformer) [[Paper]](https://arxiv.org/pdf/2010.11929.pdf)
   * [code and pretrained model](https://github.com/google-research/vision_transformer)
+  
+* **Revisiting ResNets: Improved Training and Scaling Strategies** (Bello et al.; 2021) [[Paper]](https://arxiv.org/pdf/2103.07579.pdf)
 
 ### 2020
 

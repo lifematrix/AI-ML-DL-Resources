@@ -39,6 +39,10 @@
 * **Deep learning versus human graders for classifying diabetic retinopathy severity in a nationwide screening program** (Raumviboonsuk et al.; Nature 2019)
 [[Paper]](https://www.nature.com/articles/s41746-019-0099-8)
 
+* **Machine Learning of the Progression of Intermediate Age-Related Macular Degeneration Based on OCT Imaging** [[Paper]](https://iovs.arvojournals.org/article.aspx?articleid=2635834)
+
+* **Clinically applicable deep learning for diagnosis and referral in retinal disease** (Fauw et al.; Nature 2018) [[Paper for viewing]](https://www.nature.com/articles/s41591-018-0107-6.epdf?author_access_token=PAbvHEuv_YYmrPVbG5HqKdRgN0jAjWel9jnR3ZoTv0P43NEH20hFuvBoJk6cvICihn8kmL6tmejFlnuPlbT_0KmJgK6N07SPh_ZLy0Nxb0-LAGIDBaH1fjJTkD9ahUEQpRlEudtlG9E1v3ca9xNQcQ%3D%3D) [[PDF]](https://kstatic.googleusercontent.com/files/2cfa1b4c63fcbabb838f8f1cab0bf45fd24686ec04d8af69284df9eaa66f4217be38d9888bd536c3b626a2de6663d811bd0949f15fffc9cfd953af946b59a929)
+
 ### AMD
 
 * [Tutorials](https://rimr.doheny.org/resources/tutorials/) in Resources on Doheny Eye Institute Web Site
@@ -59,6 +63,11 @@
 * [Retina blood vessel segmentation with a convolution neural network (U-net)](https://github.com/orobix/retina-unet)
 * [A Novel Deep Learning Pipeline for Retinal Vessel Detection In Fluorescein Angiography](https://github.com/ShamaLabUR/DeepVesselSeg4FA)
 
+## Articles
+
+* [Using AI to predict retinal disease progression](https://deepmind.com/blog/article/Using_ai_to_predict_retinal_disease_progression) by DeepMind
+
+* [A major milestone for the treatment of eye disease](https://deepmind.com/blog/article/moorfields-major-milestone)
 
 
 ## AI Application in Clinical Setting
