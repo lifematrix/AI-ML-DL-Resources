@@ -36,6 +36,9 @@
 
 ## Retina
 
+### 2020
+
+* **Predicting conversion to wet age-related macular degeneration using deep learning** 
 * **Deep learning versus human graders for classifying diabetic retinopathy severity in a nationwide screening program** (Raumviboonsuk et al.; Nature 2019)
 [[Paper]](https://www.nature.com/articles/s41746-019-0099-8)
 
@@ -51,6 +54,33 @@
   * [Basic Eye Anotomy](http://rimr.doheny.org/wp-content/uploads/sites/2/2016/12/Basic_Eye_Anatomy.mp4) by Alexander Waish, M.D.(2011)
 
   * [Histology of the Macula: Health, Aging, and AMD](https://www.youtube.com/watch?v=eO6MWyMTcgY&list=PLA9ag88nI9UQ6rcn18sqCnnxOlMMg0lfx&index=3) - by Christine A. Curcio, PhD (2019)
+
+
+### OCTA
+
+* [Dimensions of the foveal avascular zone using the Heidelberg retinal angiogram-2 in normal eyes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3032258/)
+
+
+## Diabetes
+
+### 2020
+
+* **Quantification of Fluid Resolution and Visual Acuity Gain in Patients With Diabetic Macular Edema Using Deep Learning** (Philipp K. Roberts) [[Paper]](https://retinsight.com/wp-content/uploads/2021/03/12_2020_Roberts-et-al_Jama-ophthalmology.pdf)
+
+* **Segmentation of Diabetic Retinopathy Lesions by Deep Learning: Achievements and Limitations** （Furtado et al.) [[Paper]](https://www.scitepress.org/Papers/2020/88811/88811.pdf)
+### 2019
+
+* **Prognostic Modeling and Prevention of Diabetes Using Machine Learning Technique** (Perveen et al.; Scientific Report) [[Paper]](https://www.nature.com/articles/s41598-019-49563-6.pdf)
+
+* **Machine Learning Techniques for Screening and Diagnosis of Diabetes: a Survey** (Sun et al.) [[paper]](https://hrcak.srce.hr/221017)
+
+### 2018
+
+* **Diabetes Prediction: A Deep Learning Approach** (Ayon et al.) [[Paper]](http://www.mecs-press.net/ijieeb/ijieeb-v11-n2/IJIEEB-V11-N2-3.pdf)
+
+### 2017
+
+* **Weakly-Supervised Localization Of Diabetic Retinopathy Lesions In Retinal Fundus Images** (Gondal Et Al.) [[Paper]](Https://Arxiv.Org/Pdf/1706.09634.Pdf)
 
 ### Retinal Vessel Segmentation
 

@@ -10,6 +10,8 @@
 
 * **Evolution of Transfer Learning in Natural Language Processing** (Malte et al.) [[Paper]](https://arxiv.org/pdf/1910.07370.pdf)
 
+* **TENER: Adapting Transformer Encoder for Named Entity Recognition** (Yan et al.; 2019) [[Paper]](https://arxiv.org/pdf/1911.04474.pdf)
+
 ### 2018
 
 * **Deep contextualized word representations** (Peters et al.; 2018; Known as ELMo; Cited by 5517) [[Paper]](https://arxiv.org/pdf/1802.05365.pdf)
@@ -20,28 +22,50 @@
 * **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding** (Devlin et al.;Cited by 14k) [[Paper]](https://arxiv.org/abs/1810.04805)
   * Code
     * [Pytorch and Tensorflow implementation](https://github.com/huggingface/transformers)
-    * [BERT End t End (Fine-tuning + Predicting) with Cloud TPU](https://colab.research.google.com/github/tensorflow/tpu/blob/master/tools/colab/bert_finetuning_with_cloud_tpus.ipynb), it is a google official colab notebook using two TPUs.
+    * [BERT End to End (Fine-tuning + Predicting) with Cloud TPU](https://colab.research.google.com/github/tensorflow/tpu/blob/master/tools/colab/bert_finetuning_with_cloud_tpus.ipynb), it is a google official colab notebook using two TPUs.
     
-* [**The Annotated Transformer**](https://nlp.seas.harvard.edu/2018/04/03/attention.html) in Harvardnlp.  A very great guide written by Vaswani, the author of paper ["Attention ia all you need"](https://arxiv.org/pdf/1706.03762.pdf).
+* **SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing** (Kuda, et al.; 2018) [[Paper]](https://arxiv.org/pdf/1808.06226.pdf)
 
 ### 2017
 
 * **Attention Is All You Need** (Vaswani et al.; 2017; NISP 2017; Cited by 16k) [[Paper]](https://arxiv.org/pdf/1706.03762.pdf)
-  * A great [code illustration](https://nlp.seas.harvard.edu/2018/04/03/attention.html) by the author
+  * [**The Annotated Transformer**](https://nlp.seas.harvard.edu/2018/04/03/attention.html) in Harvardnlp.  A very great guide written by Vaswani, the author of this paper.
+  * [NLP Turtorails](https://github.com/graykode/nlp-tutorial/tree/master/5-1.Transformer)
+  * **A clean example**: [blog](https://towardsdatascience.com/how-to-code-the-transformer-in-pytorch-24db27c8f9ec), [github](https://github.com/SamLynnEvans/Transformer)
 
 * **Convolutional Sequence to Sequence Learning** (Gehring et al.; ICML 2017) [[Paper]](https://arxiv.org/pdf/1705.03122.pdf)
 
+* **Language Modeling with Gated Convolutional Networks** (N.Dauphin et al.; PMLR 2017) [[Paper]](https://arxiv.org/pdf/1612.08083.pdf)
+
+### 2016
+
+* **Neural Machine Translation in Linear Time** (Kalchbrenner et al.; 2016) [[Paper]](https://arxiv.org/pdf/1610.10099.pdf)
+
 ### 2015
 
- * **Semi-supervised Sequence Learning** (Dai et al.; NIPS 2015; Cited by 818) [[Paper]](https://arxiv.org/pdf/1511.01432.pdf)
+* **Semi-supervised Sequence Learning** (Dai et al.; NIPS 2015; Cited by 818) [[Paper]](https://arxiv.org/pdf/1511.01432.pdf)
+
+* **Neural Machine Translation of Rare Words with Subword Units** (Sennrich et al.; ACL 2016; Byte-pair Representation) [[Paper]](https://arxiv.org/pdf/1508.07909.pdf)
+  * [jupyter tutorial](https://ufal.mff.cuni.cz/~helcl/courses/npfl116/ipython/byte_pair_encoding.html)
+
  
+### 2011
+
+* **Natural Language Processing (Almost) from Scratch** (Collobert, Ronan; JMLR 2011) [[Paper]](https://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf)
+### 2001
+
+* **Gradient Flow in Recurrent Nets: the Difficulty of Learning Long-Term Dependencies** (Hochreiter et al.; 2001) [[Paper]](https://ml.jku.at/publications/older/ch7.pdf)
  
 ### 1997
 
 * **Long short-term memory** (Hochreiter et al. Neural computation; Cited by 42k) [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.676.4320&rep=rep1&type=pdf)
 
+### 1992
 
-## Articles and blog 
+* **An estimate of an upper bound for the entropy of English** (Peter F. Brown, et al. Computational Linguistics, Vol 18, Issue 1, March 1992, pp 31-40.) [[Paper]](https://www.aclweb.org/anthology/J92-1002.pdf)
+
+
+## Articles and blog         
 
 * Jay Alammar's Posts
 
@@ -51,6 +75,8 @@
 
   * Attention -- [**Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)**](http://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
   
+  * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://nlp.stanford.edu/seminar/details/jdevlin.pdf) by Jacob Devlin, Google AI language
+  
 * [**Tokenizers: How machines read**](https://blog.floydhub.com/tokenization-nlp/) by Cathal Horan
 
 * [**Open Sourcing BERT: State-of-the-Art Pre-training for Natural Language Processing**](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html) -- announcement of BERT.
@@ -59,8 +85,45 @@
 
 * [A Review of Deep Contextualized Word Representations](https://www.slideshare.net/shuntaroy/a-review-of-deep-contextualized-word-representations-peters-2018) -- Slides by Peters (2018)
 
+* [Attention and its Different Forms](https://towardsdatascience.com/attention-and-its-different-forms-7fc3674d14dc) by Anusha Lihala by Anusha Lihala
+
+* [Transformer Architecture: The Positional Encoding](https://kazemnejad.com/blog/transformer_architecture_positional_encoding/) by Amirhossein Kazemnejad, 2019
+
 ## Dataset
 
 * [**SQuAD 2.0: The standford question answering dataset**](https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/)
+
+### Translation
+
+* [Tab-delimited Bilingual Sentence Pairs](http://www.manythings.org/anki)
+
+* [25 Best Parallel Translations Data Sources for Machine Learning](https://lionbridge.ai/datasets/25-best-parallel-text-datasets-for-machine-translation-training/)
+
+
+### Neural Machine Translation at Standford NLP Group
+
+Source Web Page is <https://nlp.stanford.edu/projects/nmt/>
+
+* Preprocessed Data
+  * WMT'14 English-German data [Medium]
+
+    * Train(4.5M Sentence Pairs): [train.en](https://nlp.stanford.edu/projects/nmt/data/wmt14.en-de/train.en) [train.de](https://nlp.stanford.edu/projects/nmt/data/wmt14.en-de/train.de) 
+    
+* [The crawl scripts of Bookcorpus on the github](https://github.com/soskek/bookcorpus)
+
+
+## Tutorials
+
+* [Fine-tuning a BERT model](https://www.tensorflow.org/official_models/fine_tuning_bert)
+
+
+## Codes
+
+* [OpenNMT-tf](https://github.com/OpenNMT/OpenNMT-tf)
+
+
+## Conferences
+
+* [International Workshop on Spoken Language Translation, December 4-5, 2024](https://workshop2014.iwslt.org/downloads/proceeding.pdf)
 
 

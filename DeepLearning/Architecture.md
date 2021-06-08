@@ -11,6 +11,10 @@
   
 * **Revisiting ResNets: Improved Training and Scaling Strategies** (Bello et al.; 2021) [[Paper]](https://arxiv.org/pdf/2103.07579.pdf)
 
+* **MLP-Mixer: An all-MLP Architecture for Vision** (Tolstikhin et al.; 2021; Google Brain) [[Paper]](https://arxiv.org/pdf/2105.01601.pdf)
+
+* **Do You Even Need Attention? A Stack of Feed-Forward Layers Does Surprisingly Well on ImageNet** (Kyriazi et al.; 2021; Oxford VGG) [[Paper]](https://arxiv.org/pdf/2105.02723.pdf)
+
 ### 2020
 
 * **Meta pseudo labels** (Pham et al.; 2020) [[Paper]](https://arxiv.org/pdf/2003.10580.pdf)
@@ -34,19 +38,32 @@
 
 * **Mobilenetv2: Inverted residuals and linear bottlenecks** (Sandler et al.; CVPR 2018) [[Paper]](https://arxiv.org/pdf/1801.04381.pdf)
 
-### 2018
+* **Group Normalization** (Wu et al.; ECCV 2018) [[Paper]](https://arxiv.org/pdf/1803.08494.pdf)
 
 * **Squeeze-and-Excitation Networks** （Hu et al.; CVPR 2018) [[Paper]](https://www.robots.ox.ac.uk/~vgg/publications/2018/Hu18/hu18.pdf)
 
 * **Visualizing the Loss Landscape of Neural Nets** （Li et al. NIPS 2018) [[Paper]](https://papers.nips.cc/paper/2018/file/a41b3bb3e6b050b6c9067c67f663b915-Paper.pdf)
 
+* **Gaussian Error Linear Units** (Hendrycks et al.; 2018; GELUs) [[Paper]](https://arxiv.org/pdf/1606.08415v3.pdf)
+  * Article: [GELU activation](https://medium.com/@shoray.goel/gelu-gaussian-error-linear-unit-4ec59fb2e47c)
+  * Related to Approximation of Gassuian error function:
+    * **High Accurate Simple Approximation of Normal Distribution Integral** (Vazquez-Leal et al. 2012) [[URL]](https://www.hindawi.com/journals/mpe/2012/124029)
+    * Book: J. H. Patel and C. B. Read, **Handbook of the Normal Distribution, Statistics A Series of Textbooks and Monographs**, Marcel Dekker, New York, NY, USA, 2nd edition, 1996.
+
+* **Non-local neural networks** (Wang et al.; CVPR 2018) [[Paper]](https://arxiv.org/pdf/1711.07971.pdf)
+
 ### 2017
 
 * **Aggregated Residual Transformations for Deep Neural Networks** （Xie et al.; CVPR 2017) [[Paper]](https://arxiv.org/pdf/1611.05431.pdf)
 
+* **Zoneout: Regularizing RNNs by Randomly Preserving Hidden Activations** (Krueger et al.; ICLR 2017) [[Paper]](https://arxiv.org/pdf/1606.01305.pdf)
+
 ### 2016
 
 * **Identity Mappings in Deep Residual Networks** (He et al.; ECCV 2016 camera-read) [[Paper]](https://arxiv.org/pdf/1603.05027.pdf)
+
+* **Layer Normalization** (Ba, and E.Hinton, el al.; 2016) [[Paper]](https://arxiv.org/pdf/1607.06450.pdf)
+
 
 
 ### 2015
@@ -63,3 +80,5 @@
 ## Articles
 
 * [Why Relu? Tips for using Relu. Comparison between Relu, Leaky Relu, and Relu-6](https://medium.com/@chinesh4/why-relu-tips-for-using-relu-comparison-between-relu-leaky-relu-and-relu-6-969359e48310)
+
+* [Batch Normalization, Instance Normalization, Layer Normalization: Structural Nuances](https://becominghuman.ai/all-about-normalization-6ea79e70894b)
