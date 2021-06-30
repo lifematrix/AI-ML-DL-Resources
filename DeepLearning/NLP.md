@@ -41,6 +41,8 @@
 
 * **Neural Machine Translation in Linear Time** (Kalchbrenner et al.; 2016) [[Paper]](https://arxiv.org/pdf/1610.10099.pdf)
 
+* **Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation** (Wu et al.; 2016) [[Paper]](https://arxiv.org/pdf/1609.08144.pdf)
+
 ### 2015
 
 * **Semi-supervised Sequence Learning** (Dai et al.; NIPS 2015; Cited by 818) [[Paper]](https://arxiv.org/pdf/1511.01432.pdf)
@@ -48,6 +50,7 @@
 * **Neural Machine Translation of Rare Words with Subword Units** (Sennrich et al.; ACL 2016; Byte-pair Representation) [[Paper]](https://arxiv.org/pdf/1508.07909.pdf)
   * [jupyter tutorial](https://ufal.mff.cuni.cz/~helcl/courses/npfl116/ipython/byte_pair_encoding.html)
 
+* **CHRF: character n-gram F-score for automatic MT evaluation** (Maja Popovic ́; Proceedings of the Tenth Workshop on Statistical Machine Translation) [[Paper]](https://www.aclweb.org/anthology/W15-3049.pdf)
  
 ### 2011
 
@@ -65,7 +68,9 @@
 * **An estimate of an upper bound for the entropy of English** (Peter F. Brown, et al. Computational Linguistics, Vol 18, Issue 1, March 1992, pp 31-40.) [[Paper]](https://www.aclweb.org/anthology/J92-1002.pdf)
 
 
-## Articles and blog         
+## Articles, blogs and slides
+
+### blog
 
 * Jay Alammar's Posts
 
@@ -89,6 +94,13 @@
 
 * [Transformer Architecture: The Positional Encoding](https://kazemnejad.com/blog/transformer_architecture_positional_encoding/) by Amirhossein Kazemnejad, 2019
 
+* Tokenizer
+  * [What is Byte-Pair Encoding for Tokenization?](https://rutumulkar.com/blog/2021/byte-pair-encoding/) by Rutu Mulkar
+  * [3 subword algorithms help to improve your NLP model performance](https://medium.com/@makcedward/how-subword-helps-on-your-nlp-model-83dd1b836f46) by Edward Ma
+
+### Slides
+
+* [Natural Language Processing with Deep Learning CS224N/Ling284](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/slides/cs224n-2019-lecture12-subwords.pdf)
 ## Dataset
 
 * [**SQuAD 2.0: The standford question answering dataset**](https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/)

@@ -31,6 +31,10 @@
 
 * **Micro-Batch Training with Batch-Channel Normalization and Weight Standardization** (Qiao et al.) [[Paper]](https://arxiv.org/pdf/1903.10520.pdf)
 
+* **A Large-scale Study of Representation Learning with the Visual Task Adaptation Benchmark** (Zhai et al.) [[Paper]](https://arxiv.org/pdf/1910.04867.pdf)
+
+* **Data-efficient image recognition with contrastive predictive coding** (Hénaff et al.; ECCV 2020) [[Paper]](https://arxiv.org/pdf/1905.09272.pdf)
+
 
 ### 2018
 

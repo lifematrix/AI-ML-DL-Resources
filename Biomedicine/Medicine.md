@@ -1,4 +1,5 @@
 
+
 ## Medical Image Generation
 
 ### 2021
@@ -36,7 +37,14 @@
 
 ## Retina
 
-### 2020
+### General
+
+#### 2021
+
+* **Comparison Of Single Drusen Size On Color Fundus Photography And Spectral-Domain Optical Coherence Tomography** (Kim Et Al.; Retina 2021) [[Paper]](Https://Journals.Lww.Com/Retinajournal/Abstract/9000/Comparison_of_single_drusen_size_on_color_fundus.95597.Aspx)
+
+
+#### 2020
 
 * **Predicting conversion to wet age-related macular degeneration using deep learning** 
 * **Deep learning versus human graders for classifying diabetic retinopathy severity in a nationwide screening program** (Raumviboonsuk et al.; Nature 2019)
@@ -45,6 +53,19 @@
 * **Machine Learning of the Progression of Intermediate Age-Related Macular Degeneration Based on OCT Imaging** [[Paper]](https://iovs.arvojournals.org/article.aspx?articleid=2635834)
 
 * **Clinically applicable deep learning for diagnosis and referral in retinal disease** (Fauw et al.; Nature 2018) [[Paper for viewing]](https://www.nature.com/articles/s41591-018-0107-6.epdf?author_access_token=PAbvHEuv_YYmrPVbG5HqKdRgN0jAjWel9jnR3ZoTv0P43NEH20hFuvBoJk6cvICihn8kmL6tmejFlnuPlbT_0KmJgK6N07SPh_ZLy0Nxb0-LAGIDBaH1fjJTkD9ahUEQpRlEudtlG9E1v3ca9xNQcQ%3D%3D) [[PDF]](https://kstatic.googleusercontent.com/files/2cfa1b4c63fcbabb838f8f1cab0bf45fd24686ec04d8af69284df9eaa66f4217be38d9888bd536c3b626a2de6663d811bd0949f15fffc9cfd953af946b59a929)
+
+#### 2018
+
+* **Color fundus image registration techniques and applications for automated analysis of diabetic retinopathy progression: A review** (Saha et al.; 2019) [[Paper]](https://www.researchgate.net/publication/330045607_Color_fundus_image_registration_techniques_and_applications_for_automated_analysis_of_diabetic_retinopathy_progression_A_review)
+   * K&I Algorithm **Maximum likelihood signal processing techniques to detect a step pattern of change in multitemporal SAR images** 
+#### 2017
+
+* **FIRE: Fundus Image Registration dataset** (Matas et al.; 2017) [[Paper]](https://carlos.hernandez.im/papers/2017_07_JMO.pdf)
+  * [Download url](https://projects.ics.forth.gr/cvrl/fire/) or [this](http://www.ics.forth.gr/cvrl/fire)
+
+#### 2016
+
+* **The role of optical coherence tomography in Alzheimer’s disease** (Cunhua et al.;International Journal of Retina and Vitreous) [[Paper]](https://journalretinavitreous.biomedcentral.com/track/pdf/10.1186/s40942-016-0049-4.pdf) [[URL]](https://journalretinavitreous.biomedcentral.com/articles/10.1186/s40942-016-0049-4)
 
 ### AMD
 
@@ -82,6 +103,10 @@
 
 * **Weakly-Supervised Localization Of Diabetic Retinopathy Lesions In Retinal Fundus Images** (Gondal Et Al.) [[Paper]](Https://Arxiv.Org/Pdf/1706.09634.Pdf)
 
+### 1992
+
+* **Registration of high resolution images of the retina** (Cideciyan et al.) [[Paper]](https://d-nb.info/102407997X/34)
+
 ### Retinal Vessel Segmentation
 
 #### Code
@@ -93,6 +118,16 @@
 * [Retina blood vessel segmentation with a convolution neural network (U-net)](https://github.com/orobix/retina-unet)
 * [A Novel Deep Learning Pipeline for Retinal Vessel Detection In Fluorescein Angiography](https://github.com/ShamaLabUR/DeepVesselSeg4FA)
 
+
+## MRI
+
+### 2019
+
+* **Predicting the Evolution of White Matter Hyperintensities in Brain MRI using Generative Adversarial Networks and Irregularity Map** (Rachmadi et al.) [[Paper]](https://www.biorxiv.org/content/10.1101/662692v2)
+
+### 2018
+
+* **Visual Feature Attribution using Wasserstein GANs** (Baumgartner, et al.; CVPR 2018) [[Paper]]()
 ## Articles
 
 * [Using AI to predict retinal disease progression](https://deepmind.com/blog/article/Using_ai_to_predict_retinal_disease_progression) by DeepMind
