@@ -23,6 +23,7 @@
   * Code
     * [Pytorch and Tensorflow implementation](https://github.com/huggingface/transformers)
     * [BERT End to End (Fine-tuning + Predicting) with Cloud TPU](https://colab.research.google.com/github/tensorflow/tpu/blob/master/tools/colab/bert_finetuning_with_cloud_tpus.ipynb), it is a google official colab notebook using two TPUs.
+    * [TensorFlow very 2.0 (Keras) implementation of BERT](https://github.com/kpe/bert-for-tf2)
     
 * **SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing** (Kuda, et al.; 2018) [[Paper]](https://arxiv.org/pdf/1808.06226.pdf)
 

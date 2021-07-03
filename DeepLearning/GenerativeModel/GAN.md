@@ -60,6 +60,8 @@
 
 * **Misc-GAN: A Multi-scale Generative Model for Graphs** (Zhou et al.) [[URL]](https://www.frontiersin.org/articles/10.3389/fdata.2019.00003/full)
 
+* **Large Scale Adversarial Representation Learning** (Donakue et al.; NIPS 2019) [[Paper]](https://arxiv.org/pdf/1907.02544.pdf)
+
 ### 2018
 
 * **Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks** (Zhu et al.; ICCV 2017; Cited by 6.7k) [[Paper]](https://arxiv.org/abs/1703.10593)
