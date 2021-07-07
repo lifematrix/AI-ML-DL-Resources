@@ -12,6 +12,8 @@
 
 * **TENER: Adapting Transformer Encoder for Named Entity Recognition** (Yan et al.; 2019) [[Paper]](https://arxiv.org/pdf/1911.04474.pdf)
 
+* **Well-Read Students Learn Better: On the Importance of Pre-training Compact Models** (Turc et al.) [[Paper]](https://arxiv.org/pdf/1908.08962.pdf)
+
 ### 2018
 
 * **Deep contextualized word representations** (Peters et al.; 2018; Known as ELMo; Cited by 5517) [[Paper]](https://arxiv.org/pdf/1802.05365.pdf)
@@ -24,6 +26,7 @@
     * [Pytorch and Tensorflow implementation](https://github.com/huggingface/transformers)
     * [BERT End to End (Fine-tuning + Predicting) with Cloud TPU](https://colab.research.google.com/github/tensorflow/tpu/blob/master/tools/colab/bert_finetuning_with_cloud_tpus.ipynb), it is a google official colab notebook using two TPUs.
     * [TensorFlow very 2.0 (Keras) implementation of BERT](https://github.com/kpe/bert-for-tf2)
+    * [Hugging's Face Pytorch version](https://github.com/huggingface/transformers)
     
 * **SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing** (Kuda, et al.; 2018) [[Paper]](https://arxiv.org/pdf/1808.06226.pdf)
 
@@ -102,9 +105,12 @@
 ### Slides
 
 * [Natural Language Processing with Deep Learning CS224N/Ling284](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/slides/cs224n-2019-lecture12-subwords.pdf)
+
 ## Dataset
 
 * [**SQuAD 2.0: The standford question answering dataset**](https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/)
+
+* [**XNLI: The Cross-Lingual NLI Corpus**](https://github.com/facebookresearch/XNLI) on github by Facebook Research
 
 ### Translation
 
