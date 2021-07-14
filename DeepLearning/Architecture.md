@@ -6,7 +6,7 @@
 
 * **Characterizing signal propagation to close the performance gap in unnormalized resnets** (Brock et al.; ICLR 2021) [[Paper]](https://arxiv.org/pdf/2101.08692.pdf)
 
-* **An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale** (Dosovitskiy et al.; ViT: Vision Transformer) [[Paper]](https://arxiv.org/pdf/2010.11929.pdf)
+* **An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale** (Dosovitskiy et al.; 2021; ViT: Vision Transformer) [[Paper]](https://arxiv.org/pdf/2010.11929.pdf)
   * [code and pretrained model](https://github.com/google-research/vision_transformer)
   
 * **Revisiting ResNets: Improved Training and Scaling Strategies** (Bello et al.; 2021) [[Paper]](https://arxiv.org/pdf/2103.07579.pdf)
@@ -14,6 +14,8 @@
 * **MLP-Mixer: An all-MLP Architecture for Vision** (Tolstikhin et al.; 2021; Google Brain) [[Paper]](https://arxiv.org/pdf/2105.01601.pdf)
 
 * **Do You Even Need Attention? A Stack of Feed-Forward Layers Does Surprisingly Well on ImageNet** (Kyriazi et al.; 2021; Oxford VGG) [[Paper]](https://arxiv.org/pdf/2105.02723.pdf)
+
+* **Scaling Vision Transformers** (Zhai et al.; 2021) [[Paper]](https://arxiv.org/pdf/2106.04560v1.pdf) 
 
 ### 2020
 
@@ -27,11 +29,13 @@
 
 * **Exploring self-attention for image recognition** (Zhao et al.; CVPR 2020) [[Paper]](https://arxiv.org/pdf/2004.13621.pdf)
 
+* **Big Transfer (BiT): General Visual Representation Learning** (Kolesnikov et al.; 2020) [[Paper]](https://arxiv.org/pdf/1912.11370.pdf)
+
 ### 2019
 
 * **Micro-Batch Training with Batch-Channel Normalization and Weight Standardization** (Qiao et al.) [[Paper]](https://arxiv.org/pdf/1903.10520.pdf)
 
-* **A Large-scale Study of Representation Learning with the Visual Task Adaptation Benchmark** (Zhai et al.) [[Paper]](https://arxiv.org/pdf/1910.04867.pdf)
+* **A Large-scale Study of Representation Learning with the Visual Task Adaptation Benchmark** (Zhai et al.; 2019) [[Paper]](https://arxiv.org/pdf/1910.04867.pdf)
 
 * **Data-efficient image recognition with contrastive predictive coding** (Hénaff et al.; ECCV 2020) [[Paper]](https://arxiv.org/pdf/1905.09272.pdf)
 
@@ -56,6 +60,11 @@
 
 * **Non-local neural networks** (Wang et al.; CVPR 2018) [[Paper]](https://arxiv.org/pdf/1711.07971.pdf)
 
+* **Mixed Precision Training** (Micikevicius et al.; ICLR 2018) [[Paper]](https://arxiv.org/pdf/1710.03740)
+  
+* **A guide to convolution arithmetic for deep learning** (Dumoulin et al. 2018) [[Paper]](https://arxiv.org/pdf/1603.07285.pdf)
+
+
 ### 2017
 
 * **Aggregated Residual Transformations for Deep Neural Networks** （Xie et al.; CVPR 2017) [[Paper]](https://arxiv.org/pdf/1611.05431.pdf)
@@ -68,6 +77,7 @@
 
 * **Layer Normalization** (Ba, and E.Hinton, el al.; 2016) [[Paper]](https://arxiv.org/pdf/1607.06450.pdf)
 
+* **Understanding Convolutional Neural Networks** (Kousik et al.; NIPS 2016) [[Paper]](https://arxiv.org/pdf/1605.09081.pdf)
 
 
 ### 2015

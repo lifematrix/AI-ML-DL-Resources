@@ -5,6 +5,8 @@
 
 * **A Survey on Contextual Embeddings** (Liu et al.) [[Paper]](https://arxiv.org/pdf/2003.07278.pdf)
 * **A Survey on Transfer Learning in Natural Language Processing** (Alyafeai et al.; 2020) [[Paper]](https://arxiv.org/pdf/2007.04239.pdf)
+  
+* **Unsupervised Cross-lingual Representation Learning at Scale** (Goyal et al.; ACL 2020) [[Paper]](https://aclanthology.org/2020.acl-main.747.pdf)
 
 ### 2019
 
@@ -13,6 +15,11 @@
 * **TENER: Adapting Transformer Encoder for Named Entity Recognition** (Yan et al.; 2019) [[Paper]](https://arxiv.org/pdf/1911.04474.pdf)
 
 * **Well-Read Students Learn Better: On the Importance of Pre-training Compact Models** (Turc et al.) [[Paper]](https://arxiv.org/pdf/1908.08962.pdf)
+
+* **RoBERTa: A Robustly Optimized BERT Pretraining Approach** (Liu et al. Facebook AI) [[Paper]](https://arxiv.org/pdf/1907.11692.pdf)
+
+* **Language Models are Unsupervised Multitask Learners** (Radford et al.; OpenAI blog 2019) [[Paper]](http://www.persagen.com/files/misc/radford2019language.pdf)
+
 
 ### 2018
 
@@ -36,10 +43,15 @@
   * [**The Annotated Transformer**](https://nlp.seas.harvard.edu/2018/04/03/attention.html) in Harvardnlp.  A very great guide written by Vaswani, the author of this paper.
   * [NLP Turtorails](https://github.com/graykode/nlp-tutorial/tree/master/5-1.Transformer)
   * **A clean example**: [blog](https://towardsdatascience.com/how-to-code-the-transformer-in-pytorch-24db27c8f9ec), [github](https://github.com/SamLynnEvans/Transformer)
+  * [What is the positional encoding in the transformer model?](https://datascience.stackexchange.com/questions/51065/what-is-the-positional-encoding-in-the-transformer-model) on stackoverflow
+  * [Transformer Architecture: The Positional Encoding](https://kazemnejad.com/blog/transformer_architecture_positional_encoding/) by Amirhossein Kazemnejad
+  * [The Illustrated GPT-2 (Visualizing Transformer Language Models](https://jalammar.github.io/illustrated-gpt2/)
 
 * **Convolutional Sequence to Sequence Learning** (Gehring et al.; ICML 2017) [[Paper]](https://arxiv.org/pdf/1705.03122.pdf)
 
 * **Language Modeling with Gated Convolutional Networks** (N.Dauphin et al.; PMLR 2017) [[Paper]](https://arxiv.org/pdf/1612.08083.pdf)
+
+* **Neural Machine Translation and Sequence-to-sequence Models: A Tutorial** (Neubig et al.; 2017) [[Paper]](https://arxiv.org/pdf/1703.01619.pdf)
 
 ### 2016
 
@@ -47,25 +59,43 @@
 
 * **Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation** (Wu et al.; 2016) [[Paper]](https://arxiv.org/pdf/1609.08144.pdf)
 
+* **Neural Machine Translation of Rare Words with Subword Units** (Sennrich et al.; ACL 2016; Byte-pair Representation) [[Paper]](https://arxiv.org/pdf/1508.07909.pdf)
+  * [jupyter tutorial](https://ufal.mff.cuni.cz/~helcl/courses/npfl116/ipython/byte_pair_encoding.html)
+  * [Subword-nmt](https://github.com/rsennrich/subword-nmt) on github
+
 ### 2015
 
 * **Semi-supervised Sequence Learning** (Dai et al.; NIPS 2015; Cited by 818) [[Paper]](https://arxiv.org/pdf/1511.01432.pdf)
 
-* **Neural Machine Translation of Rare Words with Subword Units** (Sennrich et al.; ACL 2016; Byte-pair Representation) [[Paper]](https://arxiv.org/pdf/1508.07909.pdf)
-  * [jupyter tutorial](https://ufal.mff.cuni.cz/~helcl/courses/npfl116/ipython/byte_pair_encoding.html)
-
 * **CHRF: character n-gram F-score for automatic MT evaluation** (Maja Popovic ́; Proceedings of the Tenth Workshop on Statistical Machine Translation) [[Paper]](https://www.aclweb.org/anthology/W15-3049.pdf)
  
+* **A Critical Review of Recurrent Neural Networks for Sequence Learning** (Lipton et al.; 2015) [[Paper]](https://arxiv.org/pdf/1506.00019)
+
+* **Neural Machine Translation by Jointly Learning to Align and Translate** (Bahdanau et al.; ICLR 2015) [[Paper]](https://arxiv.org/pdf/1409.0473.pdf)
+
+* **The unreasonable effectiveness of recurrent neural networks** (Karpathy Andrej; 2015) [[URL]](http://karpathy.github.io/2015/05/21/rnn-effectiveness/). Accessed: 2021-07-14
+
+
+### 2013
+
+* **On the difficulty of training recurrent neural networks** (Pascanu et al.; ICML 2012) [[Paper]](http://proceedings.mlr.press/v28/pascanu13.pdf)
 ### 2011
 
 * **Natural Language Processing (Almost) from Scratch** (Collobert, Ronan; JMLR 2011) [[Paper]](https://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf)
+
+### 2005
+
+* **Framewise Phoneme Classification with Bidirectional LSTM and Other Neural Network Architectures** (Graves et al. Neural Networks 2005) [[Paper]](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.575.5284&rep=rep1&type=pdf)
+
 ### 2001
 
 * **Gradient Flow in Recurrent Nets: the Difficulty of Learning Long-Term Dependencies** (Hochreiter et al.; 2001) [[Paper]](https://ml.jku.at/publications/older/ch7.pdf)
  
 ### 1997
 
-* **Long short-term memory** (Hochreiter et al. Neural computation; Cited by 42k) [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.676.4320&rep=rep1&type=pdf)
+* **Long short-term memory** (Hochreiter et al.; Neural computation; Cited by 42k) [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.676.4320&rep=rep1&type=pdf)
+
+* **Bidirectional Recurrent Neural Networks** (Schuster et al.; 1997) [[Paper]](http://deeplearning.cs.cmu.edu/F20/document/readings/Bidirectional%20Recurrent%20Neural%20Networks.pdf)
 
 ### 1992
 
@@ -74,7 +104,7 @@
 
 ## Articles, blogs and slides
 
-### blog
+### Blog
 
 * Jay Alammar's Posts
 
@@ -102,6 +132,16 @@
   * [What is Byte-Pair Encoding for Tokenization?](https://rutumulkar.com/blog/2021/byte-pair-encoding/) by Rutu Mulkar
   * [3 subword algorithms help to improve your NLP model performance](https://medium.com/@makcedward/how-subword-helps-on-your-nlp-model-83dd1b836f46) by Edward Ma
 
+* Multi-lingual BERT
+  * [A whole world of BERT](https://mapmeld.medium.com/a-whole-world-of-bert-f20d6bd47b2f) by Nick Doiron
+  * [How to Apply BERT to Arabic and Other Languages](http://mccormickml.com/2020/10/05/multilingual-bert/) by Chris McCormick
+    * Related [notebook](https://colab.research.google.com/drive/1M7pDk5bbZh_wB4GMtVjDqVG2l9hCK1Wk) on colab
+  * [A deep dive into multilingual NLP models](https://peltarion.com/blog/data-science/a-deep-dive-into-multilingual-nlp-models) by John Moberg
+  
+* Seq2Seq
+  * [Seq2seq](https://google.github.io/seq2seq/nmt/) by Google
+  
+    
 ### Slides
 
 * [Natural Language Processing with Deep Learning CS224N/Ling284](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/slides/cs224n-2019-lecture12-subwords.pdf)
@@ -111,6 +151,9 @@
 * [**SQuAD 2.0: The standford question answering dataset**](https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/)
 
 * [**XNLI: The Cross-Lingual NLI Corpus**](https://github.com/facebookresearch/XNLI) on github by Facebook Research
+
+* [**Common Crawl**](https://commoncrawl.org)
+  * lives on Amazon S3 service as part of the [Amazon Public Datasets](https://aws.amazon.com/opendata/) program.
 
 ### Translation
 
