@@ -11,6 +11,8 @@
 
 * **Representation Learning for Improved Inter-Pretability and Classification Accuracy of Clinical Factors From EEG**  (Honke et al.; ICLR 2021; EEG Image) [[Paper]](https://openreview.net/forum?id=TVjLza1t4hI)
 
+* **Effect of large-scale pre-training on full and few-shot transfer learning for natural and medical images** (Cherti et al.; 2021) [[Paper]](https://arxiv.org/pdf/2106.00116.pdf)
+
 ### 2020
 
 * **Latent Space Manipulation for High-Resolution Medical Image Synthesis via the StyleGAN** (Fetty et al.; 2020) [[Online URL]](https://www.sciencedirect.com/science/article/pii/S0939388920300544) 
@@ -63,6 +65,7 @@
 
 * **Color fundus image registration techniques and applications for automated analysis of diabetic retinopathy progression: A review** (Saha et al.; 2019) [[Paper]](https://www.researchgate.net/publication/330045607_Color_fundus_image_registration_techniques_and_applications_for_automated_analysis_of_diabetic_retinopathy_progression_A_review)
    * K&I Algorithm **Maximum likelihood signal processing techniques to detect a step pattern of change in multitemporal SAR images** 
+  
 #### 2017
 
 * **FIRE: Fundus Image Registration dataset** (Matas et al.; 2017) [[Paper]](https://carlos.hernandez.im/papers/2017_07_JMO.pdf)
@@ -71,6 +74,10 @@
 #### 2016
 
 * **The role of optical coherence tomography in Alzheimer’s disease** (Cunhua et al.;International Journal of Retina and Vitreous) [[Paper]](https://journalretinavitreous.biomedcentral.com/track/pdf/10.1186/s40942-016-0049-4.pdf) [[URL]](https://journalretinavitreous.biomedcentral.com/articles/10.1186/s40942-016-0049-4)
+
+#### 2010
+
+* **Retinal microvascular abnormalities and subclinical magnetic resonance imaging brain infarct: a prospective study** (Cheung et al.; Brain 2010) [[Paper]](https://watermark.silverchair.com/awq127.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAsUwggLBBgkqhkiG9w0BBwagggKyMIICrgIBADCCAqcGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMym6Ji-oTk1-eWYy6AgEQgIICeF1H4juhnI7OVSlwaxz5pr92QtPs7CWlXeUrzOG9rslu3qdYQj_CZlveWu4uvr-0ktoTPKErnIIjqXTHikj0V-BoFEp-eBxxdF2mFrJ5gaCHBcPSmLXrlvdzCPCLTHJTLB4OXVTGGzW5uuRgxn7JFHGcbA-wIEOPh9pVylU4p8OMZzXKVH3FoXdLp9vlhyH54eHbzsMoLzzIU8cYdoMAYO4fhh0hVHXkts7a26b2Djvoe1YRDXdkEf5ayBCDmq54NZRGpFd28f4X34hPF1qdvc5NsRvXYMZpQNmgdwxeLer_rWrHg_Swyr8-_IPgHkzfSHz1bgMwXdusAu1bF24SqoOLHddw_AYhHmbhg9lUJHf8LNEWzgpdbWPQbxzO5u1xwsofo-JLPiJAwA5TYvouqJ5QBU0ll43jmGlfAG3FY15iYCb26o47X7o1R_y4tZZo-bWMpWNgUucAaZogxpzG1Sb1Qe3ssQu6P7NmgADmJ4ZFGrA8jZ2XY5va4H37SGABKUeKaxagDHYzzZOCZ5mkk9na8pJEmjc4iF96ylRKf8d-eXI9PvUQ9i3jSsPn22oB4DrYgs9EeWgrXPy9gO_XTGyke_zlBXWsjnDqHQz8h9TdX1req9TiAvzkb0deMS2VSoHSpWMcNCDOawc0_0U05Fvh21LXfltspNraHXSfe60QZMPjVa-f0v8RAkvbto9Yp8eY8oASZaGmpTxeDLlVDtKvY3KyNDD4Ko7l8cFhimTod1APEElar-4Fr9Yw8FbsSjk-3Ug5nIVOe1Wbb5bDy3xBvc-FupjmFqaPtDfgzM6lR6wNlENx55I4vKw7ZWx5Rwc4MHhbBpws)
 
 ### AMD
 
@@ -124,6 +131,32 @@
 * [A Novel Deep Learning Pipeline for Retinal Vessel Detection In Fluorescein Angiography](https://github.com/ShamaLabUR/DeepVesselSeg4FA)
 
 
+## ECG
+
+### 2021
+
+* **Constrained transformer network for ECG signal processing and arrhythmia classification** (Che et al.; 2021) [[Paper]](https://bmcmedinformdecismak.biomedcentral.com/track/pdf/10.1186/s12911-021-01546-2.pdf)
+* **Transfer learning for ECG classification** (Weimann et al. Scientific reports 2021) [[Paper]](https://www.nature.com/articles/s41598-021-84374-8.pdf)
+* **Low-dimensional Denoising Embedding Transformer for ECG Classification** (Guan et al.; ICASSP 2021; Harbin Engineering University) [[Paper]](https://arxiv.org/pdf/2103.17099.pdf)
+
+### 2020
+* **A Wide & Deep Transformer Neural Network for 12-Lead ECG Classification** (Natarajan et al.; Computers in Cardiology (CinC) 2020)  [[Paper]](https://www.cinc.org/2020/Program/accepted/107_CinCFinalPDF.pdf)
+
+## Alzheimer's Disease
+
+### 2019
+
+* **Inflammation, neurodegeneration and protein aggregation in the retina as ocular biomarkers for Alzheimer’s disease in the 3xTg-AD mouse model** (Grimaldi et al.; Cell Death & Disease) [[Paper]](https://www.nature.com/articles/s41419-018-0740-5.pdf)
+* **Changes in visual function and retinal structure in the progression of Alzheimer's disease** (García et al.; 2019) [[Paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0220535)
+
+### 2018
+
+* **Inflammation, neurodegeneration and protein aggregation in the retina as ocular biomarkers for Alzheimer’s disease in the 3xTg-AD mouse model** (Grimaldi et al.; 2018) [[Paper]](https://www.nature.com/articles/s41419-018-0740-5.pdf)
+
+### Challenges
+
+* [Physionet 2020](https://physionetchallenges.org/2020/)
+
 ## MRI
 
 ### 2019
@@ -132,13 +165,23 @@
 
 ### 2018
 
-* **Visual Feature Attribution using Wasserstein GANs** (Baumgartner, et al.; CVPR 2018) [[Paper]]()
+* **Visual Feature Attribution using Wasserstein GANs** (Baumgartner, et al.; CVPR 2018) [[Paper]](https://arxiv.org/pdf/1711.08998)
+
+## Lung CT
+
+### 2021
+
+* **Early prediction of lung lesion progression in COVID‐19 patients with extended CT ventilation imaging** (Wang et al.; 2021) [[Papera]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8210511/pdf/259_2021_Article_5435.pdf)
 ## Articles
 
 * [Using AI to predict retinal disease progression](https://deepmind.com/blog/article/Using_ai_to_predict_retinal_disease_progression) by DeepMind
 
 * [A major milestone for the treatment of eye disease](https://deepmind.com/blog/article/moorfields-major-milestone)
 
+
+### 2010
+
+* **elastix: A Toolbox for Intensity-Based Medical Image Registration** (Klein et al.; 2010) [[Paper]](https://elastix.lumc.nl/marius/downloads/2010_j_TMI.pdf)
 
 ## AI Application in Clinical Setting
 

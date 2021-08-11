@@ -28,7 +28,7 @@
 
 * **Improving Language Understanding by Generative Pre-Training** (Radford et al.; Known as OpenAI Transformer; Cited by 1593) [[Paper]](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
 
-* **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding** (Devlin et al.;Cited by 14k) [[Paper]](https://arxiv.org/abs/1810.04805)
+* **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding** (Devlin et al.; NACCL 2019; Cited by 14k) [[Paper]](https://arxiv.org/abs/1810.04805)
   * Code
     * [Pytorch and Tensorflow implementation](https://github.com/huggingface/transformers)
     * [BERT End to End (Fine-tuning + Predicting) with Cloud TPU](https://colab.research.google.com/github/tensorflow/tpu/blob/master/tools/colab/bert_finetuning_with_cloud_tpus.ipynb), it is a google official colab notebook using two TPUs.
@@ -76,6 +76,9 @@
 * **The unreasonable effectiveness of recurrent neural networks** (Karpathy Andrej; 2015) [[URL]](http://karpathy.github.io/2015/05/21/rnn-effectiveness/). Accessed: 2021-07-14
 
 
+### 2014
+
+* **Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation** (Cho et al.; EMNLP 2014; Cited by 14K) [[Paper]](https://emnlp2014.org/papers/pdf/EMNLP2014179.pdf)
 ### 2013
 
 * **On the difficulty of training recurrent neural networks** (Pascanu et al.; ICML 2012) [[Paper]](http://proceedings.mlr.press/v28/pascanu13.pdf)

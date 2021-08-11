@@ -17,6 +17,20 @@
 
 * **Scaling Vision Transformers** (Zhai et al.; 2021) [[Paper]](https://arxiv.org/pdf/2106.04560v1.pdf) 
 
+* **Multiscale Vision Transformers** (Fan et al.; 2021; FAIR) [[Paper]](https://arxiv.org/pdf/2104.11227.pdf)
+
+* **Transformers in Vision: A Survey** (Khan et al.; 2021) [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
+
+* **DeepViT: Towards Deeper Vision Transformer** (Zhou et al.; 2021; National University of Singapore and ByteDance US AI Lab) [[Paper]](https://arxiv.org/pdf/2103.11886.pdf)
+
+* **How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers** (Steiner et al.; 2021) [[Paper]]()
+
+* **SiT: Self-supervised vIsion Transformer** (Atito et al.; 2021) [[Paper]](https://arxiv.org/pdf/2104.03602.pdf)
+
+* **How to decay your learning rate** （Lewkowycz et al.; 2021) [[Paper]](https://arxiv.org/pdf/2103.12682.pdf)
+
+
+
 ### 2020
 
 * **Meta pseudo labels** (Pham et al.; 2020) [[Paper]](https://arxiv.org/pdf/2003.10580.pdf)
@@ -31,6 +45,16 @@
 
 * **Big Transfer (BiT): General Visual Representation Learning** (Kolesnikov et al.; 2020) [[Paper]](https://arxiv.org/pdf/1912.11370.pdf)
 
+* **End-to-End Object Detection with Transformers** (Carion et al.; ECCV 2020; FAIR) [[Paper]](https://arxiv.org/pdf/2005.12872.pdf)
+
+* **Quantifying attention flow in transformers** (Abnar et al.; 2020) [[Paper]](https://arxiv.org/pdf/2005.00928.pdf)
+
+* **Training data-efficient image transformers & distillation through attention** (Touvron et al.; 2020) [[Paper]](https://arxiv.org/pdf/2012.12877.pdf)
+  
+* **Swin Transformer: Hierarchical Vision Transformer using Shifted Windows** (Liu et al.; 2020; FAIR) [[Paper]](https://arxiv.org/pdf/2103.14030.pdf)
+  * [Official code](https://github.com/microsoft/Swin-Transformer) on pytorch
+  * [Tensorflow implementation](https://github.com/rishigami/Swin-Transformer-TF)
+  
 ### 2019
 
 * **Micro-Batch Training with Batch-Channel Normalization and Weight Standardization** (Qiao et al.) [[Paper]](https://arxiv.org/pdf/1903.10520.pdf)

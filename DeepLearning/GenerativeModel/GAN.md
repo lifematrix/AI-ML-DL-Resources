@@ -2,6 +2,10 @@
 
 ## Papers 
 
+### 2021
+* **Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation** (Richardson et al.; CVPR 2021) [[Paper]](https://arxiv.org/pdf/2008.00951v1.pdf)
+  * [Official code](https://github.com/eladrich/pixel2style2pixel)
+    
 ### 2020
 
 * **Deep Learning Approach To Face Conditioning Using Invertible Conditional Generative Adversarial Networks (ICGAN)** (Srivastav et al; IJIRCST 2020) [[Paper]](https://www.ijircst.org/DOC/24-deep-learning-approach-to-face-conditioning-using-invertible-conditional-generative-adversarial-networks-(icgan).pdf)
@@ -30,8 +34,6 @@
 
 * **One Model to Reconstruct Them All: A Novel Way to Use the Stochastic Noise in StyleGAN** (Bartz et al.; 2020) [[Paper]](https://arxiv.org/pdf/2010.11113)
 
-* **Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation** (Richardson et al.; 2020) [[Paper]](https://arxiv.org/pdf/2008.00951v1.pdf)
-  * [Official code](https://github.com/eladrich/pixel2style2pixel)
 
 * **Unified Generative Adversarial Networks for Controllable Image-to-Image Translation** (Tang et al.; 2020) [[Paper]](https://arxiv.org/pdf/1912.06112.pdf)
 
@@ -62,6 +64,8 @@
 
 * **Large Scale Adversarial Representation Learning** (Donakue et al.; NIPS 2019) [[Paper]](https://arxiv.org/pdf/1907.02544.pdf)
 
+* **Mask Embedding in conditional GAN for Guided Synthesis of High Resolution Images** (Ren et al.; 2019) [[Paper]](https://arxiv.org/pdf/1907.01710.pdf)
+
 ### 2018
 
 * **Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks** (Zhu et al.; ICCV 2017; Cited by 6.7k) [[Paper]](https://arxiv.org/abs/1703.10593)
@@ -89,13 +93,13 @@
 
 * **Inverting The Generator Of A Generative Adversarial Network (II)** (Creswell et al.; 2018) [[Paper]](https://arxiv.org/pdf/1802.05701.pdf)
 
-* **Glow: Generative Flow with Invertible 1x1 Convolutions** (Kingma et al.; 2018) [[Paper]](https://arxiv.org/abs/1807.03039)
-
 * **High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs** (Wang et al. 2018) [[Paper]](https://arxiv.org/pdf/1711.11585.pdf) [[Code]](https://github.com/NVIDIA/pix2pixHD)
 
 * **StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation** (Choi et al.; CVPR 2018) [[Paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Choi_StarGAN_Unified_Generative_CVPR_2018_paper.pdf)
 
 * **Pose Guided Person Image Generation** (Ma et al.; NIPS 2017) [[Paper]](https://arxiv.org/pdf/1705.09368.pdf)
+
+* **Flow-GAN: Combining Maximum Likelihood and Adversarial Learning in Generative Models** (Grover et al.; AAAI 2018) [[Paper]](https://arxiv.org/pdf/1705.08868.pdf)
 
 ### 2017
     
@@ -165,6 +169,8 @@
 * **NICE: Non-linear Independent Components Estimation** (Dinh et al. ICLR 2015) [[Paper]](https://arxiv.org/pdf/1410.8516.pdf)
 
 * **Inverting Visual Representations with Convolutional Networks** (Dosovitskiy et al.; CVPR 2016) [[Paper]](https://arxiv.org/pdf/1506.02753.pdf)
+
+* **Variational inference with normalizing flows** (Rezende et al.; PMLR 2015) [[Paper]]()
 
 
 ### 2014
