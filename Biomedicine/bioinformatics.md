@@ -2,6 +2,11 @@
 
 ## Papers
 
+### 2021
+
+* **Highly accurate protein structure prediction with AlphaFold** (Jumper et al.; Nature 2021) [[Paper]](https://www.nature.com/articles/s41586-021-03819-2)
+
+* **Highly accurate protein structure prediction for the human proteome** (Tunyasuvunakool et al.; Nature 2021) [[Paper]](https://www.nature.com/articles/s41586-021-03828-1)
 
 ### 2008
     

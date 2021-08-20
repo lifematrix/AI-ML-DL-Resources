@@ -5,6 +5,12 @@
 ### 2021
 * **Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation** (Richardson et al.; CVPR 2021) [[Paper]](https://arxiv.org/pdf/2008.00951v1.pdf)
   * [Official code](https://github.com/eladrich/pixel2style2pixel)
+  
+* **Designing an encoder for StyleGAN image manipulation** (Tov et al.; 2021) [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3450626.3459838)
+  * official code [encoder4editing](https://github.com/omertov/encoder4editing)
+  
+
+* **ReStyle: A Residual-Based StyleGAN Encoder via Iterative Refinement** (Alaluf et al.; 2021) [[Paper]](https://arxiv.org/pdf/2104.02699.pdf)
     
 ### 2020
 
