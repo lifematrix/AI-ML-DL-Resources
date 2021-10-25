@@ -53,19 +53,32 @@
 
 #### 2020
 
-* **Predicting conversion to wet age-related macular degeneration using deep learning** 
+* **Predicting conversion to wet age-related macular degeneration using deep learning** (Yim et al.; DeepMind; Nature Medicine 2020) [[Paper]](https://discovery.ucl.ac.uk/id/eprint/10098832/1/Yim%20et%20al%20Nature%20Medicine%20Predicting%20conversion%20to%20wet%20age%20related%20macular%20degeneration%20using%20deep%20learning.pdf)
+  
 * **Deep learning versus human graders for classifying diabetic retinopathy severity in a nationwide screening program** (Raumviboonsuk et al.; Nature 2019)
 [[Paper]](https://www.nature.com/articles/s41746-019-0099-8)
 
 * **Machine Learning of the Progression of Intermediate Age-Related Macular Degeneration Based on OCT Imaging** [[Paper]](https://iovs.arvojournals.org/article.aspx?articleid=2635834)
 
-* **Clinically applicable deep learning for diagnosis and referral in retinal disease** (Fauw et al.; Nature 2018) [[Paper for viewing]](https://www.nature.com/articles/s41591-018-0107-6.epdf?author_access_token=PAbvHEuv_YYmrPVbG5HqKdRgN0jAjWel9jnR3ZoTv0P43NEH20hFuvBoJk6cvICihn8kmL6tmejFlnuPlbT_0KmJgK6N07SPh_ZLy0Nxb0-LAGIDBaH1fjJTkD9ahUEQpRlEudtlG9E1v3ca9xNQcQ%3D%3D) [[PDF]](https://kstatic.googleusercontent.com/files/2cfa1b4c63fcbabb838f8f1cab0bf45fd24686ec04d8af69284df9eaa66f4217be38d9888bd536c3b626a2de6663d811bd0949f15fffc9cfd953af946b59a929)
+* **Deep-learning-based Prediction of Late Age-Related Macular Degeneration Progression** (Yan et al.; Nature Machine Intelligence 2020) [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7153739/pdf/nihms-1549995.pdf)
+
+* **Local descriptor for retinal fundus image registration** (Ramli et al.; IET Computer Vision 2020) [[Paper]](https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/iet-cvi.2019.0623)
+
+
+### 2019
+
+* **Predicting Progression of Age-related Macular Degeneration from Fundus Images using Deep Learning** (Bakenko et al.; Google AI Healthcare) [[Paper]](https://arxiv.org/pdf/1904.05478.pdf)
+
+* **A Deep Step Pattern Representation for Multimodal Retinal Image Registration** (Lee et al.; ICCV 2019 Oral) [[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Lee_A_Deep_Step_Pattern_Representation_for_Multimodal_Retinal_Image_Registration_ICCV_2019_paper.pdf)
+  
 
 #### 2018
 
 * **Color fundus image registration techniques and applications for automated analysis of diabetic retinopathy progression: A review** (Saha et al.; 2019) [[Paper]](https://www.researchgate.net/publication/330045607_Color_fundus_image_registration_techniques_and_applications_for_automated_analysis_of_diabetic_retinopathy_progression_A_review)
    * K&I Algorithm **Maximum likelihood signal processing techniques to detect a step pattern of change in multitemporal SAR images** 
-  
+
+* **Clinically applicable deep learning for diagnosis and referral in retinal disease** (Fauw et al.; DeepMind; Nature Medicine 2018) [[Paper for viewing]](https://www.nature.com/articles/s41591-018-0107-6.epdf?author_access_token=PAbvHEuv_YYmrPVbG5HqKdRgN0jAjWel9jnR3ZoTv0P43NEH20hFuvBoJk6cvICihn8kmL6tmejFlnuPlbT_0KmJgK6N07SPh_ZLy0Nxb0-LAGIDBaH1fjJTkD9ahUEQpRlEudtlG9E1v3ca9xNQcQ%3D%3D) [[PDF]](https://kstatic.googleusercontent.com/files/2cfa1b4c63fcbabb838f8f1cab0bf45fd24686ec04d8af69284df9eaa66f4217be38d9888bd536c3b626a2de6663d811bd0949f15fffc9cfd953af946b59a929)
+
 #### 2017
 
 * **FIRE: Fundus Image Registration dataset** (Matas et al.; 2017) [[Paper]](https://carlos.hernandez.im/papers/2017_07_JMO.pdf)
@@ -113,7 +126,7 @@
 
 ### 2017
 
-* **Weakly-Supervised Localization Of Diabetic Retinopathy Lesions In Retinal Fundus Images** (Gondal Et Al.) [[Paper]](Https://Arxiv.Org/Pdf/1706.09634.Pdf)
+* **Weakly-Supervised Localization Of Diabetic Retinopathy Lesions In Retinal Fundus Images** (Gondal et Al.) [[Paper]](Https://Arxiv.Org/Pdf/1706.09634.Pdf)
 
 ### 1992
 
@@ -144,14 +157,17 @@
 
 ## Alzheimer's Disease
 
+###
+
+* **Macular Thickness Decrease in Asymptomatic Subjects at High Genetic Risk of Developing Alzheimer’s Disease: An OCT Study** (Cuenca et al.; 2020) [[Paper]](https://www.mdpi.com/2077-0383/9/6/1728)
+
+
 ### 2019
 
-* **Inflammation, neurodegeneration and protein aggregation in the retina as ocular biomarkers for Alzheimer’s disease in the 3xTg-AD mouse model** (Grimaldi et al.; Cell Death & Disease) [[Paper]](https://www.nature.com/articles/s41419-018-0740-5.pdf)
 * **Changes in visual function and retinal structure in the progression of Alzheimer's disease** (García et al.; 2019) [[Paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0220535)
 
 ### 2018
-
-* **Inflammation, neurodegeneration and protein aggregation in the retina as ocular biomarkers for Alzheimer’s disease in the 3xTg-AD mouse model** (Grimaldi et al.; 2018) [[Paper]](https://www.nature.com/articles/s41419-018-0740-5.pdf)
+* **Inflammation, neurodegeneration and protein aggregation in the retina as ocular biomarkers for Alzheimer’s disease in the 3xTg-AD mouse model** (Grimaldi et al.; Cell Death & Disease 2018) [[Paper]](https://www.nature.com/articles/s41419-018-0740-5.pdf)
 
 ### Challenges
 
@@ -172,6 +188,7 @@
 ### 2021
 
 * **Early prediction of lung lesion progression in COVID‐19 patients with extended CT ventilation imaging** (Wang et al.; 2021) [[Papera]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8210511/pdf/259_2021_Article_5435.pdf)
+
 ## Articles
 
 * [Using AI to predict retinal disease progression](https://deepmind.com/blog/article/Using_ai_to_predict_retinal_disease_progression) by DeepMind

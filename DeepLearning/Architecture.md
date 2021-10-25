@@ -63,6 +63,8 @@
 
 * **Data-efficient image recognition with contrastive predictive coding** (Hénaff et al.; ECCV 2020) [[Paper]](https://arxiv.org/pdf/1905.09272.pdf)
 
+* **Searching for MobileNetV3** (Howard et al.; ICCV 2019) [[Paper]](https://arxiv.org/pdf/1905.02244.pdf)
+
 
 ### 2018
 
@@ -94,6 +96,8 @@
 * **Aggregated Residual Transformations for Deep Neural Networks** （Xie et al.; CVPR 2017) [[Paper]](https://arxiv.org/pdf/1611.05431.pdf)
 
 * **Zoneout: Regularizing RNNs by Randomly Preserving Hidden Activations** (Krueger et al.; ICLR 2017) [[Paper]](https://arxiv.org/pdf/1606.01305.pdf)
+
+* **MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications** (Howard et al.; 2017) [[Paper]](https://arxiv.org/pdf/1704.04861.pdf)
 
 ### 2016
 

@@ -9,8 +9,12 @@
 * **Designing an encoder for StyleGAN image manipulation** (Tov et al.; 2021) [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3450626.3459838)
   * official code [encoder4editing](https://github.com/omertov/encoder4editing)
   
-
 * **ReStyle: A Residual-Based StyleGAN Encoder via Iterative Refinement** (Alaluf et al.; 2021) [[Paper]](https://arxiv.org/pdf/2104.02699.pdf)
+
+* **Only a Matter of Style: Age Transformation Using a Style-Based Regression Model** (Alaluf et al.; SIGGRAPH 2021) [[Paper]](https://arxiv.org/pdf/2102.02754.pdf)
+  * [Project URL](https://yuval-alaluf.github.io/SAM/)
+    
+* **StyleFusion: A Generative Model for Disentangling Spatial Segments** （Kafri et al.; 2021) [[Paper]](https://arxiv.org/pdf/2107.07437.pdf)
     
 ### 2020
 
@@ -48,6 +52,10 @@
 * **SEAN: Image Synthesis with Semantic Region-Adaptive Normalization** (Zhu et al.; CVPR 2020 oral) [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhu_SEAN_Image_Synthesis_With_Semantic_Region-Adaptive_Normalization_CVPR_2020_paper.pdf)
   * [official code](https://github.com/ZPdesu/SEAN)
   
+* **In-Domain GAN Inversion for Real Image Editing** （Zhu et al.; ECCV 2020) [[Paper]](https://arxiv.org/pdf/2004.00049.pdf)
+
+* **Face identity disentan- glement via latent space mapping** (Nitzan et al.; 2020) [[Paper]](https://arxiv.org/pdf/2005.07728.pdf)
+  
 ### 2019
 
 * **GP-GAN: Towards Realistic High-Resolution Image Blending** (Wu et al; ACMMM 2019) [[Paper]](https://arxiv.org/abs/1703.07195)
@@ -71,6 +79,8 @@
 * **Large Scale Adversarial Representation Learning** (Donakue et al.; NIPS 2019) [[Paper]](https://arxiv.org/pdf/1907.02544.pdf)
 
 * **Mask Embedding in conditional GAN for Guided Synthesis of High Resolution Images** (Ren et al.; 2019) [[Paper]](https://arxiv.org/pdf/1907.01710.pdf)
+
+* **Generative Adversarial Networks for Extreme Learned Image Compression** (Agustsson et al.; ICCV 2019) [[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Agustsson_Generative_Adversarial_Networks_for_Extreme_Learned_Image_Compression_ICCV_2019_paper.pdf)
 
 ### 2018
 
