@@ -15,6 +15,18 @@
 * **Precise Approximation of Convolutional Neural Networks for Homomorphically Encrypted Data** （Lee et al.; 2021) [[Paper]](https://arxiv.org/pdf/2105.10879.pdf)
 
 * **Advances and Open Problems in Federated Learning** (Kairouz et al.; 2021) [[Paper]](https://arxiv.org/pdf/1912.04977.pdf)
+
+* **Revisiting Homomorphic Encryption Schemes for Finite Fields** (Kim et al.; 2021) [[Paper]](https://eprint.iacr.org/2021/204.pdf)
+
+* **GINN: Fast GPU-TEE Based Integrity for Neural Network Training** (Anonymous Authors; ICLR 2021) [[Paper]]()
+
+* **HEMET: A Homomorphic-Encryption-Friendly Privacy-Preserving Mobile Neural Network Architecture** (Luo et al.; PMLR 2021) [[Paper]](http://proceedings.mlr.press/v139/lou21a/lou21a.pdf)
+
+* **Efficient CNN Building Blocks for Encrypted Data** (Jain et al.; PPAI-21, 2021) [[Paper]](https://arxiv.org/pdf/2102.00319.pdf)
+
+* **High-Precision Bootstrapping of RNS-CKKS Homomorphic Encryption Using Optimal Minimax Polynomial Approximation and Inverse Sine Function** (Lee et al.; 2021) [[Paper]](https://eprint.iacr.org/2020/552.pdf)
+
+* **Design and implementation of HElib: a homomorphic encryption library** (Halevi et al.; 2020) [[Paper]](https://eprint.iacr.org/2020/1481.pdf)
 ### 2020 
 
 
@@ -60,6 +72,10 @@
 
 * **Crypto-Oriented Neural Architecture Design** (Shafran et al.; 2019; ICASSP'21) [[Paper]]()
 
+* **Occlumency: Privacy-preserving Remote Deep-learning Inference Using SGX** (Taegyeong Lee et al.; 2019) [[Paper]](https://soar.group/pubs/Occlumency.MobiCom19.pdf)
+
+* **CHET: An Optimizing Compiler for Fully-Homomorphic Neural-Network Inferencing** (Dathathri et al.; 2019) [[Paper]](https://www.cs.utexas.edu/~roshan/CHET.pdf)
+
 ### 2018
 
 * **Secure Computation for Machine Learning With SPDZ** (Chen et al.; NIPS 2018) [[Paper]](https://arxiv.org/pdf/1901.00329.pdf)
@@ -92,6 +108,8 @@
 
 * **Fully Homomorphic Encryption without Bootstrapping** (Brakersi et al.; 2016; BGV Scheme) [[Paper]](https://eprint.iacr.org/2011/277.pdf)
 
+* **A Full RNS Variant of FV like Somewhat Homomorphic Encryption Schemes** (Bajard et al.; 2016) [[Paper]]()
+
 ### 2015
 
 * **Model Inversion Attacks that Exploit Confidence Information and Basic Countermeasures** (Fredrikson et al.; 2015) [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2810103.2813677)
@@ -112,6 +130,8 @@
 * **Bandwidth efficient PIR from NTRU** (Doroz et al.; 2014) [[Paper]](https://eprint.iacr.org/2014/232.pdf)
 
 * **Fully homomorphic SIMD operations** (NP Smart et al.; 2014) [[Paper]](https://eprint.iacr.org/2011/133.pdf)
+
+* **Algorithms in HElib** (Shoup et al.; 2014) [[Paper]](https://eprint.iacr.org/2014/106.pdf)
 
 ### 2013
 
@@ -138,6 +158,7 @@
 ### 2007
 
 * **Somewhat Practical Fully Homomorphic Encryption** (Fan et al.; 2007) [[Paper]](https://eprint.iacr.org/2012/144.pdf)
+  * *It is explaination about relinearization*
 
 ### 2006
 
@@ -155,12 +176,18 @@
 * [Learning With Errors and Ring Learning With Errors](https://medium.com/asecuritysite-when-bob-met-alice/learning-with-errors-and-ring-learning-with-errors-23516a502406)
 
 
-* [Cyclotomic Polynomials](https://brilliant.org/wiki/cyclotomic-polynomials/)
+* Cyclotomic Polynomials
+  * <https://brilliant.org/wiki/cyclotomic-polynomials/>
+  * <https://yhx-12243.github.io/OI-transit/memos/17.html>
+  * [The Coefficients of Cyclotomic Polynomials](https://www.calstatela.edu/sites/default/files/users/u1061/cyclotomic.pdf)
 
 
 ## Books
 
 * **A Pragmatic Introduction to Secure Multi-Party Computation** (Evans David; 2021) [[PDF]](https://www.cs.virginia.edu/~evans/pragmaticmpc/pragmaticmpc.pdf)
+
+* **Number Theory** by Ben Lynn,  [[Web]](https://crypto.stanford.edu/pbc/notes/numbertheory/), [[PDF]](https://crypto.stanford.edu/pbc/notes/numbertheory/book.pdf)
+
 
 ## Codes
 
@@ -192,6 +219,17 @@
 * **Introduction to post-quantum cryptography and learning with errors** (Stebila et al.; 2018) [[slides]](https://summerschool-croatia.cs.ru.nl/2018/slides/Introduction%20to%20post-quantum%20cryptography%20and%20learning%20with%20errors.pdf)
 
 * **Fully Homomorphic Encryption over the Integers** (Marten van Dijk, Craig Gentry, Shai Halevi, and Vinod Vaikuntanathan; ) [[Paper]](https://shaih.github.io/pubs/IHE-Columbia-Theory-Seminar.pdf)
+
+### 2016
+
+* **Introduction to CKKS (a.k.a. Approximate Homomorphic Encryption) ** (Yongsoo Song; Private AI Bootcamp; Microsoft Research, Dec 02, 2016) [[Paper]](https://yongsoosong.github.io/files/slides/intro_to_CKKS.pdf)
+  * [Yongsoo Song's blog](https://yongsoosong.github.io)
+    
+### 2015
+
+
+* **Cryptography from Rings** (Chris Peikert; HEAT Summer School 13 Oct 2015) [[Paper]](https://heat-project.eu/School/Chris%20Peikert/slides-heat2.pdf)
+
 ### 2012
 
 * **Hard Lattice Problems** (Weget, Kand olkata et al.; 2012) [[PDF]](https://icerm.brown.edu/materials/Slides/VI_MSS_12/A_survey_of_hard_lattice_problems_and_their_connections_%5D_Benne_de_Weger,_Technisch_Universiteit_Eindhoevn.pdf) 
