@@ -27,6 +27,8 @@
 * **High-Precision Bootstrapping of RNS-CKKS Homomorphic Encryption Using Optimal Minimax Polynomial Approximation and Inverse Sine Function** (Lee et al.; 2021) [[Paper]](https://eprint.iacr.org/2020/552.pdf)
 
 * **Design and implementation of HElib: a homomorphic encryption library** (Halevi et al.; 2020) [[Paper]](https://eprint.iacr.org/2020/1481.pdf)
+
+* **Faster homomorphic comparison operations for BGV and BFV** (Ilia Iliashenko et al.; 2021) [[Paper]]()
 ### 2020 
 
 
@@ -53,6 +55,8 @@
 * **Configurable Private Querying: Lookup and Partial Matching under Homomorphic Encryption** (Crawford et al.; 2020) [[Paper]](https://eprint.iacr.org/2020/964.pdf)
 
 * **On the Explanation and Implementation of Three Open-Source Fully Homomorphic Encryption Libraries** (Alycia Carey; 2020) [[Thesis]](https://scholarworks.uark.edu/cgi/viewcontent.cgi?article=1074&context=csceuht)
+
+* **Fully Homomorphic Encryption Scheme Based on Decomposition Ring** (Arita et al.; IEICE 2020) [[Paper]](https://www.jstage.jst.go.jp/article/transfun/E103.A/1/E103.A_2019CIP0027/_pdf/-char/en)
 
 ### 2019
 
@@ -108,7 +112,11 @@
 
 * **Fully Homomorphic Encryption without Bootstrapping** (Brakersi et al.; 2016; BGV Scheme) [[Paper]](https://eprint.iacr.org/2011/277.pdf)
 
-* **A Full RNS Variant of FV like Somewhat Homomorphic Encryption Schemes** (Bajard et al.; 2016) [[Paper]]()
+* **A Full RNS Variant of FV like Somewhat Homomorphic Encryption Schemes** (Bajard et al.; 2016) [[Paper]](https://eprint.iacr.org/2016/510.pdf)
+
+* **Fixed Point Arithmetic in SHE Scheme** (Costache et al.; 2016) [[Paer]](https://eprint.iacr.org/2016/250.pdf)
+
+* **Homomorphic Encryption for Arithmetic of Approximate Numbers** (Cheon et al.; 2016) [[Paper]](https://eprint.iacr.org/2016/421.pdf) 
 
 ### 2015
 
@@ -180,6 +188,10 @@
   * <https://brilliant.org/wiki/cyclotomic-polynomials/>
   * <https://yhx-12243.github.io/OI-transit/memos/17.html>
   * [The Coefficients of Cyclotomic Polynomials](https://www.calstatela.edu/sites/default/files/users/u1061/cyclotomic.pdf)
+  
+
+* [陈智罡博士的博客](http://zhigang-chen.gitee.io)
+  * [近似全同态加密货币的安全性措施](https://0xzx.com/2020122408161033929.html)
 
 
 ## Books
