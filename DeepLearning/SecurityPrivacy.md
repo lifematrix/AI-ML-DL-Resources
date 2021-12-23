@@ -29,6 +29,9 @@
 * **Design and implementation of HElib: a homomorphic encryption library** (Halevi et al.; 2020) [[Paper]](https://eprint.iacr.org/2020/1481.pdf)
 
 * **Faster homomorphic comparison operations for BGV and BFV** (Ilia Iliashenko et al.; 2021) [[Paper]]()
+
+* **Applying Fully Homomorphic Encryption: Practices and Problems** (Yao Chen; 2021; Doctoral thesis of the University of Waterloo) [[Paper]](https://uwspace.uwaterloo.ca/bitstream/handle/10012/17513/Chen_Yao.pdf)
+
 ### 2020 
 
 
@@ -131,6 +134,10 @@
 
 * **Function Evaluation with Fully Homomorphic Encryption using Table Lookup** (LI et al.; 2015) [[Paper]](https://db-event.jpn.org/deim2019/post/papers/157.pdf)
 
+* **Homomorphic Evaluation of the AES Circuit (Updated Implementation)** （Gentry Graig, Shai Halevi, and Nigel P.Smart; 2015) [[Paper]](https://eprint.iacr.org/2012/099.pdf)
+
+* **NFLlib: NTT-based Fast Lattice Library** (Carlos Aguilar Melchor, Joris Barrier, Serge Guelton, Adrien Guinet, Marc-Olivier Killijian, Tancrede Lepoint; 2015; HAL Id: hal-01242273) [[Paper]](https://hal.archives-ouvertes.fr/hal-01242273/document)
+
 ### 2014
 
 * **Book: The Algorithmic Foundations of Differential Privacy** (Dwork et al.;) [[PDF]](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)
@@ -178,6 +185,8 @@
 
 ## Articles
 
+* CKKS
+  * [Homomorphic Encryption intro: Part 3: Encoding and decoding in CKKS](https://towardsdatascience.com/homomorphic-encryption-intro-part-3-encoding-and-decoding-in-ckks-69a5e281fee) by Daniel Huynh on `towards data science`
 * [Summary Of Deep Learning With Differential Privacy](https://medium.com/secure-and-private-ai-writing-challenge/summary-of-deep-learning-with-differential-privacy-d7ffa2033e8f)
 
 
