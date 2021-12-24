@@ -61,6 +61,8 @@
 
 * **Fully Homomorphic Encryption Scheme Based on Decomposition Ring** (Arita et al.; IEICE 2020) [[Paper]](https://www.jstage.jst.go.jp/article/transfun/E103.A/1/E103.A_2019CIP0027/_pdf/-char/en)
 
+* **Cryptotree : fast and accurate predictions on encrypted structured data** (Huynh Daniel; 2020) [[Paper]](https://arxiv.org/pdf/2006.08299.pdf)
+
 ### 2019
 
 * **nGraph-HE2: A High-Throughput Framework for Neural Network Inference on Encrypted Data** (Boemer et al.; WAHC 2019) [[Paper]](https://arxiv.org/pdf/1908.04172.pdf)
@@ -137,6 +139,8 @@
 * **Homomorphic Evaluation of the AES Circuit (Updated Implementation)** （Gentry Graig, Shai Halevi, and Nigel P.Smart; 2015) [[Paper]](https://eprint.iacr.org/2012/099.pdf)
 
 * **NFLlib: NTT-based Fast Lattice Library** (Carlos Aguilar Melchor, Joris Barrier, Serge Guelton, Adrien Guinet, Marc-Olivier Killijian, Tancrede Lepoint; 2015; HAL Id: hal-01242273) [[Paper]](https://hal.archives-ouvertes.fr/hal-01242273/document)
+
+* **On Ideal Lattices and Learning with Errors Over Rings** (Lyubashevsky et al.; 2015) [[Paper]](https://eprint.iacr.org/2012/230.pdf)
 
 ### 2014
 
