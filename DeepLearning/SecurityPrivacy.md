@@ -28,9 +28,13 @@
 
 * **Design and implementation of HElib: a homomorphic encryption library** (Halevi et al.; 2020) [[Paper]](https://eprint.iacr.org/2020/1481.pdf)
 
-* **Faster homomorphic comparison operations for BGV and BFV** (Ilia Iliashenko et al.; 2021) [[Paper]]()
+* **Faster homomorphic comparison operations for BGV and BFV** (Ilia Iliashenko et al.; 2021) [[Paper]](https://eprint.iacr.org/2021/315.pdf)
 
 * **Applying Fully Homomorphic Encryption: Practices and Problems** (Yao Chen; 2021; Doctoral thesis of the University of Waterloo) [[Paper]](https://uwspace.uwaterloo.ca/bitstream/handle/10012/17513/Chen_Yao.pdf)
+
+* **Efficient Number Theoretic Transform Implementation on GPU for Homomorphic Encryption** (Özgün Özerk; Erkay Savas's Lab) [[Paper]](https://www.researchgate.net/publication/349075576_Efficient_Number_Theoretic_Transform_Implementation_on_GPU_for_Homomorphic_Encryption)
+  
+* **RLWE/PLWE equivalence for cyclotomic extensions and subextensions** (Iva ́n Blanco Chaco ́n; 2021) [[Paper]](http://www.recsi2020.udl.cat/static/site/files/Blanco-XVI-RECSI.pdf)
 
 ### 2020 
 
@@ -62,6 +66,11 @@
 * **Fully Homomorphic Encryption Scheme Based on Decomposition Ring** (Arita et al.; IEICE 2020) [[Paper]](https://www.jstage.jst.go.jp/article/transfun/E103.A/1/E103.A_2019CIP0027/_pdf/-char/en)
 
 * **Cryptotree : fast and accurate predictions on encrypted structured data** (Huynh Daniel; 2020) [[Paper]](https://arxiv.org/pdf/2006.08299.pdf)
+  * The author's another similar paper**Homomorphic Random Forest**
+
+* **Encrypted Cloud using GPUs** (Zheng et al.; Master theris of KU Leuven. 2020) [[Theis]](https://www.esat.kuleuven.be/cosic/publications/thesis-394.pdf)
+
+* **CPU and GPU Accelerated Fully Homomorphic Encryption** (Morshed et al.; IEEE HOST'20) [[Paper]](https://arxiv.org/pdf/2005.01945.pdf) [[Code]](https://github.com/toufique-morshed/CPU-GPU-TFHE)
 
 ### 2019
 
@@ -101,11 +110,17 @@
 
 * **Homomorphic Encryption Standard** (Albrecht et al.; 2018) [[PDF]](http://homomorphicencryption.org/wp-content/uploads/2018/11/HomomorphicEncryptionStandardv1.1.pdf)
 
+* **Improved Bootstrapping for Approximate Homomorphic Encryption** (Chen et al.; 2018) [[Paper]](https://eprint.iacr.org/2018/1043.pdf)
+
+* **Faster CryptoNets: Leveraging Sparsity for Real-World Encrypted Inference** (Chou et al.; 2018) [[Paper]](https://arxiv.org/pdf/1811.09953.pdf)
+
 ### 2017
 
 * **Membership Inference Attacks Against Machine Learning Models** (Shokri et al.; 2017) [[Paper]](https://arxiv.org/pdf/1610.05820.pdf)
 
 * **Benchmark of Deep Learning Models on Large Healthcare MIMIC Datasets** （Purushotham et al.; 2019) [[Paper]](https://arxiv.org/pdf/1710.08531.pdf)
+
+* **The Chinese Remainder Theorem** (Kyle Miller; 2017) [[Paper]](https://math.berkeley.edu/~kmill/math55sp17/crt.pdf)
 
 ### 2016
 
@@ -142,6 +157,8 @@
 
 * **On Ideal Lattices and Learning with Errors Over Rings** (Lyubashevsky et al.; 2015) [[Paper]](https://eprint.iacr.org/2012/230.pdf)
 
+* **Lattice Based Cryptography for Beginners** (Chi et al.; 2015) [[Paper]](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.733.6768&rep=rep1&type=pdf)
+
 ### 2014
 
 * **Book: The Algorithmic Foundations of Differential Privacy** (Dwork et al.;) [[PDF]](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)
@@ -152,9 +169,12 @@
 
 * **Algorithms in HElib** (Shoup et al.; 2014) [[Paper]](https://eprint.iacr.org/2014/106.pdf)
 
+
 ### 2013
 
 * **A Toolkit for Ring-LWE Cryptography** （Lyubashevsky et al.; 2013) [[Paper]](https://web.eecs.umich.edu/~cpeikert/pubs/toolkit.pdf)
+  
+* **Faster arithmetic for number-theoretic transforms** (David Harvey; JSC) [[Paper]](https://arxiv.org/pdf/1205.2926.pdf)
 
 ### 2012
 
@@ -162,6 +182,11 @@
 
 * **Packed Ciphertexts in LWE-based Homomorphic Encryption** (Brakerski et al.; 2012) [[Paper]](https://eprint.iacr.org/2012/565.pdf)
 
+### 2011
+
+* **Calculating Cyclotomic Polynomials** (Andrew Arnold and Michael Monagan; 2011) [[Paper]](https://www.ams.org/journals/mcom/2011-80-276/S0025-5718-2011-02467-1/S0025-5718-2011-02467-1.pdf)
+  * all of the noteworthy results is availabel on the web at <http://wayback.cecm.sfu.ca/~ada26/cyclotomic/>
+  
 ### 2010
 
 * **Secure Computation With Fixed-Point Numbers** (Catrina et al.; 2010) [[Paper]](https://faui1-files.cs.fau.de/filepool/publications/octavian_securescm/secfp-fc10.pdf)
@@ -247,7 +272,7 @@
 
 ### 2016
 
-* **Introduction to CKKS (a.k.a. Approximate Homomorphic Encryption) ** (Yongsoo Song; Private AI Bootcamp; Microsoft Research, Dec 02, 2016) [[Paper]](https://yongsoosong.github.io/files/slides/intro_to_CKKS.pdf)
+* **Introduction to CKKS (a.k.a. Approximate Homomorphic Encryption)** (Yongsoo Song; Private AI Bootcamp; Microsoft Research, Dec 02, 2016) [[Paper]](https://yongsoosong.github.io/files/slides/intro_to_CKKS.pdf)
   * [Yongsoo Song's blog](https://yongsoosong.github.io)
     
 ### 2015
@@ -258,6 +283,7 @@
 ### 2012
 
 * **Hard Lattice Problems** (Weget, Kand olkata et al.; 2012) [[PDF]](https://icerm.brown.edu/materials/Slides/VI_MSS_12/A_survey_of_hard_lattice_problems_and_their_connections_%5D_Benne_de_Weger,_Technisch_Universiteit_Eindhoevn.pdf) 
+
 ### 2007
 * **Lattice Problems** （Micciancio et al.; TCC 2007 Special Event) [[PDF]](https://www.iacr.org/workshops/tcc2007/Micciancio.pdf)
 
