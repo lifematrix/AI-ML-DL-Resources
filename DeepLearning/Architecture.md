@@ -29,6 +29,10 @@
 
 * **How to decay your learning rate** （Lewkowycz et al.; 2021) [[Paper]](https://arxiv.org/pdf/2103.12682.pdf)
 
+* [SEER: The start of a more powerful, flexible, and accessible era for computer vision](https://ai.facebook.com/blog/seer-the-start-of-a-more-powerful-flexible-and-accessible-era-for-computer-vision/) by Facebook
+  * [Code](https://vissl.ai)
+
+* **Perceiver: General Perception with Iterative Attention** (Jaegle et al.; ICML 2021; DeepMind) [[Paper]](https://arxiv.org/pdf/2103.03206.pdf)
 
 
 ### 2020
@@ -124,3 +128,5 @@
 * [Why Relu? Tips for using Relu. Comparison between Relu, Leaky Relu, and Relu-6](https://medium.com/@chinesh4/why-relu-tips-for-using-relu-comparison-between-relu-leaky-relu-and-relu-6-969359e48310)
 
 * [Batch Normalization, Instance Normalization, Layer Normalization: Structural Nuances](https://becominghuman.ai/all-about-normalization-6ea79e70894b)
+
+* [Interpreting your deep learning model by SHAP](https://towardsdatascience.com/interpreting-your-deep-learning-model-by-shap-e69be2b47893)

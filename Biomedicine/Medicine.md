@@ -1,10 +1,17 @@
 
 
+## Tumor
+
+### 2021
+
+* **The Federated Tumor Segmentation (FeTS) Challenge** (Pati et al.; 2021) [[Paper]](https://arxiv.org/pdf/2105.05874.pdf)
 ## General
 
 ### 2019
 
 * **Transfusion: Understanding Transfer Learning for Medical Imaging** (Raghu et al.; NIPS 2019) [[Paper]](https://arxiv.org/pdf/1902.07208.pdf)
+
+
 ## Medical Image Generation
 
 ### 2021

@@ -15,12 +15,14 @@
   * [Project URL](https://yuval-alaluf.github.io/SAM/)
     
 * **StyleFusion: A Generative Model for Disentangling Spatial Segments** （Kafri et al.; 2021) [[Paper]](https://arxiv.org/pdf/2107.07437.pdf)
+
+* **StyleSwin: Transformer-based GAN for High-resolution Image Generation** (Zhang et al.; 2021) [[Paper]](https://arxiv.org/pdf/2112.10762.pdf)
     
 ### 2020
 
 * **Deep Learning Approach To Face Conditioning Using Invertible Conditional Generative Adversarial Networks (ICGAN)** (Srivastav et al; IJIRCST 2020) [[Paper]](https://www.ijircst.org/DOC/24-deep-learning-approach-to-face-conditioning-using-invertible-conditional-generative-adversarial-networks-(icgan).pdf)
 
-* **Closed-Form Factorization of Latent Semantics in GANs** (Shen et al.; 2020)  [[Papper]](https://arxiv.org/pdf/2007.06600.pdf)
+* **Closed-Form Factorization of Latent Semantics in GANs** (Shen et al.; 2020)  [[Paper]](https://arxiv.org/pdf/2007.06600.pdf)
   * [project website](https://genforce.github.io/sefa/)
 
 * **Analyzing and Improving the Image Quality of StyleGAN** (Karras et al. 2020; CVPR 2020; StyleGAN2) [[Paper]](https://arxiv.org/pdf/1912.04958.pdf)

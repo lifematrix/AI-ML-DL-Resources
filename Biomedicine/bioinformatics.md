@@ -8,6 +8,8 @@
 
 * **Highly accurate protein structure prediction for the human proteome** (Tunyasuvunakool et al.; Nature 2021) [[Paper]](https://www.nature.com/articles/s41586-021-03828-1)
 
+* **De novo protein design by deep network hallucination** (Anishchenko et al.; Nature 2021; Baker Lab) [[Paper]](https://www.bakerlab.org/wp-content/uploads/2022/01/Anishchenko_etal_Nature2021_DeepNetworkHallucination.pdf)
+
 ### 2008
     
 * **Basic Local Alignment Search Tool (BLAST)** (Ingrid Lobo; Nature Education 2008) [[Paper]](http://csc.columbusstate.edu/carroll/7840/private/papers/BasicLocalAlignmentSearchTool-BLAST.pdf)
