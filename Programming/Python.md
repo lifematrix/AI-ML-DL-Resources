@@ -1,5 +1,9 @@
 
 
+## Installation
+
+* [Installing Python Packages from a Jupyter Notebook](https://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/)
+
 ## Memory
 
 * [How to Profile Memory Usage in Python](https://www.pluralsight.com/blog/tutorials/how-to-profile-memory-usage-in-python)

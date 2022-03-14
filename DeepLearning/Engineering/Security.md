@@ -37,6 +37,14 @@ GPUs** (Badawi et al.; 2020) [[Paper]](https://eprint.iacr.org/2018/1056.pdf)
 
 * [Linkage Attack](https://www.privitar.com/glossary/linkage-attack/)
 
+* [Yes, privacy is worth the effort. Here's why](https://blog.openmined.org/internal-incentives-for-privacy/)
+
+* [Federated Learning for Healthcare Using NVIDIA Clara](https://developer.download.nvidia.com/CLARA/Federated-Learning-Training-for-Healthcare-Using-NVIDIA-Clara.pdf)
+
+### Abort privacy
+
+* [Is there a Difference Between Confidentiality and Privacy?](https://www.findlaw.com/criminal/criminal-rights/is-there-a-difference-between-confidentiality-and-privacy.html)
+
 
 ### Enclave
 

@@ -36,6 +36,8 @@
   
 * **RLWE/PLWE equivalence for cyclotomic extensions and subextensions** (Iva ́n Blanco Chaco ́n; 2021) [[Paper]](http://www.recsi2020.udl.cat/static/site/files/Blanco-XVI-RECSI.pdf)
 
+* **End-to-end privacy preserving deep learning on multi-institutional medical imaging** (Kaissis et al; 2021 Nature machine learning) [[Paper]](https://www.nature.com/articles/s42256-021-00337-8.pdf)
+
 ### 2020 
 
 
@@ -71,6 +73,8 @@
 * **Encrypted Cloud using GPUs** (Zheng et al.; Master theris of KU Leuven. 2020) [[Theis]](https://www.esat.kuleuven.be/cosic/publications/thesis-394.pdf)
 
 * **CPU and GPU Accelerated Fully Homomorphic Encryption** (Morshed et al.; IEEE HOST'20) [[Paper]](https://arxiv.org/pdf/2005.01945.pdf) [[Code]](https://github.com/toufique-morshed/CPU-GPU-TFHE)
+
+* **pyFHE - A Python Library for Fully Homomorphic Encryption** (Saroja Erabelli et al. 2020; MIT) [[Paper]](https://dspace.mit.edu/bitstream/handle/1721.1/129204/1227275316-MIT.pdf?sequence=1&isAllowed=y)
 
 ### 2019
 
