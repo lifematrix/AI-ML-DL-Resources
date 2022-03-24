@@ -34,6 +34,9 @@
 
 * **Perceiver: General Perception with Iterative Attention** (Jaegle et al.; ICML 2021; DeepMind) [[Paper]](https://arxiv.org/pdf/2103.03206.pdf)
 
+* **YOLOX: Exceeding YOLO Series in 2021** (Zheng Ge et al.; Megvii Technology; 2021) [[Paper]](https://arxiv.org/pdf/2107.08430.pdf)
+
+
 
 ### 2020
 
@@ -58,6 +61,8 @@
 * **Swin Transformer: Hierarchical Vision Transformer using Shifted Windows** (Liu et al.; 2020; FAIR) [[Paper]](https://arxiv.org/pdf/2103.14030.pdf)
   * [Official code](https://github.com/microsoft/Swin-Transformer) on pytorch
   * [Tensorflow implementation](https://github.com/rishigami/Swin-Transformer-TF)
+  
+* **YOLOv4: Optimal Speed and Accuracy of Object Detection** (Bochkovskiy et al.; 2020) [[Paper]](https://arxiv.org/pdf/2004.10934.pdf)
   
 ### 2019
 
@@ -94,6 +99,8 @@
   
 * **A guide to convolution arithmetic for deep learning** (Dumoulin et al. 2018) [[Paper]](https://arxiv.org/pdf/1603.07285.pdf)
 
+* **YOLOv3: An Incremental Improvement** (Redmon et al.) [[Paper]](https://arxiv.org/pdf/1804.02767.pdf)
+
 
 ### 2017
 
@@ -111,12 +118,16 @@
 
 * **Understanding Convolutional Neural Networks** (Kousik et al.; NIPS 2016) [[Paper]](https://arxiv.org/pdf/1605.09081.pdf)
 
+* **YOLO9000: Better, Faster, Stronger** (Redmon et al.; 2016) [[Paper]](https://arxiv.org/pdf/1612.08242.pdf)
+
 
 ### 2015
 
 * **Deep Residual Learning for Image Recognition** (He et al. Cited by 71k) [[Paper]](https://arxiv.org/pdf/1512.03385.pdf)
 
 * **Conditional Convolutional Neural Network for Modality-aware Face Recognition** (Xiong et al.; ICCV 2015) [[Paper]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Xiong_Conditional_Convolutional_Neural_ICCV_2015_paper.pdf)
+
+* **You Only Look Once: Unified, Real-Time Object Detection** （Redmon et al.; 2015) [[Paper]](https://arxiv.org/pdf/1506.02640.pdf)
 
 
 ### 2010

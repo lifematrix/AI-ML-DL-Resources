@@ -76,6 +76,8 @@
 
 * **pyFHE - A Python Library for Fully Homomorphic Encryption** (Saroja Erabelli et al. 2020; MIT) [[Paper]](https://dspace.mit.edu/bitstream/handle/1721.1/129204/1227275316-MIT.pdf?sequence=1&isAllowed=y)
 
+* **Ariann: Low-interaction privacy-preserving deep learning via function secret sharing** (Ryffel et al.; Proceedings on Privacy Enhancing Technologies 2022) [[Paper]](https://sciendo.com/pdf/10.2478/popets-2022-0015)
+
 ### 2019
 
 * **nGraph-HE2: A High-Throughput Framework for Neural Network Inference on Encrypted Data** (Boemer et al.; WAHC 2019) [[Paper]](https://arxiv.org/pdf/1908.04172.pdf)
@@ -116,7 +118,9 @@
 
 * **Improved Bootstrapping for Approximate Homomorphic Encryption** (Chen et al.; 2018) [[Paper]](https://eprint.iacr.org/2018/1043.pdf)
 
-* **Faster CryptoNets: Leveraging Sparsity for Real-World Encrypted Inference** (Chou et al.; 2018) [[Paper]](https://arxiv.org/pdf/1811.09953.pdf)
+* **Faster CryptoNets: Leveraging Sparsity for Real-World Encrypted Inference** (Chou et al.; 2018; Li feifei's group in Standford university) [[Paper]](https://arxiv.org/pdf/1811.09953.pdf)
+
+* **Differential Privacy: A Primer for a Non-technical Audience** (Nissim et al.; 2016) [[Paper]](https://privacytools.seas.harvard.edu/files/privacytools/files/pedagogical-document-dp_new.pdf)
 
 ### 2017
 
@@ -125,6 +129,8 @@
 * **Benchmark of Deep Learning Models on Large Healthcare MIMIC Datasets** （Purushotham et al.; 2019) [[Paper]](https://arxiv.org/pdf/1710.08531.pdf)
 
 * **The Chinese Remainder Theorem** (Kyle Miller; 2017) [[Paper]](https://math.berkeley.edu/~kmill/math55sp17/crt.pdf)
+
+* **CryptoDL: Deep Neural Networks over Encrypted Data** (Hesamifard et al.) [[Paper]](https://arxiv.org/pdf/1711.05189.pdf)
 
 ### 2016
 
@@ -141,6 +147,12 @@
 * **Fixed Point Arithmetic in SHE Scheme** (Costache et al.; 2016) [[Paer]](https://eprint.iacr.org/2016/250.pdf)
 
 * **Homomorphic Encryption for Arithmetic of Approximate Numbers** (Cheon et al.; 2016) [[Paper]](https://eprint.iacr.org/2016/421.pdf) 
+
+* **Deep Learning with Differential Privacy** (Adadi et al.; CCS 2016) [[Paper]](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45428.pdf)
+
+* **Function secret sharing: Improvements and extensions** (Boyle et al.; ACM 2016) [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2976749.2978429)
+
+* **Calibrating Noise to Sensitivity in Private Data Analysis** （Dwork et al.; 2016) [[Paper]](https://link.springer.com/content/pdf/10.1007/11681878_14.pdf)
 
 ### 2015
 
@@ -172,6 +184,8 @@
 * **Fully homomorphic SIMD operations** (NP Smart et al.; 2014) [[Paper]](https://eprint.iacr.org/2011/133.pdf)
 
 * **Algorithms in HElib** (Shoup et al.; 2014) [[Paper]](https://eprint.iacr.org/2014/106.pdf)
+
+* **RAPPOR: Randomized Aggregatable Privacy-Preserving Ordinal Response** (Erlingsson et al.; Google 2014) [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2660267.2660348)
 
 
 ### 2013
@@ -235,6 +249,12 @@
 * [陈智罡博士的博客](http://zhigang-chen.gitee.io)
   * [近似全同态加密货币的安全性措施](https://0xzx.com/2020122408161033929.html)
 
+
+### Differential Privacy
+
+* [Differential Privacy Blog Series](https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering/collaboration-space/focus-areas/de-id/dp-blog) by NIST
+  * [Differential Privacy for Privacy-Preserving Data Analysis: An Introduction to our Blog Series](https://www.nist.gov/blogs/cybersecurity-insights/differential-privacy-privacy-preserving-data-analysis-introduction-our)
+  * [Threat Models for Differential Privacy](https://www.nist.gov/blogs/cybersecurity-insights/threat-models-differential-privacy)
 
 ## Books
 
