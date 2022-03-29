@@ -78,6 +78,8 @@
 
 * **Ariann: Low-interaction privacy-preserving deep learning via function secret sharing** (Ryffel et al.; Proceedings on Privacy Enhancing Technologies 2022) [[Paper]](https://sciendo.com/pdf/10.2478/popets-2022-0015)
 
+* **Minimax Approximation of Sign Function by Composite Polynomial for Homomorphic Comparison** (Lee et al.;) [[Paper]](https://eprint.iacr.org/2020/834.pdf)
+
 ### 2019
 
 * **nGraph-HE2: A High-Throughput Framework for Neural Network Inference on Encrypted Data** (Boemer et al.; WAHC 2019) [[Paper]](https://arxiv.org/pdf/1908.04172.pdf)

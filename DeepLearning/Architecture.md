@@ -36,7 +36,7 @@
 
 * **YOLOX: Exceeding YOLO Series in 2021** (Zheng Ge et al.; Megvii Technology; 2021) [[Paper]](https://arxiv.org/pdf/2107.08430.pdf)
 
-
+* **Activation Functions in Artificial Neural Networks: A Systematic Overview** (Lederer et al.; 2021) [[Paper]](https://arxiv.org/pdf/2101.09957.pdf)
 
 ### 2020
 
@@ -87,7 +87,7 @@
 
 * **Visualizing the Loss Landscape of Neural Nets** （Li et al. NIPS 2018) [[Paper]](https://papers.nips.cc/paper/2018/file/a41b3bb3e6b050b6c9067c67f663b915-Paper.pdf)
 
-* **Gaussian Error Linear Units** (Hendrycks et al.; 2018; GELUs) [[Paper]](https://arxiv.org/pdf/1606.08415v3.pdf)
+* **Gaussian Error Linear Units** (Hendrycks et al.; 2018; GELUs) [[Paper]](https://arxiv.org/pdf/1606.08415v3.pdf) [[Paper]](https://arxiv.org/pdf/1606.08415.pdf)
   * Article: [GELU activation](https://medium.com/@shoray.goel/gelu-gaussian-error-linear-unit-4ec59fb2e47c)
   * Related to Approximation of Gassuian error function:
     * **High Accurate Simple Approximation of Normal Distribution Integral** (Vazquez-Leal et al. 2012) [[URL]](https://www.hindawi.com/journals/mpe/2012/124029)
@@ -109,6 +109,8 @@
 * **Zoneout: Regularizing RNNs by Randomly Preserving Hidden Activations** (Krueger et al.; ICLR 2017) [[Paper]](https://arxiv.org/pdf/1606.01305.pdf)
 
 * **MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications** (Howard et al.; 2017) [[Paper]](https://arxiv.org/pdf/1704.04861.pdf)
+
+* **Searching for Activation Functions** (Ramachandran et al.; Swish activation function) [[Paper]](https://arxiv.org/pdf/1710.05941.pdf)
 
 ### 2016
 
@@ -133,6 +135,8 @@
 ### 2010
 
 * **Understanding the difficulty of training deep feedforward neural networks** (Glorot et al.; PMLR 2010; Cited by 11k) [[Paper]](http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf)
+
+* **Incorporating second-order functional knowledge for better option pricing** （Dugas et al.; NIPS 2000) [[Paper]](https://proceedings.neurips.cc/paper/2000/file/44968aece94f667e4095002d140b5896-Paper.pdf)
 
 ## Articles
 

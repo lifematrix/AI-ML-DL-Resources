@@ -24,6 +24,8 @@
     * [pytorch-yolo-v1](https://github.com/zzzheng/pytorch-yolo-v1) by zheng
 
 
+* **Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks** (Ren et al.; NIPS 2015) [[Paper on arXiv]](https://arxiv.org/pdf/1506.01497.pdf) [[Paper on NIPS]](https://papers.nips.cc/paper/2015/file/14bfa6bb14875e45bba028a21ed38046-Paper.pdf)
+ 
 
 
 ## Articles
