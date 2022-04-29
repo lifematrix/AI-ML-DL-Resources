@@ -37,6 +37,15 @@
 
 * **Privacy-preserving Federated Brain Tumour Segmentation** (Li et al.; IMCCAI MLMI 2019) [[Paper]](https://arxiv.org/pdf/1910.00962.pdf)
 
+* **Identification of Anonymous MRI Research Participants with Face-Recognition Software** (Schwarz et al.; NEJM 2019) [[Paper]](https://www.nejm.org/doi/pdf/10.1056/NEJMc1908881)
+
+* **Multi-Institutional Deep Learning Modeling Without Sharing Patient Data: A Feasibility Study on Brain Tumor Segmentation** (Sheller et al.; Brainlesion 2019) [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6589345/pdf/nihms-1036193.pdf)
+
+### 2018
+
+* **Distributed deep learning networks among institutions for medical imaging** (Chang et al.; JAMIA 2018) [[HTML]](https://academic.oup.com/jamia/article/25/8/945/4956468)
+
+* **Federated Learning with Non-IID Data** (Zhao et al. 2018) [[Paper]](https://arxiv.org/pdf/1806.00582.pdf)
 
 ### 2017
 
@@ -44,9 +53,10 @@
 
 * **Federated Learning: Strategies for Improving Communication Efficiency** (Konecˇny ́ et al.; cited by 2k; 2017; **▲▲**) [[Paper]](https://arxiv.org/pdf/1610.05492.pdf)
 
-### 2016
+* **Communication-efficient learning of deep networks from decentralized data** (McMahan et al.; PMLR 2017) [[Paper]](http://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf)
+  * or **Communication-Efficient Learning of Deep Networks from Decentralized Data** (McMahan et al.; AISTATS 2017) [[Paper]](https://arxiv.org/pdf/1602.05629.pdf)
 
-* **Communication-Efficient Learning of Deep Networks from Decentralized Data** (McMahan et al.; AISTATS 2017) [[Paper]](https://arxiv.org/pdf/1602.05629.pdf)
+* **Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning** (Hitaj; ACM SIGSAC 2017 ) [[Paper]](https://arxiv.org/pdf/1702.07464.pdf)
 
 
 

@@ -38,6 +38,8 @@
 
 * **Activation Functions in Artificial Neural Networks: A Systematic Overview** (Lederer et al.; 2021) [[Paper]](https://arxiv.org/pdf/2101.09957.pdf)
 
+* **The Principles of Deep Learning Theory - An Effective Theory Approach to Understanding Neural Networks** (Roberts et al.; 2021) [[Book]](https://arxiv.org/pdf/2106.10165.pdf)
+
 ### 2020
 
 * **Meta pseudo labels** (Pham et al.; 2020) [[Paper]](https://arxiv.org/pdf/2003.10580.pdf)
@@ -74,6 +76,10 @@
 
 * **Searching for MobileNetV3** (Howard et al.; ICCV 2019) [[Paper]](https://arxiv.org/pdf/1905.02244.pdf)
 
+* **Computing Receptive Fields of Convolutional Neural Networks** (Araujo et al.; Distill 2019) [[Paper]](https://distill.pub/2019/computing-receptive-fields/)
+
+* **Explaining Explanations: An Overview of Interpretability of Machine Learning** (Gilpin et al.; DASS 2018) [[Paper]]()
+
 
 ### 2018
 
@@ -100,6 +106,8 @@
 * **A guide to convolution arithmetic for deep learning** (Dumoulin et al. 2018) [[Paper]](https://arxiv.org/pdf/1603.07285.pdf)
 
 * **YOLOv3: An Incremental Improvement** (Redmon et al.) [[Paper]](https://arxiv.org/pdf/1804.02767.pdf)
+
+* **Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV).** (Kim et al.; PMLR 2018) [[Paper]](http://proceedings.mlr.press/v80/kim18d/kim18d.pdf)
 
 
 ### 2017
@@ -132,6 +140,9 @@
 * **You Only Look Once: Unified, Real-Time Object Detection** （Redmon et al.; 2015) [[Paper]](https://arxiv.org/pdf/1506.02640.pdf)
 
 
+### 2014
+
+* **How transferable are features in deep neural networks?** (Yosinski et al. NIPS 2014) [[Paper]](https://arxiv.org/pdf/1411.1792.pdf)
 ### 2010
 
 * **Understanding the difficulty of training deep feedforward neural networks** (Glorot et al.; PMLR 2010; Cited by 11k) [[Paper]](http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf)
@@ -145,3 +156,9 @@
 * [Batch Normalization, Instance Normalization, Layer Normalization: Structural Nuances](https://becominghuman.ai/all-about-normalization-6ea79e70894b)
 
 * [Interpreting your deep learning model by SHAP](https://towardsdatascience.com/interpreting-your-deep-learning-model-by-shap-e69be2b47893)
+
+* [Computing Receptive Fields of Convolutional Neural Networks](https://distill.pub/2019/computing-receptive-fields/)
+
+## Books
+
+* [Dive into Deep Learning](https://d2l.ai)

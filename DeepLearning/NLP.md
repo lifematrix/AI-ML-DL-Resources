@@ -1,6 +1,9 @@
 
 ## Papers 
 
+### 2021
+
+* **PaLM: Scaling Language Modeling with Pathways** (Chowdhery et al.) [[Paper]](https://arxiv.org/pdf/2204.02311.pdf)
 ### 2020
 
 * **A Survey on Contextual Embeddings** (Liu et al.) [[Paper]](https://arxiv.org/pdf/2003.07278.pdf)

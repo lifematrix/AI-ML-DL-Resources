@@ -1,5 +1,10 @@
 
 
+## General
+
+### 2022
+
+* **An introduction to inverse probability of treatment weighting in observational research** （Chesnaye1 et al.; Clinical Kidney Journal, 2022) [[Paper]](https://academic.oup.com/ckj/article/15/1/14/6358134)
 ## Tumor
 
 ### 2021
@@ -85,6 +90,8 @@
    * K&I Algorithm **Maximum likelihood signal processing techniques to detect a step pattern of change in multitemporal SAR images** 
 
 * **Clinically applicable deep learning for diagnosis and referral in retinal disease** (Fauw et al.; DeepMind; Nature Medicine 2018) [[Paper for viewing]](https://www.nature.com/articles/s41591-018-0107-6.epdf?author_access_token=PAbvHEuv_YYmrPVbG5HqKdRgN0jAjWel9jnR3ZoTv0P43NEH20hFuvBoJk6cvICihn8kmL6tmejFlnuPlbT_0KmJgK6N07SPh_ZLy0Nxb0-LAGIDBaH1fjJTkD9ahUEQpRlEudtlG9E1v3ca9xNQcQ%3D%3D) [[PDF]](https://kstatic.googleusercontent.com/files/2cfa1b4c63fcbabb838f8f1cab0bf45fd24686ec04d8af69284df9eaa66f4217be38d9888bd536c3b626a2de6663d811bd0949f15fffc9cfd953af946b59a929)
+
+* **Deep Learning based Early Detection and Grading of Diabetic Retinopathy Using Retinal Fundus Images** (Islam et al.; MIND 2019) [[Paper]](https://arxiv.org/pdf/1812.10595.pdf)
 
 #### 2017
 
@@ -214,3 +221,7 @@
 ### Repositories
 
 * [Medical Image Generation](https://paperswithcode.com/task/medical-image-generation)
+
+## Medical Knowledges
+
+* [International Statistical Classification of Diseases and Related Health Problems (ICD)](https://www.who.int/standards/classifications/classification-of-diseases)

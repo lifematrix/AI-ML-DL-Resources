@@ -11,11 +11,13 @@
 ### 2020
 
 * **Momentum Contrast for Unsupervised Visual Representation Learning** (He et al.; FAIR) [[Paper]](https://arxiv.org/pdf/1911.05722.pdf)
-  * 【official code](https://github.com/facebookresearch/moco) on github
+  * [official code](https://github.com/facebookresearch/moco) on github
 
 * **A Simple Framework for Contrastive Learning of Visual Representations** (Chen et al.)  [[Paper]](https://arxiv.org/pdf/2002.05709.pdf)
   * [Video](https://www.youtube.com/watch?v=FdiWTvtsd1E) by Geeffrey Hinton
   * Slide: [Intriguing Properties of Contrastive Losses](https://docs.google.com/presentation/d/1nnXuqFGED-8BemqNeatbd15IIsz2naRMoQsTuTzLYqw/edit#slide=id.g9014b3ab8b_0_10)
+  * **Articles**
+    * [The Illustrated SimCLR Framework](https://amitness.com/2020/03/illustrated-simclr/)
 
   
 

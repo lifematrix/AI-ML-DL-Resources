@@ -38,6 +38,10 @@
 
 * **End-to-end privacy preserving deep learning on multi-institutional medical imaging** (Kaissis et al; 2021 Nature machine learning) [[Paper]](https://www.nature.com/articles/s42256-021-00337-8.pdf)
 
+* **Privacy Preservation in Online Social Networks Using Multiple-Graph-Properties-Based Clustering to Ensure k-Anonymity, l-Diversity, and t-Closeness** （Gangarde et al.; 2021) 
+  
+* **secureTF: A Secure TensorFlow Framework** (Quoc et al.; ACM/IFIP Middleware 2021) [[Paper]](https://arxiv.org/pdf/2101.08204.pdf)
+
 ### 2020 
 
 
@@ -67,7 +71,7 @@
 
 * **Fully Homomorphic Encryption Scheme Based on Decomposition Ring** (Arita et al.; IEICE 2020) [[Paper]](https://www.jstage.jst.go.jp/article/transfun/E103.A/1/E103.A_2019CIP0027/_pdf/-char/en)
 
-* **Cryptotree : fast and accurate predictions on encrypted structured data** (Huynh Daniel; 2020) [[Paper]](https://arxiv.org/pdf/2006.08299.pdf)
+* **Cryptotree: fast and accurate predictions on encrypted structured data** (Huynh Daniel; 2020) [[Paper]](https://arxiv.org/pdf/2006.08299.pdf)
   * The author's another similar paper**Homomorphic Random Forest**
 
 * **Encrypted Cloud using GPUs** (Zheng et al.; Master theris of KU Leuven. 2020) [[Theis]](https://www.esat.kuleuven.be/cosic/publications/thesis-394.pdf)
@@ -79,6 +83,7 @@
 * **Ariann: Low-interaction privacy-preserving deep learning via function secret sharing** (Ryffel et al.; Proceedings on Privacy Enhancing Technologies 2022) [[Paper]](https://sciendo.com/pdf/10.2478/popets-2022-0015)
 
 * **Minimax Approximation of Sign Function by Composite Polynomial for Homomorphic Comparison** (Lee et al.;) [[Paper]](https://eprint.iacr.org/2020/834.pdf)
+
 
 ### 2019
 
@@ -148,7 +153,7 @@
 
 * **Fixed Point Arithmetic in SHE Scheme** (Costache et al.; 2016) [[Paer]](https://eprint.iacr.org/2016/250.pdf)
 
-* **Homomorphic Encryption for Arithmetic of Approximate Numbers** (Cheon et al.; 2016) [[Paper]](https://eprint.iacr.org/2016/421.pdf) 
+* **Homomorphic Encryption for Arithmetic of Approximate Numbers** (Cheon et al.; 2016; CKKS Scheme) [[Paper]](https://eprint.iacr.org/2016/421.pdf) 
 
 * **Deep Learning with Differential Privacy** (Adadi et al.; CCS 2016) [[Paper]](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45428.pdf)
 
@@ -177,6 +182,8 @@
 
 * **Lattice Based Cryptography for Beginners** (Chi et al.; 2015) [[Paper]](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.733.6768&rep=rep1&type=pdf)
 
+* **Privacy-Preserving Deep Learning** (Reza Shokri and Vitaly Shmatikov; ACM SIGSAC 2015) [[Paper]](https://www.cs.cornell.edu/~shmat/shmat_ccs15.pdf)
+
 ### 2014
 
 * **Book: The Algorithmic Foundations of Differential Privacy** (Dwork et al.;) [[PDF]](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)
@@ -188,6 +195,8 @@
 * **Algorithms in HElib** (Shoup et al.; 2014) [[Paper]](https://eprint.iacr.org/2014/106.pdf)
 
 * **RAPPOR: Randomized Aggregatable Privacy-Preserving Ordinal Response** (Erlingsson et al.; Google 2014) [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2660267.2660348)
+
+* **Differential Privacy: An Economic Method for Choosing Epsilon** (Hsu et al.; 2014) [[Paper]](https://arxiv.org/pdf/1402.3329.pdf)
 
 
 ### 2013
@@ -201,6 +210,9 @@
 * **ML Confidential: Machine Learning on Encrypted Data** (Graepel et al.; Microsoft Research 2012) [[Paper]](https://eprint.iacr.org/2012/323.pdf)
 
 * **Packed Ciphertexts in LWE-based Homomorphic Encryption** (Brakerski et al.; 2012) [[Paper]](https://eprint.iacr.org/2012/565.pdf)
+  
+* **Somewhat Practical Fully Homomorphic Encryption** (Fan et al.; 2012; BFV Scheme) [[Paper]](https://eprint.iacr.org/2012/144.pdf)
+  * *It is explaination about relinearization*
 
 ### 2011
 
@@ -219,15 +231,24 @@
 
 * **On lattices, learning with errors, random linear codes, and cryptography** (Regev et al.; 2009) [[Paper]](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.215.3543&rep=rep1&type=pdf)
 
-### 2007
+### 2008 
 
-* **Somewhat Practical Fully Homomorphic Encryption** (Fan et al.; 2007) [[Paper]](https://eprint.iacr.org/2012/144.pdf)
-  * *It is explaination about relinearization*
+* **Robust De-anonymization of Large Datasets (How to Break Anonymity of the Netflix Prize Dataset)** (Arvind Narayanan and Vitaly Shmatikov；2008） [[Paper]](https://arxiv.org/pdf/cs/0610105.pdf)
+
 
 ### 2006
 
 * **Uniform approximation of sgn x by polynomials and entire functions** （Eremennko et al.; 2006) [[Paper]](https://arxiv.org/pdf/math/0604324.pdf)
 
+### 2000
+
+* **Privacy, Secrecy, AND Security** (Thompson et al.) [[Paper]](https://www.cerias.purdue.edu/assets/pdf/bibtex_archive/2000-18.pdf)
+
+### 1997
+
+* **Weaving technology and policy together to maintain confidentiality** （Latanya Sweeney; 1997) [[Paper]](http://latanyasweeney.org/JLME.pdf)
+  * [The author's publications](http://latanyasweeney.org/cv.html#publications)
+  
 ### 1982
 
 * **Protocols for secure computations** (Yao A C.; sfcs 1982) [[Paper]](https://crysp.uwaterloo.ca/courses/pet/W11/cache/www.cs.wisc.edu/areas/sec/yao1982-ocr.pdf)
@@ -257,6 +278,15 @@
 * [Differential Privacy Blog Series](https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering/collaboration-space/focus-areas/de-id/dp-blog) by NIST
   * [Differential Privacy for Privacy-Preserving Data Analysis: An Introduction to our Blog Series](https://www.nist.gov/blogs/cybersecurity-insights/differential-privacy-privacy-preserving-data-analysis-introduction-our)
   * [Threat Models for Differential Privacy](https://www.nist.gov/blogs/cybersecurity-insights/threat-models-differential-privacy)
+  
+
+* [The difference between corporate privacy and secrecy](https://ideas.ted.com/the-difference-between-corporate-privacy-and-secrecy/)
+
+* [NetFlix Cancels Recommendation Contest After Privacy Lawsuit](https://www.wired.com/2010/03/netflix-cancels-contest/)
+
+* **Learning with Privacy at Scale** by Differential Privacy Team, Apple  [[PDF]](https://docs-assets.developer.apple.com/ml-research/papers/learning-with-privacy-at-scale.pdf)
+
+* [Laplace Mechanism](https://en.wikipedia.org/wiki/Additive_noise_mechanisms)
 
 ## Books
 
