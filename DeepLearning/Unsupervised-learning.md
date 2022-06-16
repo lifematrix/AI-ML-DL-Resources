@@ -26,6 +26,9 @@
 
 
 * **A Simple Framework for Contrastive Learning of Visual Representations** (Chen et al.; PMLR 2020) [[Paper]](https://arxiv.org/pdf/2002.05709.pdf)
+  * **Articles**
+    * [Contrastive Representation Learning](https://lilianweng.github.io/posts/2021-05-31-contrastive/) on Lil'Log
+    * [Exploring SimCLR: A Simple Framework for Contrastive Learning of Visual Representations](https://sthalles.github.io/simple-self-supervised-learning/)
 ### 2019
 
 * **Self-Supervised Learning of Pretext-Invariant Representations** （Misra et al.; 2019) [[Paper]](https://arxiv.org/pdf/1912.01991.pdf)

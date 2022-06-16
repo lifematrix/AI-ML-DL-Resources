@@ -43,6 +43,9 @@
 * **Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation** (Girshick et al.; CVPR 2014) [[Paper]](https://openaccess.thecvf.com/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf)
 
 * **Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks** (Ren et al.; NIPS 2015) [[Paper on arXiv]](https://arxiv.org/pdf/1506.01497.pdf) [[Paper on NIPS]](https://papers.nips.cc/paper/2015/file/14bfa6bb14875e45bba028a21ed38046-Paper.pdf)
+  * **Articles**
+    * [Faster R-CNN Explained for Object Detection Tasks](https://blog.paperspace.com/faster-r-cnn-explained-object-detection/)
+    * [Object Detection for Dummies Part 3: R-CNN Family](https://lilianweng.github.io/posts/2017-12-31-object-recognition-part-3/) by [Lilian Weng](https://lilianweng.github.io)
   * **Implementations**
     * [FacebookResearch Detectron](https://github.com/facebookresearch/Detectron)
     * [Tensorflow 1.x Implementation](https://github.com/endernewton/tf-faster-rcnn)

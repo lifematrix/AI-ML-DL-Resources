@@ -2,6 +2,9 @@
 
 ## Papers
 
+### 2022
+
+* **Self-Supervised Learning of Graph Neural Networks: A Unified Review** (Xie et al.; 2022) [[Paper]](https://arxiv.org/pdf/2102.10757.pdf)
 ### 2021
 
 * **Characterizing signal propagation to close the performance gap in unnormalized resnets** (Brock et al.; ICLR 2021) [[Paper]](https://arxiv.org/pdf/2101.08692.pdf)
@@ -80,7 +83,6 @@
 
 * **Explaining Explanations: An Overview of Interpretability of Machine Learning** (Gilpin et al.; DASS 2018) [[Paper]]()
 
-
 ### 2018
 
 * **Exploring the limits of weakly supervised pretraining** (Mahajan, He, et al; ECCV 2018) [[Paper]](https://arxiv.org/pdf/1805.00932.pdf)
@@ -120,6 +122,8 @@
 
 * **Searching for Activation Functions** (Ramachandran et al.; Swish activation function) [[Paper]](https://arxiv.org/pdf/1710.05941.pdf)
 
+* **Large Batch Training of Convolutional Networks** (You et al.; 2017) [[Technical Report]](https://arxiv.org/pdf/1708.03888.pdf)
+
 ### 2016
 
 * **Identity Mappings in Deep Residual Networks** (He et al.; ECCV 2016 camera-read) [[Paper]](https://arxiv.org/pdf/1603.05027.pdf)
@@ -139,6 +143,8 @@
 
 * **You Only Look Once: Unified, Real-Time Object Detection** （Redmon et al.; 2015) [[Paper]](https://arxiv.org/pdf/1506.02640.pdf)
 
+* **Spatial Transformer Networks** (Jaderberg et al.; Google DeepMind; 2015) [[Paper]](
+
 
 ### 2014
 
@@ -149,6 +155,14 @@
 
 * **Incorporating second-order functional knowledge for better option pricing** （Dugas et al.; NIPS 2000) [[Paper]](https://proceedings.neurips.cc/paper/2000/file/44968aece94f667e4095002d140b5896-Paper.pdf)
 
+* **Stacked Denoising Autoencoders: Learning Useful Representations in a Deep Network with a Local Denoising Criterion** (Vincent et al.; JMLR 2010) [[Paper]](https://www.jmlr.org/papers/volume11/vincent10a/vincent10a.pdf)
+
+### 2006
+
+* **Reducing the Dimensionality of Data with Neural Networks** (Hinton et al.; Science 2006) [[Paper]](https://asset-pdf.scinapse.io/prod/2100495367/2100495367.pdf)
+### 1991
+
+* **Approximation capabilities of multilayer feedforward networks** (Hornik et al.; Neural Networks 1991) [[Paper]](http://www.vision.jhu.edu/teaching/learning/deeplearning18/assets/Hornik-91.pdf)
 ## Articles
 
 * [Why Relu? Tips for using Relu. Comparison between Relu, Leaky Relu, and Relu-6](https://medium.com/@chinesh4/why-relu-tips-for-using-relu-comparison-between-relu-leaky-relu-and-relu-6-969359e48310)

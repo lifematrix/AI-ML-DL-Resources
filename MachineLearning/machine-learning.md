@@ -1,5 +1,40 @@
 
 
+## Clustering
+
+
+### 2021
+
+* **Multidimensional analysis of excitonic spectra of monolayers of tungsten disulphide: toward computer-aided identification of structural and environmental perturbations of 2D materials** (Kolesnichenko et al.; Mach. Learn.: Sci. Technol 2021) [[Paper]](https://iopscience.iop.org/article/10.1088/2632-2153/abd87c/pdf)
+### 2019
+* **DM2C: Deep Mixed-Modal Clustering** (Jiang et al.; NIPS 2019) [[Paper]](https://proceedings.neurips.cc/paper/2019/file/6a4d5952d4c018a1c1af9fa590a10dda-Paper.pdf)
+* **Clustering Approach in Wireless Sensor Networks Based on K-means: limitations and Recommendations** （Hassan et al.; IJRTE 2019) [[Paper]](https://www.ijrte.org/wp-content/uploads/papers/v7i6s5/F10200476S519.pdf)
+  
+### 2018
+
+* **Scalable and Effective Deep CCA via Soft Decorrelation** (Chang et al.; CVPR 2018) [[Paper]](https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1124.pdf)
+
+### 2017
+* **Clustering Techniques and the Similarity Measures used in Clustering: A Survey** (Irani et al.; 2017) [[Paper]](https://www.ijcaonline.org/research/volume134/number7/irani-2016-ijca-907841.pdf)
+
+### 2016
+* **Unsupervised Deep Embedding for Clustering Analysis** (Xie et al.; 2016) [[Paper]](https://arxiv.org/pdf/1511.06335.pdf)
+
+### 2014
+
+* **A Method to Find Optimum Number of Clusters Based on Fuzzy Silhouette on Dynamic Data Set** (Subbalakshmi et al.; ICICT 2014) [[Paper]](https://www.sciencedirect.com/science/article/pii/S1877050915000940)
+
+### 1986
+
+* **Silhouettes: a graphical aid to the interpretation and validation of cluster analysis** (Rousseeuw et al.; ournal of Computational and Applied Mathematics 1987) [[Paper]](https://www.sciencedirect.com/science/article/pii/0377042787901257)
+
+### Books
+
+* **Data clustering: algorithms and applications** by Charu C. Aggarwal and Chandan K. Reddy   [[PDF]](http://charuaggarwal.net/clusterbook.pdf)
+
+### Articles
+
+* [K-Mean: Getting The Optimal Number Of Clusters](https://www.analyticsvidhya.com/blog/2021/05/k-mean-getting-the-optimal-number-of-clusters/)
 ## Learning Theory
 
 ### Manifold Hypothesis

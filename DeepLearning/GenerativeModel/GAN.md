@@ -211,6 +211,7 @@
 * [Generative Models](https://openai.com/blog/generative-models/) by OpenAI
 
 * [A deep generative model trifecta: Three advances that work towards harnessing large-scale power](https://www.microsoft.com/en-us/research/blog/a-deep-generative-model-trifecta-three-advances-that-work-towards-harnessing-large-scale-power/) by Microsoft research
+
 ### Metrics of GAN
 
 * [GAN — How to measure GAN performance?](https://medium.com/@jonathan_hui/gan-how-to-measure-gan-performance-64b988c47732) by Jonathan Hui
@@ -226,6 +227,10 @@
 
 * [Autoregressive Models](http://cs236.stanford.edu/assets/slides/cs236_lecture3.pdf) bny Stefano Ermon and Aditya Grover in Stanford University
 
+
+### VAE
+
+* [From Autoencoder to Beta-VAE](https://lilianweng.github.io/posts/2018-08-12-vae/) by Lilian Wang
 
 ## Code 
 
