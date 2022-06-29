@@ -5,6 +5,10 @@
 ### 2022
 
 * **An introduction to inverse probability of treatment weighting in observational research** （Chesnaye1 et al.; Clinical Kidney Journal, 2022) [[Paper]](https://academic.oup.com/ckj/article/15/1/14/6358134)
+
+* **Perspectives of Patients About Artificial Intelligence in Health Care** （Khullar et al.; JAMA Network Open 2022) [[Paper]](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2791851)
+
+* **Evaluating AI-Enabled Clinical Decision and Diagnostic Support Tools Using Real-World Data** (Zusterzeel et al.; Duke 2022) [[Paper]](https://healthpolicy.duke.edu/publications/evaluating-ai-enabled-clinical-decision-and-diagnostic-support-tools-using-real-world)
 ## Tumor
 
 ### 2021

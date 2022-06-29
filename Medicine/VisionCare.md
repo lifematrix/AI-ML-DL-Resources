@@ -5,6 +5,10 @@
 
 * **Prediction of Refractive Error Based on Ultrawide Field Images With Deep Learning Models in Myopia Patients** （Yang et al.; frontiers in Medicine 2022) [[Paper]](https://www.frontiersin.org/articles/10.3389/fmed.2022.834281/full)
 
+* **Normative data and percentile curves for axial length and axial length/corneal curvature in Chinese children and adolescents aged 4–18 years** (He et al.; Clinical Science 2022) [[Paper]](https://bjo.bmj.com/content/bjophthalmol/early/2021/11/09/bjophthalmol-2021-319431.full.pdf)
+
+* **Refractive errors in a large dataset of French children: the ANJO study** (Rébecca Guillon‐Rolf et al.; Scientific Reports 2022) [[Paper]](https://www.nature.com/articles/s41598-022-08149-5.pdf)
+
 ### 2021
 
 * **Development of deep learning-based detecting systems for pathologic myopia using retinal fundus images** (Lu et al.; Nature communications biology 2021) [[Paper]](https://www.nature.com/articles/s42003-021-02758-y.pdf)
@@ -12,6 +16,10 @@
 * **Retinal photograph-based deep learning algorithms for myopia and a blockchain platform to facilitate artificial intelligence medical research: a retrospective multicohort study** (Tan et al.; Lancet Digital Health 2021) [[Paper]](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(21)00055-8/fulltext)
 
 * **Artificial Intelligence in Ophthalmology** (Springer 2021) [[BOOK]](https://www.researchgate.net/profile/Jose-Luis-110/publication/355208128_Artificial_Intelligence_for_Keratoconus_Detection_and_Refractive_Surgery_Screening/links/619e7dcc3068c54fa51ae51e/Artificial-Intelligence-for-Keratoconus-Detection-and-Refractive-Surgery-Screening.pdf)
+
+* **Application of big-data for epidemiological studies of refractive error** (Moore et al.; PLOS ONE 2021) [[Paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0250468)
+
+* **Comparison of Low Degree/High Degree and Zernike Expansions for Evaluating Simulation Outcomes After Customized Aspheric Laser Corrections** (Gatinel et al.; tvst 2021) [[Paper]](https://tvst.arvojournals.org/article.aspx?articleid=2772421) [[PDF]](https://watermark.silverchair.com/i2164-2591-10-3-21_1616491186.52158.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAm4wggJqBgkqhkiG9w0BBwagggJbMIICVwIBADCCAlAGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMHZBKtRFPTpygD-xzAgEQgIICIe0bK8noPM9DzSQv1GxQ4TN649DAp8U6yJfyRnihQ24eYst4S5GXhb85mcluTEEfkNZ4BII_OHAROHyoOoQXPivu8QfjydPr0EyUoOX_rT71AdRNoySEqX6B0PgQImamqw-DSAFyymbmpOmivDVoSvj-_g6qJ1kPk4KZVzqDp1EkDUb2bDsll_fjaaZcxv0AqNZxIcC4ga1NqgnMmwta1xLm52XGhRbP_WGzyYiUhU4ZmlamSGRBS4KP-uu7b_dWUBtLhAjiZl6kk0uc6EZs7WhVKjNTPMIlMM6K0AAC6dI3QT9KqSpPPj1PTkuoxIS9N6ZXZIBxd_5TdNLJc5PwkwuT0DVxN2GKBO7N1NzC75-y62IaBp8RoKGpFCbWN_o5XNaPLWv0_m3_Ms06lqRg7E1U8jE9CEWxhaP_OqzXmgGY3ORDcdGH0ERg0OflvHgXeDfQ5TCmbGMphtQd0261gl9L35nfUm6Lbj5d_rLvWHtJ_QdUhcmgbx8ipioEIxBKGRsH1T3K4ETnDwcizPlvYtgvmtSp6W8q7NUbq8a2UdKG4x4EFSeAhBfCH5t8bbsiuf8LlVjAPnWJEF4XcyPv23h5gNXIcykHbKM7tTa8aiHnCUCGGkvo-uoq01oVuFNQIJy9AGFz2LkXatEagpDdGK7wKYZVRtQRTEn3Z-kMWd15qDmqkxMrD4ZBBzpoY86Vfx587JD70zoPer6AuBshbm7k)
 
 ### 2020
 
@@ -31,6 +39,11 @@
 
 * **Updates on Myopia - A Clinical Perspective** (Ang Marcus) [[Book]](https://link.springer.com/content/pdf/10.1007/978-981-13-8491-2.pdf) [[Web]](https://link.springer.com/chapter/10.1007/978-981-13-8491-2_4)
   * Chapter 4: Understanding Myopia: Pathogenesis and Mechanisms
+  
+* **Using Artificial Intelligence and Novel Polynomials to Predict Subjective Refraction** (Rampat et al.; Scientific Report 2020) [[paper]](https://www.nature.com/articles/s41598-020-65417-y.pdf?proof=t%3B)
+
+* **Higher-Order Aberrations and Axial Elongation in Myopic Children Treated With Orthokeratology** （Lau et al.; iovs 2020) [[Paper]](https://iovs.arvojournals.org/article.aspx?articleid=2761681)
+
 
 ### 2019
 
@@ -71,12 +84,41 @@
 
 * **Inverse probability weighting** （Mansournia et al.; BMJ(British Medical Journal) 2016) [[Paper]](https://web.archive.org/web/20190502084711id_/https://www.bmj.com/content/bmj/352/bmj.i189.full.pdf)
 
+### 2015
+
+* **Dynamics of the near response under natural viewing conditions with an open-view sensor** (Chirre et al.; 2015) [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4605075/pdf/4200.pdf)
 ### 2012
 
 * **Global Prevalence and Major Risk Factors of Diabetic Retinopathy** (Yau et al.; Diabetes Care 2012.) [[PDF]](https://watermark.silverchair.com/556.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAq0wggKpBgkqhkiG9w0BBwagggKaMIIClgIBADCCAo8GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMXyMaEhUqvAIEmrfoAgEQgIICYEqhbso6SGvV18QfuxfaQ9EL6Mkef7I1CDwsAUlKfTN6udY7dEBZ4OqqwyWIxLGUT0oB5dh2sA5GLwY3nF65ICjt49lVpZosoz1i5Pxqx8yKQeOGJIjNv4pmSlqdgbCrD1FsBEgWTiUaFI6qq6R4VlyZwJIZThcyACIRIpGmg9zBbTvqIvMstMTzaC1JE8_Pp7B-JYzShayr0HagkRLIEMu8s_nPEcVK2xApQDY9YVpMzA3ULSsBaD2e9oFNTQtIdXY3P_bqVRCDfQ5FRaHNRoiEtG_JLAE0aHeQPhawzv8T536-kBoysQ8ai-l872GNJzJDX6-K0KA5sbAs0Rn8-JYU5r1AG7dZUhfwKbZu8yhlaPx5o53qUlv3fculqql_Tj58PYjp_44lTtFtdvPyVLOs6lQr_1x-O9_nZEMAcsEA1pp-kOFuZ3jIrMjBZJ3yXlQf2WSV5J74Omt9_N4bRQiGDHoCZfqiOKoBMzBtxSc8W6DcpvIa9OLTn1zOGRlaG8vQmn1LVrS8ZXaZvbZ7jX6SuZ8sqLn7lhkT8uNCS-qlAKzhCPqcyFqKYvlMF5w1i7f1XOkvhH0BaEmM_dbP9IwY7KkqoMPNLbPKkq2a6_Z9x_y8fdpp1i49LAO4JYDtjn1rMr7OAsQuCEG_N94mb95jiHqpbsfsglxaivwOXmItBd6stMstOJb_X-0eVbllo3XeGZQuz1nAGbMMcPDzYHg1JV4PGVWm3I6ZUxa3Aw6VRuK7Q1XGMKcJ66b9HEZ8D4GYQ40rfjqFAOmIhXQFQx4IDz4PfriCIKmmkzlg7m86)
 
 * **Meibography: A review of techniques and technologies** (Wise et al.; Saudi Journal of Ophthalmology 2012) [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3729652/)
 
+### 2011
+
+* **Latitudinal variation in light levels drives human visual system size** (Eiluned Pearce and Robin Dunbar; Biology Letters 2011) [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3259958/pdf/rsbl20110570.pdf)
+
+### 2010
+
+* **Study of the wavefront aberrations in children with amblyopia** (Zhao et al.; Chinese Medical Journal 2010) [[Paper]](https://journals.lww.com/cmj/Fulltext/2010/06010/Study_of_the_wavefront_aberrations_in_children.15.aspx)
+### 2007
+
+* **Handbook of Visual Optics, Volume 1/2 - Fundamentals and Eye Optics** (Edited by Pablo Artal) [[Book]](https://vdoc.pub/download-file/handbook-of-visual-optics-volume-one-fundamentals-and-eye-optics-3issapv9fkj0?hash=1b8164464c3c5234fd75bb339db9d947)
+* **Handbook of Visual Optics, Volume 2/2 - Instrumentation and Vision Correction** (Edited by Pablo Artal) [[Book]](https://vdoc.pub/download-file/handbook-of-visual-optics-volume-two-instrumentation-and-vision-correction-8qdeco8hlm80?hash=8d6d83f55fe6f877485ed4e108f0585b)
+
+### 2005
+
+* **Development of Spherical Equivalent Refraction in Prematurely Born Children During the First 10 Years of Life A Population-Based Study** (Holmström; JAMA OpenAccess 2005) [[Paper]](https://jamanetwork.com/journals/jamaophthalmology/fullarticle/417295)
 ### 1999
 
 * **Improvement of radiologists’ characterization of mammographic masses by using computer-aided diagnosis: an ROC study.** (Chan et al.; Radiology 1999) [[Paper]](https://www.researchgate.net/profile/Heang-Ping-Chan/publication/12822364_Improvement_of_Radiologists'_Characterization_of_Mammographic_Masses_by_Using_Computer-aided_Diagnosis_An_ROC_Study1/links/5bb76a23299bf1049b6feccf/Improvement-of-Radiologists-Characterization-of-Mammographic-Masses-by-Using-Computer-aided-Diagnosis-An-ROC-Study1.pdf)
+
+
+## Slides
+
+* [The Far Point and Refractive Error | Basic Optics, Chapter 5](https://www.aao.org/Assets/8e7ff7d8-de38-412a-8165-6c5f7b11e432/637151349567070000/bo5-pdf?inline=1)
+
+* [Phys 102 – Lecture 20 | The eye & corrective lenses](https://courses.engr.illinois.edu/phys102/su2019/handouts/handout20.pdfk)
+
+* [Optometer](https://wp.optics.arizona.edu/visualopticslab/wp-content/uploads/sites/52/2016/08/Class08_08.pdf)
+
+
