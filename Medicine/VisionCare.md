@@ -65,6 +65,8 @@
 
 * **Comparing low-cost handheld autorefractors: A practical approach to measuring refraction in low-resource settings** (Agarwal et al.; PLoS One 2019) [[Papere]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6794120/)
 
+* **Quality of eyeglass prescriptions from a low-cost wavefront autorefractor evaluated in rural India: results of a 708-participant field study** (Durr et al.; BMJ Open Ophthalmology 2019) [[Paper]](https://bmjophth.bmj.com/content/bmjophth/4/1/e000225.full.pdf)
+
 ### 2018
 
 * **Identifying Medical Diagnoses and Treatable Diseases by Image-Based Deep Learning** (Kermany et al.; 张康; Cell 2018) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0092867418301545)
@@ -100,6 +102,11 @@
 ### 2010
 
 * **Study of the wavefront aberrations in children with amblyopia** (Zhao et al.; Chinese Medical Journal 2010) [[Paper]](https://journals.lww.com/cmj/Fulltext/2010/06010/Study_of_the_wavefront_aberrations_in_children.15.aspx)
+
+### 2009
+
+* **Wavefront Sensor For Eye Aberrations Measurements** by Costin Curatu [[Doctoral Dissertation]](https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=4970&context=etd)
+
 ### 2007
 
 * **Handbook of Visual Optics, Volume 1/2 - Fundamentals and Eye Optics** (Edited by Pablo Artal) [[Book]](https://vdoc.pub/download-file/handbook-of-visual-optics-volume-one-fundamentals-and-eye-optics-3issapv9fkj0?hash=1b8164464c3c5234fd75bb339db9d947)

@@ -2,6 +2,9 @@
 
 ## Papers
 
+### 2022 
+
+* **Self-Supervised Representation Learning: Introduction, Advances and Challenges** (Ericsson et al.; ) [[Paper]](https://arxiv.org/pdf/2110.09327.pdf)
 ### 2021
 
 * **Barlow Twins: Self-Supervised Learning via Redundancy Reduction** (Zbontar et al.; ICML 2021) [[Paper]](https://arxiv.org/pdf/2103.03230.pdf)
@@ -24,6 +27,9 @@
     * [The Illustrated SimCLR Framework](https://amitness.com/2020/03/illustrated-simclr/)
     * [Contrastive Representation Learning](https://lilianweng.github.io/posts/2021-05-31-contrastive/) on Lil'Log
     * [Exploring SimCLR: A Simple Framework for Contrastive Learning of Visual Representations](https://sthalles.github.io/simple-self-supervised-learning/)
+  
+
+* **A Survey on Contrastive Self-Supervised Learning** （Jaiswal et al.; MDPI 2020) [[Paper]](https://mdpi-res.com/d_attachment/technologies/technologies-09-00002/article_deploy/technologies-09-00002-v2.pdf?version=1609258206)
     
 ### 2019
 
@@ -33,11 +39,16 @@
 
 * **Do Better ImageNet Models Transfer Better?** (Kornblith et al.; CVPR 2019 oral) [[Paper]](https://arxiv.org/pdf/1805.08974.pdf)
 
+* **Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey** (Longlong et al.; IEEE PAMI 2021) [[Paper]](https://arxiv.org/pdf/1902.06162)
+
 ### 2018
 
 * **Unsupervised Feature Learning via Non-Parametric Instance-level Discrimination** (Wu et al.; CVPR 2018) [[Paper]](https://arxiv.org/pdf/1805.01978.pdf)
   * [Official code](https://github.com/zhirongw/lemniscate.pytorch)
 
+### 2014
+
+* **Discriminative Unsupervised Feature Learning with Convolutional Neural Networks** (Dosovitskiy et al.; NIPS 2014) [[Paper]](https://proceedings.neurips.cc/paper/2014/file/07563a3fe3bbe7e3ba84431ad9d055af-Paper.pdf)
 ### 2006
 
 * **Dimensionality Reduction by Learning an Invariant Mapping** (Hadsell et al.; CVPR 2006; Cited by 26K) [[Paper]](https://d1wqtxts1xzle7.cloudfront.net/56222713/cvpr06-with-cover-page-v2.pdf?Expires=1624509107&Signature=BX0Ro84vMf8kUR-JzZcommKXgfNaXc1E5FgOcr6hDSiGzA5vMF1lbF7nzJEPxR9NfPT3cwzlx24zEFlB8wqdWDGCipIyZqLNwso5e1lQqi9d07aKW5F8LJ9xXIHbS51hS2ZaKccZMVBXArrL5O--QPFjeWvbkf~u3mtzYFdrADZ1ypXFilwzwwDp95JCVCnp1yglUYYyb0cGV2PalGeT-zJdDBcyFd1nTAoXHT-4UNxfHafcFXjAveNI~iOINHMRxWei6x~ERfNRoIyxdgXyRfN1AdqWJT-KjT~4VZ5lDMzQWT6CxHwnpYf7jbmW5nCYpvPs6hxc1olDGADvrulTJA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
