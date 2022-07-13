@@ -173,6 +173,7 @@
 
 * [Computing Receptive Fields of Convolutional Neural Networks](https://distill.pub/2019/computing-receptive-fields/)
 
+* [Some Loss Functions and Their Intuitive Explanations](https://jdhao.github.io/2017/03/13/some_loss_and_explanations/)
 ## Books
 
 * [Dive into Deep Learning](https://d2l.ai)

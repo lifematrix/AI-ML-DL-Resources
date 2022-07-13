@@ -41,6 +41,8 @@
 
 * **Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey** (Longlong et al.; IEEE PAMI 2021) [[Paper]](https://arxiv.org/pdf/1902.06162)
 
+* **Representation Learning with Contrastive Predictive Coding** (Oord et al.; DeepMind 2019) [[Paper]](https://arxiv.org/pdf/1807.03748.pdf)
+
 ### 2018
 
 * **Unsupervised Feature Learning via Non-Parametric Instance-level Discrimination** (Wu et al.; CVPR 2018) [[Paper]](https://arxiv.org/pdf/1805.01978.pdf)
@@ -58,6 +60,7 @@
 
 * [Self-supervised learning and computer vision](https://www.fast.ai/2020/01/13/self_supervised/) by Jeremy Howard
 * [Contrastive Representation Learning](https://lilianweng.github.io/posts/2021-05-31-contrastive/) by Lilian Weng
+* [A Gentle Introduction to Noise Contrastive Estimation](https://www.kdnuggets.com/2019/07/introduction-noise-contrastive-estimation.html)
 
 ## Code 
 * [Lightly: a computer vision framework for self-supervised learning](https://github.com/lightly-ai/lightly)
