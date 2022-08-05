@@ -9,6 +9,8 @@
 
 * **Refractive errors in a large dataset of French children: the ANJO study** (Rébecca Guillon‐Rolf et al.; Scientific Reports 2022) [[Paper]](https://www.nature.com/articles/s41598-022-08149-5.pdf)
 
+* **Deep learning-based classification of retinal vascular diseases using ultra- widefield colour fundus photographs** (Abitbol et al.; BMJ Open Ophthalmology 2022) [[HTML]](https://bmjophth.bmj.com/content/7/1/e000924)
+
 ### 2021
 
 * **Development of deep learning-based detecting systems for pathologic myopia using retinal fundus images** (Lu et al.; Nature communications biology 2021) [[Paper]](https://www.nature.com/articles/s42003-021-02758-y.pdf)
@@ -20,6 +22,10 @@
 * **Application of big-data for epidemiological studies of refractive error** (Moore et al.; PLOS ONE 2021) [[Paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0250468)
 
 * **Comparison of Low Degree/High Degree and Zernike Expansions for Evaluating Simulation Outcomes After Customized Aspheric Laser Corrections** (Gatinel et al.; tvst 2021) [[Paper]](https://tvst.arvojournals.org/article.aspx?articleid=2772421) [[PDF]](https://watermark.silverchair.com/i2164-2591-10-3-21_1616491186.52158.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAm4wggJqBgkqhkiG9w0BBwagggJbMIICVwIBADCCAlAGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMHZBKtRFPTpygD-xzAgEQgIICIe0bK8noPM9DzSQv1GxQ4TN649DAp8U6yJfyRnihQ24eYst4S5GXhb85mcluTEEfkNZ4BII_OHAROHyoOoQXPivu8QfjydPr0EyUoOX_rT71AdRNoySEqX6B0PgQImamqw-DSAFyymbmpOmivDVoSvj-_g6qJ1kPk4KZVzqDp1EkDUb2bDsll_fjaaZcxv0AqNZxIcC4ga1NqgnMmwta1xLm52XGhRbP_WGzyYiUhU4ZmlamSGRBS4KP-uu7b_dWUBtLhAjiZl6kk0uc6EZs7WhVKjNTPMIlMM6K0AAC6dI3QT9KqSpPPj1PTkuoxIS9N6ZXZIBxd_5TdNLJc5PwkwuT0DVxN2GKBO7N1NzC75-y62IaBp8RoKGpFCbWN_o5XNaPLWv0_m3_Ms06lqRg7E1U8jE9CEWxhaP_OqzXmgGY3ORDcdGH0ERg0OflvHgXeDfQ5TCmbGMphtQd0261gl9L35nfUm6Lbj5d_rLvWHtJ_QdUhcmgbx8ipioEIxBKGRsH1T3K4ETnDwcizPlvYtgvmtSp6W8q7NUbq8a2UdKG4x4EFSeAhBfCH5t8bbsiuf8LlVjAPnWJEF4XcyPv23h5gNXIcykHbKM7tTa8aiHnCUCGGkvo-uoq01oVuFNQIJy9AGFz2LkXatEagpDdGK7wKYZVRtQRTEn3Z-kMWd15qDmqkxMrD4ZBBzpoY86Vfx587JD70zoPer6AuBshbm7k)
+
+* **Ultra-wide field retinal imaging: A wider clinical perspective** (Kumar et al.; 2021) [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8012972/pdf/IJO-69-824.pdf]]
+
+* **A global review of publicly available datasets for ophthalmological imaging: barriers to access, usability, and generalisability** (Khan et al.; Lancet Digit Health 2021) [[Paper]](https://www.thelancet.com/pdfs/journals/landig/PIIS2589-7500(20)30240-5.pdf)
 
 ### 2020
 
@@ -67,6 +73,8 @@
 
 * **Quality of eyeglass prescriptions from a low-cost wavefront autorefractor evaluated in rural India: results of a 708-participant field study** (Durr et al.; BMJ Open Ophthalmology 2019) [[Paper]](https://bmjophth.bmj.com/content/bmjophth/4/1/e000225.full.pdf)
 
+* **Two-Stream CNN with Loose Pair Training for Multi-modal AMD Categorization**  (Wang et al.; MMICCAI 2019) [[Paper]](https://arxiv.org/pdf/1907.12023.pdf)
+
 ### 2018
 
 * **Identifying Medical Diagnoses and Treatable Diseases by Image-Based Deep Learning** (Kermany et al.; 张康; Cell 2018) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0092867418301545)
@@ -78,6 +86,8 @@
 * **Deep learning for predicting refractive error from retinal fundus images** (Varadarajan et al.; Google Research; Investigative Ophthalmology & Visual Science 2018) [[Paper]](https://arxiv.org/pdf/1712.07798.pdf)
 
 * **A Review of Current Concepts of the Etiology and Treatment of Myopia** (Cooper et al.; Eye & Contact Lens 2018) [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6023584/pdf/ecl-44-231.pdf)
+
+* **Optical coherence tomography: A guide to interpretation of common macular diseases** (Bhendel, et al.; January 2018) [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5778576/pdf/IJO-66-20.pdf)
 
 ### 2017
 
@@ -120,6 +130,9 @@
 
 * **Development of Spherical Equivalent Refraction in Prematurely Born Children During the First 10 Years of Life A Population-Based Study** (Holmström; JAMA OpenAccess 2005) [[Paper]](https://jamanetwork.com/journals/jamaophthalmology/fullarticle/417295)
 
+### 2003
+
+* **Optical coherence tomography—principles and applications** (Fercher et al.; 2003) [[Paper]](http://light.ece.illinois.edu/ECE280/OCT_review.pdf)
 ### 1999
 
 * **Improvement of radiologists’ characterization of mammographic masses by using computer-aided diagnosis: an ROC study.** (Chan et al.; Radiology 1999) [[Paper]](https://www.researchgate.net/profile/Heang-Ping-Chan/publication/12822364_Improvement_of_Radiologists'_Characterization_of_Mammographic_Masses_by_Using_Computer-aided_Diagnosis_An_ROC_Study1/links/5bb76a23299bf1049b6feccf/Improvement-of-Radiologists-Characterization-of-Mammographic-Masses-by-Using-Computer-aided-Diagnosis-An-ROC-Study1.pdf)
